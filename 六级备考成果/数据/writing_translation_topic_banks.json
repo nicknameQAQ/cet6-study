@@ -1,0 +1,224 @@
+{
+  "writing": {
+    "教育学习": "academic learning|学业学习\nsocial practice|社会实践\nindependent learning|自主学习\nbasic knowledge|基础知识\nknowledge of the basics|基础知识\nmaster an academic subject|掌握一门学科\nlearning ability|学习能力\nlearning strategies|学习策略\nlifelong learning|终身学习\ncritical thinking|批判性思维\nrational choices|理性选择\nteam spirit|团队精神\npersonal development|个人发展\nhigher education|高等教育\nself-confidence|自信\nindependence|独立性\nexplore on their own|自主探索\napply knowledge|运用知识\npractical skills|实用技能\nacademic pursuit|学业追求\neducational resources|教育资源\nprofessional knowledge|专业知识",
+    "科技数字生活": "digital literacy|数字素养\ndigital skills|数字技能\ninformation technology|信息技术\nsocial media|社交媒体\nartificial intelligence|人工智能\nhuman creativity|人类创造力\ndigital gap|数字鸿沟\nfalse information|虚假信息\nfake news|假新闻\nreliable sources|可靠来源\ninformation explosion|信息爆炸\nresponsibly|负责任地\nprivacy|隐私\nmisinformation|错误信息\nverify information|核实信息\nonline courses|在线课程\nlearning resources|学习资源\naccess information|获取信息\nbridge the digital divide|弥合数字鸿沟\nuse technology wisely|明智地使用技术\nprotect personal information|保护个人信息\nindependent judgment|独立判断",
+    "职业发展": "competitive world|竞争激烈的世界\njob applications|求职申请\nfuture career|未来职业\ncareer development|职业发展\nprofessional skills|专业技能\npractical experience|实践经验\ncommunication skills|沟通技能\nproblem-solving|解决问题\nteamwork|团队合作\nprofessional knowledge|专业知识\njob market|就业市场\ninternship|实习\ncompetitiveness|竞争力\nadaptability|适应能力\nconfront challenges|面对挑战\ncope with challenges|应对挑战\nprepare themselves|做好准备\nlearning new skills|学习新技能\npositive attitude|积极心态\nset realistic goals|设定切实可行的目标\nseize opportunities|抓住机会\ncontinuous learning|持续学习",
+    "社会与个人": "self-discipline|自律\npersonal growth|个人成长\nsense of responsibility|责任感\nrealistic goals|现实可行的目标\npersistently|坚持不懈地\nperseverance|毅力\nself-worth|自我价值\ndecision-making|决策\nchoices|选择\nstar chasing|追星\nidols|偶像\ntime management|时间管理\nself-control|自我控制\nhelp the needy|帮助有需要的人\nvolunteer work|志愿服务\ntake responsibility|承担责任\nmake rational choices|作出理性选择\novercome difficulties|克服困难\nserve others|服务他人\nachieve goals|实现目标\nturn ideas into action|把想法转化为行动\nkeep making efforts|持续努力",
+    "沟通合作": "mutual trust|互信\nopenness|开放坦诚\ncooperation|合作\nteam spirit|团队精神\nfriendly discussion|友好讨论\nreasonable argument|理性论证\ndiffering opinions|不同观点\nreach agreement|达成一致\nreal-world social interaction|现实中的社交互动\nface-to-face communication|面对面交流\nactive listening|积极倾听\nrespect others|尊重他人\ncommon goals|共同目标\nresolve conflicts|解决冲突\nbuild trust|建立信任\nshare ideas|分享想法\nteamwork|团队合作\ncollaboration|协作\nunderstand different perspectives|理解不同视角\nexpress opinions|表达观点",
+    "环境健康": "mental well-being|心理健康\nphysical health|身体健康\nmental health|心理健康\nappearance anxiety|容貌焦虑\nself-acceptance|自我接纳\ninner value|内在价值\nself-confidence|自信\nenvironmentally friendly|环保的\nlifestyle|生活方式\nurbanization|城市化\ncity residents|城市居民\nlove for nature|对自然的热爱\ngreen spaces|绿色空间\nreduce stress|减轻压力\naesthetic standards|审美标准\nwork-life balance|工作与生活的平衡\nprotect the environment|保护环境\nhealthy habits|健康习惯\nregular exercise|规律运动\nseek professional help|寻求专业帮助\nlow-carbon lifestyle|低碳生活方式\nconnect with nature|亲近自然",
+    "社会发展": "urbanization|城镇化\npoverty alleviation|扶贫\npoverty reduction|减贫\nthe Chinese Dream|中国梦\nself-worth|自我价值\nsocial development|社会发展\nliving standards|生活水平\nvaluable skills|宝贵技能\nexperience|经验\nelderly people|老年人\nmake contributions|作出贡献\neconomic growth|经济增长\npublic services|公共服务\nsocial progress|社会进步\nopportunities|机会\nrural areas|农村地区\nnational development|国家发展\ninnovation|创新\ninclusive development|包容性发展\nimprove people's lives|改善民生\nserve society|服务社会\npass on experience|传授经验",
+    "文化传承": "traditional Chinese culture|中国传统文化\ncultural confidence|文化自信\nglobalization|全球化\ncultural identity|文化认同\ntraditional festivals|传统节日\ncultural heritage|文化遗产\ntraditional values|传统价值观\ncultural exchanges|文化交流\nunderstanding|理解\ntraditions|传统\nwisdom|智慧\ncustoms|习俗\nrespect traditions|尊重传统\npreserve cultural heritage|保护文化遗产\npass down traditions|传承传统\nlearn about history|了解历史\nshare Chinese culture|传播中国文化\nbroaden one's horizons|开阔视野\ncombine tradition with innovation|将传统与创新结合\nstrengthen cultural identity|增强文化认同"
+  },
+  "translation": {
+    "科技创新与航天": "science and technology|科学技术\ntechnological achievement|科技成就\ninnovation|创新\nresearch and development|研发\nself-reliance|自力更生\nspace station|空间站\nspace laboratory|太空实验室\nastronaut|宇航员\nspacecraft|航天器\nsatellite|卫星\nnavigation system|导航系统\nBeidou|北斗\nTiangong Space Station|天宫空间站\nouter space|外太空\nscientific experiment|科学实验\nbreakthrough|突破\nstrategic emerging industry|战略性新兴产业\ndrone|无人机\nhigh-definition|高清的\ncivilian applications|民用应用\nartificial intelligence|人工智能\nintelligent assistant|智能助手\nreliable|可靠的\nindependently developed|自主研发的",
+    "医疗科技": "telemedicine|远程医疗\nhealthcare|医疗卫生\nmedical resources|医疗资源\npatients|患者\nmedical experts|医学专家\nremote areas|偏远地区\nconsultations|咨询\ntreatment plans|治疗方案\nartificial intelligence|人工智能\ndiagnostic systems|诊断系统\nearly symptoms|早期症状\ndiagnostic accuracy|诊断准确率\nelectronic health records|电子健康档案\nmedical history|病史\nonline medical consultation|线上医疗咨询\nhealth needs|健康需求\nidentify symptoms|识别症状\nformulate and implement|制定并实施\navoid repeated examinations|避免重复检查\nhigh-quality medical resources|优质医疗资源",
+    "数字经济与乡村发展": "e-commerce|电子商务\ndigital economy|数字经济\nrural revitalization|乡村振兴\nrural residents|农村居民\nagricultural products|农产品\nurban consumers|城市消费者\nlogistics network|物流网络\ne-commerce platforms|电子商务平台\nlive-streaming commerce|直播带货\nreal-time interaction|实时互动\ninformation barriers|信息壁垒\nsales channels|销售渠道\nincrease income|增加收入\nvitality|活力\nintegration|融合\nexpand sales channels|拓宽销售渠道\nsell directly to consumers|直接向消费者销售\nbreak down barriers|打破壁垒\nunprecedented vitality|前所未有的活力\npromote rural development|促进农村发展",
+    "养老与社会保障": "the elderly|老年人\nolder people|老年人\naging population|老龄人口\naging society|老龄化社会\npopulation aging|人口老龄化\nelderly care|养老\nsocial security|社会保障\ncommunity canteens|社区食堂\nhome-based care|居家养老\ncommunity-based care|社区养老\nnursing homes|养老院\ncare institutions|养老机构\npriority seats|优先座位\nrights and interests|权益\naffordable meals|价格实惠的饭菜\nfood delivery|送餐\npublic places|公共场所\nsocial consensus|社会共识\nrespecting the elderly|尊老\ncoverage|覆盖范围\nconvenient services|便利服务\nsocial harmony|社会和谐",
+    "传统文化与生活习俗": "traditional virtue|传统美德\nfrugality|节俭\ntraditional wedding customs|传统婚礼习俗\nwedding rituals|婚礼仪式\ncelebration|庆典\nSpring Festival couplets|春联\nhorizontal scroll|横批\ncalligraphy|书法\ncarving|雕刻\nseal|印章\nsymbol of power|权力的象征\nbamboo|竹子\nfan|扇子\ncraftsmanship|工艺\nworks of art|艺术品\nchopsticks|筷子\nwisdom|智慧\nconsumption|消费\nlow-carbon lifestyle|低碳生活方式\nrecycling|循环利用\na long history|悠久历史\npass down|传承\nappreciate|欣赏",
+    "中国文化传播": "cultural products|文化产品\nglobal market|全球市场\noverseas consumers|海外消费者\ncultural trade|文化贸易\nexports|出口\ncultural enterprises|文化企业\nbrands|品牌\npublications|出版物\nfilms and television|影视作品\nonline literature|网络文学\nanimation|动漫\nChinese elements|中国元素\nmarket share|市场份额\ninternational influence|国际影响力\nworldwide influence|世界影响力\nencourage and support|鼓励和支持\nexpand overseas markets|扩大海外市场\ngain popularity|受到欢迎\nrank among the top|位居前列\ncultural exchanges|文化交流",
+    "城市建设与公共服务": "urban development|城市发展\nliving environment|人居环境\nquality of life|生活品质\npublic facilities|公共设施\npublic spaces|公共场所\ngreen spaces|绿地\nparks|公园\nsquares|广场\nfitness equipment|健身器械\nfitness trails|健身步道\ninfrastructure|基础设施\nurban governance|城市治理\necological restoration|生态修复\nold residential communities|老旧小区\nlandscaping|园林绿化\nsafety hazards|安全隐患\nlivable|宜居的\nheadquarters|总部\narchitects|建筑师\nfloor area|建筑面积\ninnovative structure|创新结构\nconstruction materials|建筑材料\nsightseeing|观光\nmeet people's needs|满足人们的需求",
+    "交通工程与区域经济": "bridge|桥梁\nstone bridge|石桥\narch|拱\npillar|柱子\nspan|跨度\nrailway|铁路\nhighway|公路\ntransportation hub|交通枢纽\nconstruction|建设\nearthquake|地震\nflood|洪水\ndeep-water port|深水港\nshipping center|航运中心\ncontainer|集装箱\nGreater Bay Area|大湾区\ngeographical location|地理位置\nindustrial system|产业体系\nwater resources|水资源\nwater shortage|缺水\nSouth-to-North Water Diversion Project|南水北调工程\nregional economy|区域经济\neconomic development|经济发展\nfacilitate exchanges|便利交流\ntransport goods|运输货物",
+    "地理生态与旅游": "province|省份\nplateau|高原\nisland|岛屿\naverage altitude|平均海拔\narea|面积\nsquare kilometers|平方公里\npleasant climate|宜人气候\nbiodiversity|生物多样性\necological system|生态系统\nwildlife|野生动物\nmineral resources|矿产资源\nwater resources|水资源\nethnic minorities|少数民族\ncustoms|习俗\nreligions|宗教\ntourist destination|旅游目的地\ntourists|游客\nsustainable development|可持续发展\nsoil erosion|水土流失\ndesertification|沙漠化\ngrassland|草原\nforests|森林\nunique scenery|独特景色\nprotection|保护",
+    "历史人物与中外交流": "geographer|地理学家\nexplorer|探险家\nnavigator|航海家\nvoyage|航行\nfleet|船队\ndiplomacy|外交\nmilitary affairs|军事\ntrade relations|贸易关系\ndiplomatic missions|外交出使\nWestern Regions|西域\nCentral Plains|中原\nSilk Road|丝绸之路\nsilk fabrics|丝织品\ngeographical culture|地理文化\nunique species|特有物种\nhistorians|历史学家\nbrave hardships|不畏艰险\novercome difficulties|克服困难\nbroaden horizons|开阔视野\ncultural exchanges|文化交流\ntravel on foot|徒步旅行\nremote areas|偏远地区",
+    "革命历史与纪念场所": "revolution|革命\nrevolutionary history|革命历史\nrevolutionary base|革命根据地\nCommunist Party of China|中国共产党\nNational Congress|全国代表大会\nmemorial hall|纪念馆\nhistorical sites|历史遗址\npatriotic education|爱国主义教育\npatriotism|爱国主义\nrevolutionary martyrs|革命先烈\nliberation|解放\nRed Army|红军\nleadership|领导机构\nresolution|决议\nprogram|纲领\nrestore|修复\nopen to the public|向公众开放\ncommemorate|纪念\nmake contributions|作出贡献\nauthentic historical setting|真实的历史风貌"
+  },
+  "translation_themes": {
+    "2021-06-1": [
+      "地理生态与旅游",
+      "海南岛"
+    ],
+    "2021-06-2": [
+      "地理生态与旅游",
+      "青海省与青海湖"
+    ],
+    "2021-06-3": [
+      "地理生态与旅游",
+      "云南省"
+    ],
+    "2021-12-1": [
+      "革命历史与纪念场所",
+      "中共一大会址"
+    ],
+    "2021-12-2": [
+      "革命历史与纪念场所",
+      "井冈山"
+    ],
+    "2021-12-3": [
+      "革命历史与纪念场所",
+      "延安"
+    ],
+    "2022-06-1": [
+      "交通工程与区域经济",
+      "卢沟桥"
+    ],
+    "2022-06-2": [
+      "交通工程与区域经济",
+      "南京长江大桥"
+    ],
+    "2022-06-3": [
+      "交通工程与区域经济",
+      "赵州桥"
+    ],
+    "2022-09-1": [
+      "传统文化与生活习俗",
+      "贴春联"
+    ],
+    "2022-09-2": [
+      "传统文化与生活习俗",
+      "中国印章"
+    ],
+    "2022-09-3": [
+      "城市建设与公共服务",
+      "中央电视台总部大楼"
+    ],
+    "2022-12-1": [
+      "地理生态与旅游",
+      "青藏高原"
+    ],
+    "2022-12-2": [
+      "地理生态与旅游",
+      "黄土高原"
+    ],
+    "2022-12-3": [
+      "地理生态与旅游",
+      "云贵高原"
+    ],
+    "2023-03-1": [
+      "历史人物与中外交流",
+      "徐霞客"
+    ],
+    "2023-03-2": [
+      "历史人物与中外交流",
+      "郑和"
+    ],
+    "2023-03-3": [
+      "历史人物与中外交流",
+      "张骞"
+    ],
+    "2023-06-1": [
+      "中国文化传播",
+      "中国文化产品走向海外"
+    ],
+    "2023-06-2": [
+      "城市建设与公共服务",
+      "公共设施与休闲场所"
+    ],
+    "2023-06-3": [
+      "城市建设与公共服务",
+      "城市人居环境改善"
+    ],
+    "2023-12-1": [
+      "养老与社会保障",
+      "多元养老模式"
+    ],
+    "2023-12-2": [
+      "养老与社会保障",
+      "人口老龄化与社会保障"
+    ],
+    "2023-12-3": [
+      "养老与社会保障",
+      "养老服务体系"
+    ],
+    "2024-06-1": [
+      "传统文化与生活习俗",
+      "中国传统婚礼"
+    ],
+    "2024-06-2": [
+      "传统文化与生活习俗",
+      "竹子的利用与象征"
+    ],
+    "2024-06-3": [
+      "传统文化与生活习俗",
+      "中国扇子"
+    ],
+    "2024-12-1": [
+      "科技创新与航天",
+      "北斗卫星导航系统"
+    ],
+    "2024-12-2": [
+      "交通工程与区域经济",
+      "洋山港"
+    ],
+    "2024-12-3": [
+      "科技创新与航天",
+      "中国载人航天"
+    ],
+    "2025-06-1": [
+      "科技创新与航天",
+      "天宫空间站"
+    ],
+    "2025-06-2": [
+      "交通工程与区域经济",
+      "粤港澳大湾区"
+    ],
+    "2025-06-3": [
+      "交通工程与区域经济",
+      "南水北调工程"
+    ],
+    "2025-12-1": [
+      "养老与社会保障",
+      "尊老与敬老服务"
+    ],
+    "2025-12-2": [
+      "科技创新与航天",
+      "自强自立与科技发展"
+    ],
+    "2025-12-3": [
+      "传统文化与生活习俗",
+      "节俭与节约型社会"
+    ],
+    "2026-06-1": [
+      "医疗科技",
+      "远程医疗与数字化医疗"
+    ],
+    "2026-06-2": [
+      "数字经济与乡村发展",
+      "电子商务与乡村振兴"
+    ],
+    "2026-06-3": [
+      "科技创新与航天",
+      "无人机产业与应用"
+    ]
+  },
+  "prompt_translations": {
+    "2021-06-1": "描述图表，并评论中国在城镇化方面取得的成就。",
+    "2021-06-2": "描述图表，并评论中国在高等教育方面取得的成就。",
+    "2021-06-3": "描述图表，并评论中国在减贫方面取得的成就。",
+    "2021-12-1": "如今，追星在许多青少年中十分普遍。他们将流行明星视为偶像，模仿其说话方式和穿衣风格，并不惜花费大量金钱，寻求与偶像见面的机会。",
+    "2021-12-2": "中国有些父母过度保护孩子。他们为孩子规划一切、作出所有决定，并且担心孩子犯错或受伤，不允许孩子自主探索。",
+    "2021-12-3": "年轻人在互联网上花费大量时间。然而，他们有时无法识别网络虚假信息、判断网络信息来源的可靠性，或区分真实新闻与假新闻。",
+    "2022-06-1": "如今，越来越多的人选择环保的生活方式。",
+    "2022-06-2": "如今，越来越多的人不断学习新技能，以适应快速变化的世界。",
+    "2022-06-3": "如今，越来越多的人乐于帮助有需要的人。",
+    "2022-09-1": "如今，越来越多的学生逐渐意识到培养数字技能的重要性。",
+    "2022-09-2": "如今，越来越多的人开始认识到现实社交互动带来的愉悦和快乐。",
+    "2022-09-3": "现在，人们普遍认为，互信与开放是促进合作的关键。",
+    "2022-12-1": "随着信息技术在教育中的应用，大学生如今能够以更加多样化和高效的方式学习。",
+    "2022-12-2": "在信息爆炸的时代，培养批判性思维和作出理性选择的能力至关重要。",
+    "2022-12-3": "如今，培养大学生的团队精神越来越受到重视。",
+    "2023-03-1": "如今，人们越来越意识到容貌焦虑或过度在意外表的危害。",
+    "2023-03-2": "如今，人们越来越意识到，面对过多选择时作出决定所带来的挑战。",
+    "2023-03-3": "如今，人们越来越意识到数字鸿沟，也就是老年人在数字世界中面临的挑战。",
+    "2023-06-1": "如今，人们越来越意识到，心理健康应当得到与身体健康同等的关注。",
+    "2023-06-2": "面对不同意见时，我们应通过友好讨论和理性论证，努力达成共识。",
+    "2023-06-3": "人们普遍认为，教育的一个重要目标是帮助学生学会如何学习。",
+    "2023-12-1": "众所周知，扎实掌握基础知识，对学生掌握一门学科至关重要。",
+    "2023-12-2": "如今，家长越来越意识到，让孩子有更多自由去自主探索和学习，有助于培养其独立性并增强自信。",
+    "2023-12-3": "凭借宝贵的技能与经验，老年人仍能为社会作出重要贡献。",
+    "2024-06-1": "人们越来越意识到，数字素养和数字技能在当今世界的重要性。",
+    "2024-06-2": "如今，越来越多的大学生认识到，社会实践与学业学习同等重要。",
+    "2024-06-3": "如今，培养自主学习能力对于个人发展变得越来越重要。",
+    "2024-12-1": "为了提高成功的可能性，人们应设定切实可行的目标，并坚持不懈地努力实现它们。",
+    "2024-12-2": "如今，越来越多的学生认识到了自律对个人成长的重要性。",
+    "2024-12-3": "大学为学生提供了探索各种可能性、找到适合自己道路的重要机会。",
+    "2025-06-1": "随着求职要求日益提高，大学生应当为未来职业做好更充分的准备。",
+    "2025-06-2": "随着社交媒体的使用日益广泛，人们越来越意识到恰当、负责任地使用它的重要性。",
+    "2025-06-3": "随着人工智能技术的应用不断扩大，人们越来越担心它可能对人类创造力产生负面影响。",
+    "2025-12-1": "身处竞争日益激烈的世界，大学生应做好更充分的准备，以应对各种挑战。",
+    "2025-12-2": "在为中国梦奋斗的过程中，年轻人享有更多实现自我价值的机会。",
+    "2025-12-3": "人们认为，教师能对学生的学业追求和个人发展产生深远影响。",
+    "2026-06-1": "随着城市化的发展，城市居民培养更深厚的自然情怀至关重要。",
+    "2026-06-2": "在社会快速发展的时代，增强年轻人的责任感至关重要。",
+    "2026-06-3": "面对日益深入的全球化，学生认识到，深入理解中国传统文化有助于培养文化自信。"
+  }
+}

@@ -1,0 +1,593 @@
+[
+  {
+    "id": "S000932",
+    "unit": "U00585",
+    "category": "阅读真题",
+    "text": "Their nests were shabby things and two weeks after the eggs 'the parent pigeons would abandon their offspring, leaving them to take care of themselves.",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+        "page": 4,
+        "session": "2022-09",
+        "suite": "1",
+        "method": "text",
+        "locator": "Section A"
+      }
+    ],
+    "lemmata": [
+      "their",
+      "nest",
+      "be",
+      "shabby",
+      "thing",
+      "and",
+      "two",
+      "week",
+      "after",
+      "the",
+      "egg",
+      "the",
+      "parent",
+      "pigeon",
+      "would",
+      "abandon",
+      "their",
+      "offspring",
+      "leave",
+      "them",
+      "to",
+      "take",
+      "care",
+      "of",
+      "themselves"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007164",
+    "unit": "U04513",
+    "category": "阅读真题",
+    "text": "This can help develop understanding, acceptance andČ of diversity.",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第1套.pdf",
+        "page": 4,
+        "session": "2021-06",
+        "suite": "1",
+        "method": "text",
+        "locator": "Section A",
+        "sentence_page_check": "exact"
+      }
+    ],
+    "lemmata": [
+      "this",
+      "can",
+      "help",
+      "develop",
+      "understanding",
+      "acceptance",
+      "and",
+      "of",
+      "diversity"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007214",
+    "unit": "U04540",
+    "category": "阅读真题",
+    "text": "Initially, this was wireless Morse code telegraphy ( It fiBm.",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第1套.pdf",
+        "page": 5,
+        "session": "2021-06",
+        "suite": "1",
+        "method": "text",
+        "locator": "Section B"
+      }
+    ],
+    "lemmata": [
+      "initially",
+      "this",
+      "be",
+      "wireless",
+      "morse",
+      "code",
+      "telegraphy",
+      "it"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007266",
+    "unit": "U04561",
+    "category": "阅读真题",
+    "text": "This is down to\" hereditarian\" CilHitag) science and a recent paper claimed \"differences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them\".",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第1套.pdf",
+        "page": 6,
+        "session": "2021-06",
+        "suite": "1",
+        "method": "text",
+        "locator": "题45",
+        "sentence_page_check": "exact"
+      }
+    ],
+    "lemmata": [
+      "this",
+      "be",
+      "down",
+      "to",
+      "hereditarian",
+      "science",
+      "and",
+      "recent",
+      "paper",
+      "claim",
+      "difference",
+      "in",
+      "exam",
+      "performance",
+      "between",
+      "pupil",
+      "attend",
+      "selective",
+      "and",
+      "non-selective",
+      "school",
+      "mirror",
+      "the",
+      "genetic",
+      "difference",
+      "between",
+      "them"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007474",
+    "unit": "U04712",
+    "category": "阅读真题",
+    "text": "Creating a gap between her income and spending required a paradigm shift·and ĝ sacrifice and commitment, but by going into financial lockdown, Nicole gained financial independence.",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第2套.pdf",
+        "page": 4,
+        "session": "2021-06",
+        "suite": "2",
+        "method": "text",
+        "locator": "Section A",
+        "sentence_page_check": "exact"
+      }
+    ],
+    "lemmata": [
+      "create",
+      "gap",
+      "between",
+      "her",
+      "income",
+      "and",
+      "spending",
+      "require",
+      "paradigm",
+      "shift",
+      "and",
+      "sacrifice",
+      "and",
+      "commitment",
+      "but",
+      "by",
+      "go",
+      "into",
+      "financial",
+      "lockdown",
+      "nicole",
+      "gain",
+      "financial",
+      "independence"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007496",
+    "unit": "U04731",
+    "category": "阅读真题",
+    "text": "Paris prosecutor Remy Heitz Ğaid that an initial fire alert was sounded at 6:20 pm on Monday evening but no fire was found.",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第2套.pdf",
+        "page": 4,
+        "session": "2021-06",
+        "suite": "2",
+        "method": "text",
+        "locator": "Section B"
+      }
+    ],
+    "lemmata": [
+      "paris",
+      "prosecutor",
+      "remy",
+      "heitz",
+      "aid",
+      "that",
+      "an",
+      "initial",
+      "fire",
+      "alert",
+      "be",
+      "sound",
+      "at",
+      "pm",
+      "on",
+      "monday",
+      "even",
+      "but",
+      "no",
+      "fire",
+      "be",
+      "find"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007661",
+    "unit": "U04812",
+    "category": "听力选项",
+    "text": "i,Jigij: EEi 2021 6  /,\"Jat¡ijT 2 l!Jrf1 '*1tlfffi11Jrj;J mf 2 i:*1 1c¡-£, flJl!",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+        "page": 1,
+        "session": "2021-06",
+        "suite": "3",
+        "method": "text",
+        "locator": "正文"
+      }
+    ],
+    "lemmata": [
+      "eei",
+      "jat",
+      "ij",
+      "jrf",
+      "mf"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007662",
+    "unit": "U04812",
+    "category": "听力选项",
+    "text": ":J®rJ¥¢ -£, lz;l .tlt:f:E* •MI IP¤ JHlU!",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+        "page": 1,
+        "session": "2021-06",
+        "suite": "3",
+        "method": "text",
+        "locator": "正文"
+      }
+    ],
+    "lemmata": [
+      "rj",
+      "lz",
+      "tlt",
+      "mi",
+      "ip"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007700",
+    "unit": "U04832",
+    "category": "阅读真题",
+    "text": "In the film, which will be called Finding Jack , Dean will be recreated on screen with CGI based on old footage (ďJtflĐ) and photographs, with another actor voicing him.",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+        "page": 2,
+        "session": "2021-06",
+        "suite": "3",
+        "method": "text",
+        "locator": "Section B"
+      }
+    ],
+    "lemmata": [
+      "in",
+      "the",
+      "film",
+      "which",
+      "will",
+      "be",
+      "call",
+      "finding",
+      "jack",
+      "dean",
+      "will",
+      "be",
+      "recreate",
+      "on",
+      "screen",
+      "with",
+      "cgi",
+      "base",
+      "on",
+      "old",
+      "footage",
+      "and",
+      "photograph",
+      "with",
+      "another",
+      "actor",
+      "voice",
+      "him"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007704",
+    "unit": "U04832",
+    "category": "阅读真题",
+    "text": "Het father, Robin Williams, who·died in 2014, was-keen to avoid the same:fate, Before his death, he filed a deed protecting the use of his image until 2039, preventing others from recreating him using CGI to appear in a film, TV show or as a hologram (đ.i:lfft).",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+        "page": 2,
+        "session": "2021-06",
+        "suite": "3",
+        "method": "text",
+        "locator": "Section B"
+      }
+    ],
+    "lemmata": [
+      "het",
+      "father",
+      "robin",
+      "williams",
+      "who",
+      "die",
+      "in",
+      "to",
+      "avoid",
+      "the",
+      "same",
+      "fate",
+      "before",
+      "his",
+      "death",
+      "he",
+      "file",
+      "deed",
+      "protect",
+      "the",
+      "use",
+      "of",
+      "his",
+      "image",
+      "until",
+      "prevent",
+      "others",
+      "from",
+      "recreate",
+      "him",
+      "use",
+      "cgi",
+      "to",
+      "appear",
+      "in",
+      "film",
+      "tv",
+      "show",
+      "or",
+      "a",
+      "hologram"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007721",
+    "unit": "U04839",
+    "category": "阅读真题",
+    "text": "A hidden hazard of digitally recreating a deceased ( B ě Et9) celebrity is the risk of damaging their",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+        "page": 3,
+        "session": "2021-06",
+        "suite": "3",
+        "method": "text",
+        "locator": "选项F"
+      }
+    ],
+    "lemmata": [
+      "hidden",
+      "hazard",
+      "of",
+      "digitally",
+      "recreate",
+      "deceased",
+      "et",
+      "celebrity",
+      "be",
+      "the",
+      "risk",
+      "of",
+      "damage",
+      "their"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007728",
+    "unit": "U04842",
+    "category": "阅读真题",
+    "text": "\"We've got a societal debate going on about access to our public commons, as it were, about famous faces,Ĝ' says Lilian Edwards at Newcastle University, UK.",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+        "page": 3,
+        "session": "2021-06",
+        "suite": "3",
+        "method": "text",
+        "locator": "Section B"
+      }
+    ],
+    "lemmata": [
+      "we",
+      "have",
+      "get",
+      "societal",
+      "debate",
+      "go",
+      "on",
+      "about",
+      "access",
+      "to",
+      "our",
+      "public",
+      "common",
+      "a",
+      "it",
+      "be",
+      "about",
+      "famous",
+      "face",
+      "say",
+      "lilian",
+      "edward",
+      "at",
+      "newcastle",
+      "university",
+      "uk"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007743",
+    "unit": "U04846",
+    "category": "阅读真题",
+    "text": "\"They discovered the uncanny valley (ifit#ĝ).\"",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+        "page": 3,
+        "session": "2021-06",
+        "suite": "3",
+        "method": "text",
+        "locator": "Section B"
+      }
+    ],
+    "lemmata": [
+      "they",
+      "discover",
+      "the",
+      "uncanny",
+      "valley"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007759",
+    "unit": "U04852",
+    "category": "阅读真题",
+    "text": "Referring to a line from JurassicPark ({$tĞğd0!zm), he adds: \"People are too busy thinking about what they c·an do to think about whether they should do it.\"",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+        "page": 3,
+        "session": "2021-06",
+        "suite": "3",
+        "method": "text",
+        "locator": "Section B",
+        "sentence_page_check": "exact"
+      }
+    ],
+    "lemmata": [
+      "refer",
+      "to",
+      "line",
+      "from",
+      "zm",
+      "he",
+      "add",
+      "people",
+      "be",
+      "too",
+      "busy",
+      "think",
+      "about",
+      "what",
+      "they",
+      "an",
+      "do",
+      "to",
+      "think",
+      "about",
+      "whether",
+      "they",
+      "should",
+      "do",
+      "it"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  },
+  {
+    "id": "S007827",
+    "unit": "U04888",
+    "category": "阅读真题",
+    "text": "Who is a true copycat (:t&) and who gets copycatted?",
+    "zh": "",
+    "zh_type": "",
+    "sources": [
+      {
+        "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+        "page": 5,
+        "session": "2021-06",
+        "suite": "3",
+        "method": "text",
+        "locator": "题50",
+        "sentence_page_check": "exact"
+      }
+    ],
+    "lemmata": [
+      "who",
+      "be",
+      "true",
+      "copycat",
+      "and",
+      "who",
+      "get"
+    ],
+    "reason": "原文含编码控制符或异常字形；暂不计入可靠词频，保留原句和出处"
+  }
+]

@@ -1,0 +1,1160 @@
+[
+  {
+    "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第1套【可复制可检索，打印首选】.pdf",
+    "session": "2025-12",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 9,
+    "ocr_pages": 0,
+    "sha256": "acddddaf3687e5654f228cad5294b626805624651ad564136927caec95a515ad",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第2套【可复制可检索，打印首选】.pdf",
+    "session": "2025-12",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 9,
+    "ocr_pages": 0,
+    "sha256": "39b31d6f7f0e25c2d4b831940f9c6c2a5ee110c16b419e3bc33a3d0c99d58676",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第3套【可复制可检索，打印首选】.pdf",
+    "session": "2025-12",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 6,
+    "ocr_pages": 0,
+    "sha256": "f92c8c9a770eb166ac109a8132412cef3f34eae744cde07caedc2973c42cb92c",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12英语六级解析第1套.pdf",
+    "session": "2025-12",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 18,
+    "ocr_pages": 18,
+    "sha256": "60092f272814edb202c5eafd91e7ecddb58379a86f17bed30ff4ddc45d1c79f2",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": true,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12英语六级解析第2套.pdf",
+    "session": "2025-12",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 19,
+    "ocr_pages": 19,
+    "sha256": "71086824cf84a3309f07eade2350afc57ddf422ecfe9345cecc2596e84d613f1",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": true,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12英语六级解析第3套.pdf",
+    "session": "2025-12",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 11,
+    "ocr_pages": 11,
+    "sha256": "577d1dd5c79a61c303758857f5e507bc6e5180b250fc3201034b62059fde3af0",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年09月CET6真题+解析+听力音频全3套\\2022.09英语六级解析全3套.pdf",
+    "session": "2022-09",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 16,
+    "ocr_pages": 0,
+    "sha256": "626b7074bfb8852e4e81a18389d1b86581404cb79fcadc0c552fc662908a97bb",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+    "session": "2022-09",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 13,
+    "ocr_pages": 0,
+    "sha256": "f8b733d9f743c906848e8f532bdd7374faddd451720686b8f22fa91e3b036c1f",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2023年3月CET6真题+解析+听力音频全3套\\2023年03月六级真题全3套【可复制可划线查词】.pdf",
+    "session": "2023-03",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 11,
+    "ocr_pages": 0,
+    "sha256": "f26b5ef15cdc553bb4ea17dbd28b029ae3a1744edf7dc297979cdebab37611af",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2023年3月CET6真题+解析+听力音频全3套\\2023年03月六级解析全3套.pdf",
+    "session": "2023-03",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 24,
+    "ocr_pages": 0,
+    "sha256": "8b40d8ca0fa6276e5d5642708b3737a6db34d54e126c7e7a47a0ee9de5ddf915",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": true,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第1套【可复制可检索，打印首选】.pdf",
+    "session": "2025-06",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 9,
+    "ocr_pages": 0,
+    "sha256": "145287816df91127073a4109a0e64d8f450c9a8a06ee7d201f09ab8e20efdff2",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第2套【可复制可检索，打印首选】.pdf",
+    "session": "2025-06",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 9,
+    "ocr_pages": 0,
+    "sha256": "695b5df088b0bf3f74d487689f50660c8ef6863ccd5b50bfbb450b252427e4e5",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第3套【可复制可检索，打印首选】.pdf",
+    "session": "2025-06",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 6,
+    "ocr_pages": 0,
+    "sha256": "79fa0bcddcb07105b4670638782d8d16d796f7328bb95e5643afaa20ea68f9a0",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06英语六级解析第1套.pdf",
+    "session": "2025-06",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 20,
+    "ocr_pages": 18,
+    "sha256": "8dc84be113918b7f0f2d154128d56f6a58443409852dbba31012b83f892d1346",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": true,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06英语六级解析第2套.pdf",
+    "session": "2025-06",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 20,
+    "ocr_pages": 20,
+    "sha256": "938d9bbc6634fbac93a2f40e6b6ee62a068e8b245439fd3581ace17a2ec678a3",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": true,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06英语六级解析第3套.pdf",
+    "session": "2025-06",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 12,
+    "ocr_pages": 12,
+    "sha256": "7b84591aa864cdfd1c554b87e53468d703a492f97aeb851b260ebc0481178c3a",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第1套.pdf",
+    "session": "2024-12",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 9,
+    "ocr_pages": 0,
+    "sha256": "089e635dfb40797a158e9cde513507cee1b1907e716cdbf20a8438bdace8623f",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第2套.pdf",
+    "session": "2024-12",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 9,
+    "ocr_pages": 0,
+    "sha256": "8f92a3530cdb47948105b283b1c70c5c738aa318e29ef6e82a73658fd3d47298",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第3套.pdf",
+    "session": "2024-12",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 7,
+    "ocr_pages": 0,
+    "sha256": "c9e80cf73440b330d0f2550abd51c72be38bf6e52c6b824b292ae312f175dada",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12英语六级解析第1套.pdf",
+    "session": "2024-12",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 15,
+    "ocr_pages": 15,
+    "sha256": "3ef129446bae134207887a82bacd09c091349320772b810aa0f4eb6645a96fac",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12英语六级解析第2套.pdf",
+    "session": "2024-12",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 15,
+    "ocr_pages": 15,
+    "sha256": "7f83bc156ee56d87281f1d4b479e5fbfe8101d74954b2273f0a25744b281af2a",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12英语六级解析第3套.pdf",
+    "session": "2024-12",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 9,
+    "ocr_pages": 9,
+    "sha256": "6bfadcf06e8e97ef2023c399be0f0dd5b3d0f8b403b5d9056466eace9e15fe51",
+    "sections": [
+      "写作",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月六级考试真题答案速查（第1套）.pdf",
+    "session": "2024-06",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 1,
+    "ocr_pages": 0,
+    "sha256": "eb1bf4512d4a32eb820fa3e3300ddc879e0d4e710d2bfe8352bd07e514bb9e80",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月六级考试真题答案速查（第2套）.pdf",
+    "session": "2024-06",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 1,
+    "ocr_pages": 0,
+    "sha256": "572ed67139e7adeeea36c3cc92520662589ee0bd29942c978afbfe6d76533504",
+    "sections": [
+      "写作"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月六级考试真题答案速查（第3套）.pdf",
+    "session": "2024-06",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 1,
+    "ocr_pages": 0,
+    "sha256": "be2e06a5e917ac41120c8a076222e381fedcd2fe1e9759505573353668a3534a",
+    "sections": [
+      "写作",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第1套）.pdf",
+    "session": "2024-06",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 10,
+    "ocr_pages": 0,
+    "sha256": "aab4b6d638bc1936032c5647ebba1fe2e489de5b4815b8cb7a9a1158bfc8f190",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第2套）.pdf",
+    "session": "2024-06",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 10,
+    "ocr_pages": 0,
+    "sha256": "0f213c79e7c7a09d3a3d5d5a4ba36f8e50ae899a7927abf12e80ffbc15641102",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
+    "session": "2024-06",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "abdf587a4a47c9b8e49163d9497c51e91b8fd7be8a130b94e3f5dd017705a0e7",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第1套.pdf",
+    "session": "2023-12",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 9,
+    "ocr_pages": 0,
+    "sha256": "7de1670c462ae011f4200ef987e57c51a3b252856722258abb14051c601ad5c5",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第2套.pdf",
+    "session": "2023-12",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 9,
+    "ocr_pages": 0,
+    "sha256": "e59d53368892066dedcc7cb61d08662c68b2f8c03acd94211a4a4587f1a09f98",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第3套.pdf",
+    "session": "2023-12",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 6,
+    "ocr_pages": 0,
+    "sha256": "f268ddb108c9114f68fb997425300c74ee7b3d869590c020be1b63bf67ed3e64",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12英语六级解析第1套.pdf",
+    "session": "2023-12",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 20,
+    "ocr_pages": 0,
+    "sha256": "8f1c38d0a06eb58fea832c68c7f9d3bf77bd53067fe52d2a6c3b1898f8717cce",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": true,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12英语六级解析第2套.pdf",
+    "session": "2023-12",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 19,
+    "ocr_pages": 0,
+    "sha256": "3f4d4fe95fe3fb499e68c80da3fd60814fad8a95e356bfc52d876d12726c244d",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": true,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12英语六级解析第3套.pdf",
+    "session": "2023-12",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 12,
+    "ocr_pages": 0,
+    "sha256": "e39513f14d8d16b884fd384e3505ab06ed2186d85a218d1b146e99c3ea2af513",
+    "sections": [
+      "写作",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "补充资料_2026年6月\\2026年06月六级真题第1套_懒笔记整理版.pdf",
+    "session": "2026-06",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 11,
+    "ocr_pages": 0,
+    "sha256": "0df76248c652e977c6289e80d3aa42b0757e28060c603c901a5a654004f300a0",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "懒笔记公开整理版，来源URL见补充清单"
+  },
+  {
+    "file": "补充资料_2026年6月\\2026年06月六级真题第2套_懒笔记整理版.pdf",
+    "session": "2026-06",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 11,
+    "ocr_pages": 0,
+    "sha256": "2411b6f58b774603ae274896642f44fdc73cb71b4976da519617d0b31e746125",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "懒笔记公开整理版，来源URL见补充清单"
+  },
+  {
+    "file": "补充资料_2026年6月\\2026年06月六级真题第3套_懒笔记整理版.pdf",
+    "session": "2026-06",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "72f20ebafe95c79bb06edf42adaca7d7b6ba59528e68ffb26f3ef86d600749e1",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "懒笔记公开整理版，来源URL见补充清单"
+  },
+  {
+    "file": "补充资料_2026年6月\\2026年06月六级解析第1套_懒笔记整理版.pdf",
+    "session": "2026-06",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 133,
+    "ocr_pages": 0,
+    "sha256": "c6092fe72575206a2fdffc8c3abaf546d4ff1dbb1af24b813de5019b32a55dec",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "懒笔记公开整理版，来源URL见补充清单"
+  },
+  {
+    "file": "补充资料_2026年6月\\2026年06月六级解析第2套_懒笔记整理版.pdf",
+    "session": "2026-06",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 127,
+    "ocr_pages": 0,
+    "sha256": "eb5b0d2c978c70a3739710972656a60fd75c119df7f205fde2bf647378cee21f",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "懒笔记公开整理版，来源URL见补充清单"
+  },
+  {
+    "file": "补充资料_2026年6月\\2026年06月六级解析第3套_懒笔记整理版.pdf",
+    "session": "2026-06",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 80,
+    "ocr_pages": 0,
+    "sha256": "f53032336706991cb0ef17544fa4007f13f1994dd6cda88d8eb6ead86b44d97a",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "懒笔记公开整理版，来源URL见补充清单"
+  },
+  {
+    "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06六级真题第1套详解.pdf",
+    "session": "2023-06",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 15,
+    "ocr_pages": 15,
+    "sha256": "174e04771601f7d08cd0bfb264f9170b40bd1e28ac69c86177174b0ddcbea051",
+    "sections": [
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06六级真题第2套详解.pdf",
+    "session": "2023-06",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 15,
+    "ocr_pages": 15,
+    "sha256": "d826ce2ebc76abecd52de18d54595403c5c60276b44f766189ff869929d6480f",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06六级真题第3套详解.pdf",
+    "session": "2023-06",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 9,
+    "ocr_pages": 9,
+    "sha256": "dfbc3b8d4140c3b945ba470388d62373d36d84acf976046af63cae77bbca561c",
+    "sections": [
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第1套.pdf",
+    "session": "2023-06",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "c2b5cd177d15ee6b1398599fa96f45c322d80e641193d1ee1b9cb5e1b0705acb",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第2套.pdf",
+    "session": "2023-06",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "7f6d5d59a54e6f11267a7892d443f8f1a83a672f7d470a20b9a42acec9d34112",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第3套.pdf",
+    "session": "2023-06",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 6,
+    "ocr_pages": 0,
+    "sha256": "f02fe99c1deda7bb81b4d1ac0e41deab2237bad91020b68700d3cf6436f25c26",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第1套）.pdf",
+    "session": "2021-12",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 12,
+    "ocr_pages": 0,
+    "sha256": "ed5368aa534fc51b74ec8c345ae3382518cdfb330281bf46bdf86adb398ec5cd",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第2套）.pdf",
+    "session": "2021-12",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 12,
+    "ocr_pages": 0,
+    "sha256": "4cd288abb8f0f1ba20cf24bc82d637fc6c30285534012bc7c117d7518b10ad5e",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第3套）.pdf",
+    "session": "2021-12",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "28a82ce5f324c62d66fd56013bcc98101c4a1cff0f0e140022e84c015cde3706",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月英语六级答案解析第一套.pdf",
+    "session": "2021-12",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 4,
+    "ocr_pages": 4,
+    "sha256": "723528528598e6692cf1783935caa9d3bec00ee5f551c3dc0f07e36959c2a1cb",
+    "sections": [],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月英语六级答案解析第三套.pdf",
+    "session": "2021-12",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 4,
+    "ocr_pages": 4,
+    "sha256": "fef8035784ebed2d001fb291f4a1fc3ffe427181d6de4c4847e5657352970c24",
+    "sections": [],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月英语六级答案解析第二套.pdf",
+    "session": "2021-12",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 5,
+    "ocr_pages": 5,
+    "sha256": "9f56cefa2da92a232633fc90557cdf50c0114ef11a26d82f1f7dd239b09dd7c6",
+    "sections": [],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第1套.pdf",
+    "session": "2021-06",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "7f0cbe17e33e5de719e8b88f1804e6d9e046f064b30837d335edf0c644048d4c",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第2套.pdf",
+    "session": "2021-06",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "d38a1f744cc0a273048d9274d189d5d664249c23e6e0062dc7d95fa2d26c95e1",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+    "session": "2021-06",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 6,
+    "ocr_pages": 0,
+    "sha256": "6f9c4fe85464ffb2bacf63d7981bde9ba8897811fb88a7461423766ca591ea5a",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06英语六级答案解析第1套.pdf",
+    "session": "2021-06",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 15,
+    "ocr_pages": 0,
+    "sha256": "4743008e346533ac0c8c6f9cb30cc35028f10805703ef87339ec51e833e07be7",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06英语六级答案解析第2套.pdf",
+    "session": "2021-06",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 15,
+    "ocr_pages": 0,
+    "sha256": "7e4e047d5e53febb4efdec3fdf721c144e2a595a683b12837a96de71f238482d",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06英语六级答案解析第3套.pdf",
+    "session": "2021-06",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 10,
+    "ocr_pages": 0,
+    "sha256": "12fc0c656f7b64ff8e371c90c798880253c6d887b068ff23001a4e7de3ee2bba",
+    "sections": [
+      "写作",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第1套【可复制可搜索，打印首选】.pdf",
+    "session": "2022-06",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 10,
+    "ocr_pages": 0,
+    "sha256": "b75d03c5ba1d34d3eadd3fe32457d3ecd6df05db88447c31f02b612e9338a33a",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第2套【可复制可搜索，打印首选】.pdf",
+    "session": "2022-06",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "480c97e4e23c1df43651eac7716db6d88ad2ec76ef16a42f9794cf854fdd0480",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第3套【可复制可搜索，打印首选】.pdf",
+    "session": "2022-06",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 1,
+    "ocr_pages": 0,
+    "sha256": "5ee6b0b7d186c62e8fb2178ebbd7f70e8bd307c186d2197bff82e414eb7b55cb",
+    "sections": [
+      "写作",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级解析\\2022.06英语六级真题解析第1套 .pdf",
+    "session": "2022-06",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 15,
+    "ocr_pages": 0,
+    "sha256": "e7e16713b7885d1a3a8c6b3241ab601cee077ec2c278c2b7a9c6c64f80cfdd2c",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级解析\\2022.06英语六级真题解析第2套 .pdf",
+    "session": "2022-06",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 10,
+    "ocr_pages": 0,
+    "sha256": "2e736fb3723691a819a480ac62ebf7fc442bf79def29ddaaa63e05dfd5f2fc95",
+    "sections": [
+      "写作",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级解析\\2022.06英语六级真题解析第3套 .pdf",
+    "session": "2022-06",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 2,
+    "ocr_pages": 0,
+    "sha256": "8206a2011741aa27e333b53303b7d9e44aa1cc5f9f4a48cda29baad3f1ed6192",
+    "sections": [
+      "写作",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第1套【可复制可搜索，打印首选】.pdf",
+    "session": "2022-12",
+    "suite": "1",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "cbb88886d9a0c698d7f6671e92e28dc1d0201d43a4f61f130b348356f0160ea8",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第2套【可复制可搜索，打印首选】.pdf",
+    "session": "2022-12",
+    "suite": "2",
+    "kind": "真题",
+    "pages": 8,
+    "ocr_pages": 0,
+    "sha256": "a9e5accfcd410f16159b2ff31308ba376822eb02c18ab5c3216212adc9865293",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第3套【可复制可搜索，打印首选】.pdf",
+    "session": "2022-12",
+    "suite": "3",
+    "kind": "真题",
+    "pages": 6,
+    "ocr_pages": 0,
+    "sha256": "cd4396acbf66e9a594ac570cbcd31b30c4c8360f470c8501e990f654cdd1c0f8",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级解析全3套\\2022.12英语六级解析第1套.pdf",
+    "session": "2022-12",
+    "suite": "1",
+    "kind": "解析",
+    "pages": 15,
+    "ocr_pages": 0,
+    "sha256": "db63fb53707c7a3bccffa984e5f348b286b1b9a4d14f70dcc314a97890e524db",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级解析全3套\\2022.12英语六级解析第2套.pdf",
+    "session": "2022-12",
+    "suite": "2",
+    "kind": "解析",
+    "pages": 15,
+    "ocr_pages": 0,
+    "sha256": "021d337aa042a8b3cc8f2985040ed925baba00e4d362db72b26fe888de96f959",
+    "sections": [
+      "写作",
+      "听力",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  },
+  {
+    "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级解析全3套\\2022.12英语六级解析第3套.pdf",
+    "session": "2022-12",
+    "suite": "3",
+    "kind": "解析",
+    "pages": 9,
+    "ocr_pages": 0,
+    "sha256": "9e2e688b01735f932917728301633b6f1fdbc3ad401e0269f1cb077f852951fd",
+    "sections": [
+      "写作",
+      "阅读",
+      "翻译"
+    ],
+    "has_local_listening_transcript": false,
+    "source": "本地原始资料"
+  }
+]

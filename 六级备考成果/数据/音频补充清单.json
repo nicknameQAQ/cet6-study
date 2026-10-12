@@ -1,0 +1,16 @@
+[
+  {
+    "suite": 1,
+    "source": "https://listening.lazynote.cn/cet6/234/index.m3u8",
+    "local_playlist": "补充资料_2026年6月\\听力第1套\\index.m3u8",
+    "segments": 150,
+    "online": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-1/"
+  },
+  {
+    "suite": 2,
+    "source": "https://listening.lazynote.cn/cet6/235/index.m3u8",
+    "local_playlist": "补充资料_2026年6月\\听力第2套\\index.m3u8",
+    "segments": 159,
+    "online": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-2/"
+  }
+]

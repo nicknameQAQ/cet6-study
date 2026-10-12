@@ -1,0 +1,5646 @@
+{
+  "themes": [
+    {
+      "section": "writing",
+      "theme": "教育学习",
+      "paper_ids": [
+        "2025-12-3",
+        "2024-12-3",
+        "2024-06-3",
+        "2024-06-2",
+        "2023-12-2",
+        "2023-12-1",
+        "2023-06-3",
+        "2022-12-2",
+        "2022-06-2",
+        "2021-12-2",
+        "2021-06-2"
+      ],
+      "words": [
+        {
+          "english": "personal development",
+          "chinese": "个人发展",
+          "hits": [
+            {
+              "id": "2025-12-3",
+              "count": 2,
+              "forms": [
+                "personal development"
+              ]
+            },
+            {
+              "id": "2024-06-3",
+              "count": 2,
+              "forms": [
+                "personal development"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 2
+        },
+        {
+          "english": "independence",
+          "chinese": "独立性",
+          "hits": [
+            {
+              "id": "2023-12-2",
+              "count": 3,
+              "forms": [
+                "independence"
+              ]
+            },
+            {
+              "id": "2021-12-2",
+              "count": 1,
+              "forms": [
+                "independence"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 2
+        },
+        {
+          "english": "lifelong learning",
+          "chinese": "终身学习",
+          "hits": [
+            {
+              "id": "2024-06-3",
+              "count": 1,
+              "forms": [
+                "lifelong learning"
+              ]
+            },
+            {
+              "id": "2022-06-2",
+              "count": 1,
+              "forms": [
+                "lifelong learning"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "higher education",
+          "chinese": "高等教育",
+          "hits": [
+            {
+              "id": "2021-06-2",
+              "count": 5,
+              "forms": [
+                "higher education"
+              ]
+            }
+          ],
+          "count": 5,
+          "coverage": 1
+        },
+        {
+          "english": "social practice",
+          "chinese": "社会实践",
+          "hits": [
+            {
+              "id": "2024-06-2",
+              "count": 4,
+              "forms": [
+                "social practice"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 1
+        },
+        {
+          "english": "academic learning",
+          "chinese": "学业学习",
+          "hits": [
+            {
+              "id": "2024-06-2",
+              "count": 3,
+              "forms": [
+                "Academic learning",
+                "academic learning"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "independent learning",
+          "chinese": "自主学习",
+          "hits": [
+            {
+              "id": "2024-06-3",
+              "count": 3,
+              "forms": [
+                "independent learning"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "knowledge of the basics",
+          "chinese": "基础知识",
+          "hits": [
+            {
+              "id": "2023-12-1",
+              "count": 2,
+              "forms": [
+                "knowledge of the basics"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "master an academic subject",
+          "chinese": "掌握一门学科",
+          "hits": [
+            {
+              "id": "2023-12-1",
+              "count": 2,
+              "forms": [
+                "master an academic subject"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "learning ability",
+          "chinese": "学习能力",
+          "hits": [
+            {
+              "id": "2024-06-3",
+              "count": 2,
+              "forms": [
+                "learning ability"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "rational choices",
+          "chinese": "理性选择",
+          "hits": [
+            {
+              "id": "2022-12-2",
+              "count": 2,
+              "forms": [
+                "rational choices"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "academic pursuit",
+          "chinese": "学业追求",
+          "hits": [
+            {
+              "id": "2025-12-3",
+              "count": 2,
+              "forms": [
+                "academic pursuit"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "critical thinking",
+          "chinese": "批判性思维",
+          "hits": [
+            {
+              "id": "2022-12-2",
+              "count": 1,
+              "forms": [
+                "critical thinking"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "explore on their own",
+          "chinese": "自主探索",
+          "hits": [
+            {
+              "id": "2021-12-2",
+              "count": 1,
+              "forms": [
+                "explore on their own"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "basic knowledge",
+          "chinese": "基础知识",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "learning strategies",
+          "chinese": "学习策略",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "team spirit",
+          "chinese": "团队精神",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "self-confidence",
+          "chinese": "自信",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "apply knowledge",
+          "chinese": "运用知识",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "practical skills",
+          "chinese": "实用技能",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "educational resources",
+          "chinese": "教育资源",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "professional knowledge",
+          "chinese": "专业知识",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "writing",
+      "theme": "科技数字生活",
+      "paper_ids": [
+        "2025-06-3",
+        "2025-06-2",
+        "2024-06-1",
+        "2023-03-3",
+        "2022-12-1",
+        "2022-09-1",
+        "2021-12-3"
+      ],
+      "words": [
+        {
+          "english": "digital skills",
+          "chinese": "数字技能",
+          "hits": [
+            {
+              "id": "2024-06-1",
+              "count": 1,
+              "forms": [
+                "digital skills"
+              ]
+            },
+            {
+              "id": "2023-03-3",
+              "count": 1,
+              "forms": [
+                "digital skills"
+              ]
+            },
+            {
+              "id": "2022-09-1",
+              "count": 3,
+              "forms": [
+                "digital skills"
+              ]
+            }
+          ],
+          "count": 5,
+          "coverage": 3
+        },
+        {
+          "english": "social media",
+          "chinese": "社交媒体",
+          "hits": [
+            {
+              "id": "2025-06-2",
+              "count": 4,
+              "forms": [
+                "social media"
+              ]
+            },
+            {
+              "id": "2021-12-3",
+              "count": 1,
+              "forms": [
+                "social media"
+              ]
+            }
+          ],
+          "count": 5,
+          "coverage": 2
+        },
+        {
+          "english": "reliable sources",
+          "chinese": "可靠来源",
+          "hits": [
+            {
+              "id": "2024-06-1",
+              "count": 1,
+              "forms": [
+                "reliable sources"
+              ]
+            },
+            {
+              "id": "2021-12-3",
+              "count": 1,
+              "forms": [
+                "reliable sources"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "digital literacy",
+          "chinese": "数字素养",
+          "hits": [
+            {
+              "id": "2024-06-1",
+              "count": 3,
+              "forms": [
+                "digital literacy"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "information technology",
+          "chinese": "信息技术",
+          "hits": [
+            {
+              "id": "2022-12-1",
+              "count": 3,
+              "forms": [
+                "information technology"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "human creativity",
+          "chinese": "人类创造力",
+          "hits": [
+            {
+              "id": "2025-06-3",
+              "count": 3,
+              "forms": [
+                "human creativity"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "responsibly",
+          "chinese": "负责任地",
+          "hits": [
+            {
+              "id": "2025-06-2",
+              "count": 3,
+              "forms": [
+                "responsibly"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "digital gap",
+          "chinese": "数字鸿沟",
+          "hits": [
+            {
+              "id": "2023-03-3",
+              "count": 2,
+              "forms": [
+                "digital gap"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "false information",
+          "chinese": "虚假信息",
+          "hits": [
+            {
+              "id": "2021-12-3",
+              "count": 2,
+              "forms": [
+                "false information"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "misinformation",
+          "chinese": "错误信息",
+          "hits": [
+            {
+              "id": "2025-06-2",
+              "count": 1,
+              "forms": [
+                "misinformation"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "verify information",
+          "chinese": "核实信息",
+          "hits": [
+            {
+              "id": "2025-06-2",
+              "count": 1,
+              "forms": [
+                "verify information"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "online courses",
+          "chinese": "在线课程",
+          "hits": [
+            {
+              "id": "2022-12-1",
+              "count": 1,
+              "forms": [
+                "online courses"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "artificial intelligence",
+          "chinese": "人工智能",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "fake news",
+          "chinese": "假新闻",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "information explosion",
+          "chinese": "信息爆炸",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "privacy",
+          "chinese": "隐私",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "learning resources",
+          "chinese": "学习资源",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "access information",
+          "chinese": "获取信息",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "bridge the digital divide",
+          "chinese": "弥合数字鸿沟",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "use technology wisely",
+          "chinese": "明智地使用技术",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "protect personal information",
+          "chinese": "保护个人信息",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "independent judgment",
+          "chinese": "独立判断",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "writing",
+      "theme": "职业发展",
+      "paper_ids": [
+        "2025-12-1",
+        "2025-06-1"
+      ],
+      "words": [
+        {
+          "english": "internship",
+          "chinese": "实习",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 1,
+              "forms": [
+                "internship"
+              ]
+            },
+            {
+              "id": "2025-06-1",
+              "count": 2,
+              "forms": [
+                "internship",
+                "internships"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 2
+        },
+        {
+          "english": "competitive world",
+          "chinese": "竞争激烈的世界",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 2,
+              "forms": [
+                "competitive world"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "job applications",
+          "chinese": "求职申请",
+          "hits": [
+            {
+              "id": "2025-06-1",
+              "count": 2,
+              "forms": [
+                "job applications"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "future career",
+          "chinese": "未来职业",
+          "hits": [
+            {
+              "id": "2025-06-1",
+              "count": 2,
+              "forms": [
+                "future career"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "prepare themselves",
+          "chinese": "做好准备",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 2,
+              "forms": [
+                "prepare themselves"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "professional skills",
+          "chinese": "专业技能",
+          "hits": [
+            {
+              "id": "2025-06-1",
+              "count": 1,
+              "forms": [
+                "professional skills"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "job market",
+          "chinese": "就业市场",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 1,
+              "forms": [
+                "job market"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "career development",
+          "chinese": "职业发展",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "practical experience",
+          "chinese": "实践经验",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "communication skills",
+          "chinese": "沟通技能",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "problem-solving",
+          "chinese": "解决问题",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "teamwork",
+          "chinese": "团队合作",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "professional knowledge",
+          "chinese": "专业知识",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "competitiveness",
+          "chinese": "竞争力",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "adaptability",
+          "chinese": "适应能力",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "confront challenges",
+          "chinese": "面对挑战",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "cope with challenges",
+          "chinese": "应对挑战",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "learning new skills",
+          "chinese": "学习新技能",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "positive attitude",
+          "chinese": "积极心态",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "set realistic goals",
+          "chinese": "设定切实可行的目标",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "seize opportunities",
+          "chinese": "抓住机会",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "continuous learning",
+          "chinese": "持续学习",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "writing",
+      "theme": "社会与个人",
+      "paper_ids": [
+        "2026-06-2",
+        "2024-12-2",
+        "2024-12-1",
+        "2023-03-2",
+        "2022-06-3",
+        "2021-12-1"
+      ],
+      "words": [
+        {
+          "english": "idols",
+          "chinese": "偶像",
+          "hits": [
+            {
+              "id": "2021-12-1",
+              "count": 5,
+              "forms": [
+                "idol",
+                "idols"
+              ]
+            }
+          ],
+          "count": 5,
+          "coverage": 1
+        },
+        {
+          "english": "sense of responsibility",
+          "chinese": "责任感",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 4,
+              "forms": [
+                "sense of responsibility"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 1
+        },
+        {
+          "english": "choices",
+          "chinese": "选择",
+          "hits": [
+            {
+              "id": "2023-03-2",
+              "count": 4,
+              "forms": [
+                "choices"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 1
+        },
+        {
+          "english": "self-discipline",
+          "chinese": "自律",
+          "hits": [
+            {
+              "id": "2024-12-2",
+              "count": 3,
+              "forms": [
+                "self-discipline"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "realistic goals",
+          "chinese": "现实可行的目标",
+          "hits": [
+            {
+              "id": "2024-12-1",
+              "count": 3,
+              "forms": [
+                "realistic goal",
+                "realistic goals"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "personal growth",
+          "chinese": "个人成长",
+          "hits": [
+            {
+              "id": "2024-12-2",
+              "count": 2,
+              "forms": [
+                "personal growth"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "persistently",
+          "chinese": "坚持不懈地",
+          "hits": [
+            {
+              "id": "2024-12-1",
+              "count": 2,
+              "forms": [
+                "persistently"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "perseverance",
+          "chinese": "毅力",
+          "hits": [
+            {
+              "id": "2024-12-2",
+              "count": 1,
+              "forms": [
+                "perseverance"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "star chasing",
+          "chinese": "追星",
+          "hits": [
+            {
+              "id": "2021-12-1",
+              "count": 1,
+              "forms": [
+                "star chasing"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "self-control",
+          "chinese": "自我控制",
+          "hits": [
+            {
+              "id": "2024-12-2",
+              "count": 1,
+              "forms": [
+                "self-control"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "self-worth",
+          "chinese": "自我价值",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "decision-making",
+          "chinese": "决策",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "time management",
+          "chinese": "时间管理",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "help the needy",
+          "chinese": "帮助有需要的人",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "volunteer work",
+          "chinese": "志愿服务",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "take responsibility",
+          "chinese": "承担责任",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "make rational choices",
+          "chinese": "作出理性选择",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "overcome difficulties",
+          "chinese": "克服困难",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "serve others",
+          "chinese": "服务他人",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "achieve goals",
+          "chinese": "实现目标",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "turn ideas into action",
+          "chinese": "把想法转化为行动",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "keep making efforts",
+          "chinese": "持续努力",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "writing",
+      "theme": "沟通合作",
+      "paper_ids": [
+        "2023-06-2",
+        "2022-12-3",
+        "2022-09-3",
+        "2022-09-2"
+      ],
+      "words": [
+        {
+          "english": "cooperation",
+          "chinese": "合作",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 1,
+              "forms": [
+                "cooperation"
+              ]
+            },
+            {
+              "id": "2022-12-3",
+              "count": 2,
+              "forms": [
+                "cooperation"
+              ]
+            },
+            {
+              "id": "2022-09-3",
+              "count": 3,
+              "forms": [
+                "cooperation"
+              ]
+            }
+          ],
+          "count": 6,
+          "coverage": 3
+        },
+        {
+          "english": "openness",
+          "chinese": "开放坦诚",
+          "hits": [
+            {
+              "id": "2022-09-3",
+              "count": 4,
+              "forms": [
+                "openness"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 1
+        },
+        {
+          "english": "team spirit",
+          "chinese": "团队精神",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 3,
+              "forms": [
+                "team spirit"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "friendly discussion",
+          "chinese": "友好讨论",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 3,
+              "forms": [
+                "friendly discussion"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "differing opinions",
+          "chinese": "不同观点",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 3,
+              "forms": [
+                "differing opinions"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "real-world social interaction",
+          "chinese": "现实中的社交互动",
+          "hits": [
+            {
+              "id": "2022-09-2",
+              "count": 3,
+              "forms": [
+                "real-world social interaction"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "mutual trust",
+          "chinese": "互信",
+          "hits": [
+            {
+              "id": "2022-09-3",
+              "count": 2,
+              "forms": [
+                "mutual trust"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "reasonable argument",
+          "chinese": "理性论证",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 2,
+              "forms": [
+                "reasonable argument"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "reach agreement",
+          "chinese": "达成一致",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 2,
+              "forms": [
+                "reach agreement"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "common goals",
+          "chinese": "共同目标",
+          "hits": [
+            {
+              "id": "2022-09-3",
+              "count": 1,
+              "forms": [
+                "common goal"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "teamwork",
+          "chinese": "团队合作",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 1,
+              "forms": [
+                "teamwork"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "collaboration",
+          "chinese": "协作",
+          "hits": [
+            {
+              "id": "2022-09-3",
+              "count": 1,
+              "forms": [
+                "collaboration"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "face-to-face communication",
+          "chinese": "面对面交流",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "active listening",
+          "chinese": "积极倾听",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "respect others",
+          "chinese": "尊重他人",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "resolve conflicts",
+          "chinese": "解决冲突",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "build trust",
+          "chinese": "建立信任",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "share ideas",
+          "chinese": "分享想法",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "understand different perspectives",
+          "chinese": "理解不同视角",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "express opinions",
+          "chinese": "表达观点",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "writing",
+      "theme": "环境健康",
+      "paper_ids": [
+        "2026-06-1",
+        "2023-06-1",
+        "2023-03-1",
+        "2022-06-1"
+      ],
+      "words": [
+        {
+          "english": "physical health",
+          "chinese": "身体健康",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 3,
+              "forms": [
+                "physical health"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "appearance anxiety",
+          "chinese": "容貌焦虑",
+          "hits": [
+            {
+              "id": "2023-03-1",
+              "count": 3,
+              "forms": [
+                "appearance anxiety"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "environmentally friendly",
+          "chinese": "环保的",
+          "hits": [
+            {
+              "id": "2022-06-1",
+              "count": 3,
+              "forms": [
+                "environmentally friendly"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "lifestyle",
+          "chinese": "生活方式",
+          "hits": [
+            {
+              "id": "2022-06-1",
+              "count": 3,
+              "forms": [
+                "lifestyle"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "mental well-being",
+          "chinese": "心理健康",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 2,
+              "forms": [
+                "mental well-being"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "urbanization",
+          "chinese": "城市化",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 2,
+              "forms": [
+                "Urbanization"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "city residents",
+          "chinese": "城市居民",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 2,
+              "forms": [
+                "city residents"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "love for nature",
+          "chinese": "对自然的热爱",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 2,
+              "forms": [
+                "love for Nature"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "self-acceptance",
+          "chinese": "自我接纳",
+          "hits": [
+            {
+              "id": "2023-03-1",
+              "count": 1,
+              "forms": [
+                "self-acceptance"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "inner value",
+          "chinese": "内在价值",
+          "hits": [
+            {
+              "id": "2023-03-1",
+              "count": 1,
+              "forms": [
+                "inner value"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "green spaces",
+          "chinese": "绿色空间",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "green spaces"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "aesthetic standards",
+          "chinese": "审美标准",
+          "hits": [
+            {
+              "id": "2023-03-1",
+              "count": 1,
+              "forms": [
+                "aesthetic standards"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "mental health",
+          "chinese": "心理健康",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "self-confidence",
+          "chinese": "自信",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "reduce stress",
+          "chinese": "减轻压力",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "work-life balance",
+          "chinese": "工作与生活的平衡",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "protect the environment",
+          "chinese": "保护环境",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "healthy habits",
+          "chinese": "健康习惯",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "regular exercise",
+          "chinese": "规律运动",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "seek professional help",
+          "chinese": "寻求专业帮助",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "low-carbon lifestyle",
+          "chinese": "低碳生活方式",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "connect with nature",
+          "chinese": "亲近自然",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "writing",
+      "theme": "社会发展",
+      "paper_ids": [
+        "2025-12-2",
+        "2023-12-3",
+        "2021-06-3",
+        "2021-06-1"
+      ],
+      "words": [
+        {
+          "english": "opportunities",
+          "chinese": "机会",
+          "hits": [
+            {
+              "id": "2025-12-2",
+              "count": 3,
+              "forms": [
+                "opportunities"
+              ]
+            },
+            {
+              "id": "2023-12-3",
+              "count": 1,
+              "forms": [
+                "opportunities"
+              ]
+            },
+            {
+              "id": "2021-06-1",
+              "count": 1,
+              "forms": [
+                "opportunities"
+              ]
+            }
+          ],
+          "count": 5,
+          "coverage": 3
+        },
+        {
+          "english": "urbanization",
+          "chinese": "城镇化",
+          "hits": [
+            {
+              "id": "2021-06-1",
+              "count": 4,
+              "forms": [
+                "urbanization"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 1
+        },
+        {
+          "english": "experience",
+          "chinese": "经验",
+          "hits": [
+            {
+              "id": "2023-12-3",
+              "count": 4,
+              "forms": [
+                "experience",
+                "experienced"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 1
+        },
+        {
+          "english": "the Chinese Dream",
+          "chinese": "中国梦",
+          "hits": [
+            {
+              "id": "2025-12-2",
+              "count": 3,
+              "forms": [
+                "the Chinese Dream"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "self-worth",
+          "chinese": "自我价值",
+          "hits": [
+            {
+              "id": "2025-12-2",
+              "count": 3,
+              "forms": [
+                "self-worth"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "poverty alleviation",
+          "chinese": "扶贫",
+          "hits": [
+            {
+              "id": "2021-06-3",
+              "count": 2,
+              "forms": [
+                "poverty alleviation"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "valuable skills",
+          "chinese": "宝贵技能",
+          "hits": [
+            {
+              "id": "2023-12-3",
+              "count": 2,
+              "forms": [
+                "valuable skills"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "elderly people",
+          "chinese": "老年人",
+          "hits": [
+            {
+              "id": "2023-12-3",
+              "count": 2,
+              "forms": [
+                "elderly people"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "living standards",
+          "chinese": "生活水平",
+          "hits": [
+            {
+              "id": "2021-06-1",
+              "count": 1,
+              "forms": [
+                "living standards"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "economic growth",
+          "chinese": "经济增长",
+          "hits": [
+            {
+              "id": "2021-06-1",
+              "count": 1,
+              "forms": [
+                "economic growth"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "poverty reduction",
+          "chinese": "减贫",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "social development",
+          "chinese": "社会发展",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "make contributions",
+          "chinese": "作出贡献",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "public services",
+          "chinese": "公共服务",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "social progress",
+          "chinese": "社会进步",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "rural areas",
+          "chinese": "农村地区",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "national development",
+          "chinese": "国家发展",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "innovation",
+          "chinese": "创新",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "inclusive development",
+          "chinese": "包容性发展",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "improve people's lives",
+          "chinese": "改善民生",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "serve society",
+          "chinese": "服务社会",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "pass on experience",
+          "chinese": "传授经验",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "writing",
+      "theme": "文化传承",
+      "paper_ids": [
+        "2026-06-3"
+      ],
+      "words": [
+        {
+          "english": "traditional Chinese culture",
+          "chinese": "中国传统文化",
+          "hits": [
+            {
+              "id": "2026-06-3",
+              "count": 3,
+              "forms": [
+                "traditional Chinese culture"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "cultural confidence",
+          "chinese": "文化自信",
+          "hits": [
+            {
+              "id": "2026-06-3",
+              "count": 3,
+              "forms": [
+                "cultural confidence"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "globalization",
+          "chinese": "全球化",
+          "hits": [
+            {
+              "id": "2026-06-3",
+              "count": 3,
+              "forms": [
+                "Globalization",
+                "globalization"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "understanding",
+          "chinese": "理解",
+          "hits": [
+            {
+              "id": "2026-06-3",
+              "count": 2,
+              "forms": [
+                "understanding"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "traditional festivals",
+          "chinese": "传统节日",
+          "hits": [
+            {
+              "id": "2026-06-3",
+              "count": 1,
+              "forms": [
+                "traditional festivals"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "cultural identity",
+          "chinese": "文化认同",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "cultural heritage",
+          "chinese": "文化遗产",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "traditional values",
+          "chinese": "传统价值观",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "cultural exchanges",
+          "chinese": "文化交流",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "traditions",
+          "chinese": "传统",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "wisdom",
+          "chinese": "智慧",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "customs",
+          "chinese": "习俗",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "respect traditions",
+          "chinese": "尊重传统",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "preserve cultural heritage",
+          "chinese": "保护文化遗产",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "pass down traditions",
+          "chinese": "传承传统",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "learn about history",
+          "chinese": "了解历史",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "share Chinese culture",
+          "chinese": "传播中国文化",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "broaden one's horizons",
+          "chinese": "开阔视野",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "combine tradition with innovation",
+          "chinese": "将传统与创新结合",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "strengthen cultural identity",
+          "chinese": "增强文化认同",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "科技创新与航天",
+      "paper_ids": [
+        "2026-06-3",
+        "2025-12-2",
+        "2025-06-1",
+        "2024-12-3",
+        "2024-12-1"
+      ],
+      "words": [
+        {
+          "english": "astronaut",
+          "chinese": "宇航员",
+          "hits": [
+            {
+              "id": "2025-06-1",
+              "count": 1,
+              "forms": [
+                "astronauts"
+              ]
+            },
+            {
+              "id": "2024-12-3",
+              "count": 2,
+              "forms": [
+                "astronaut"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 2
+        },
+        {
+          "english": "space station",
+          "chinese": "空间站",
+          "hits": [
+            {
+              "id": "2025-06-1",
+              "count": 1,
+              "forms": [
+                "Space Station"
+              ]
+            },
+            {
+              "id": "2024-12-3",
+              "count": 1,
+              "forms": [
+                "space station"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "drone",
+          "chinese": "无人机",
+          "hits": [
+            {
+              "id": "2026-06-3",
+              "count": 6,
+              "forms": [
+                "Drones",
+                "drone",
+                "drones"
+              ]
+            }
+          ],
+          "count": 6,
+          "coverage": 1
+        },
+        {
+          "english": "self-reliance",
+          "chinese": "自力更生",
+          "hits": [
+            {
+              "id": "2025-12-2",
+              "count": 3,
+              "forms": [
+                "self-reliance"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "satellite",
+          "chinese": "卫星",
+          "hits": [
+            {
+              "id": "2024-12-1",
+              "count": 2,
+              "forms": [
+                "Satellite",
+                "satellite"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "Beidou",
+          "chinese": "北斗",
+          "hits": [
+            {
+              "id": "2024-12-1",
+              "count": 2,
+              "forms": [
+                "Beidou"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "technological achievement",
+          "chinese": "科技成就",
+          "hits": [
+            {
+              "id": "2024-12-1",
+              "count": 1,
+              "forms": [
+                "technological achievement"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "innovation",
+          "chinese": "创新",
+          "hits": [
+            {
+              "id": "2024-12-3",
+              "count": 1,
+              "forms": [
+                "innovation"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "space laboratory",
+          "chinese": "太空实验室",
+          "hits": [
+            {
+              "id": "2025-06-1",
+              "count": 1,
+              "forms": [
+                "space laboratory"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "navigation system",
+          "chinese": "导航系统",
+          "hits": [
+            {
+              "id": "2024-12-1",
+              "count": 1,
+              "forms": [
+                "navigation system"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "Tiangong Space Station",
+          "chinese": "天宫空间站",
+          "hits": [
+            {
+              "id": "2025-06-1",
+              "count": 1,
+              "forms": [
+                "Tiangong Space Station"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "breakthrough",
+          "chinese": "突破",
+          "hits": [
+            {
+              "id": "2025-12-2",
+              "count": 1,
+              "forms": [
+                "breakthroughs"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "strategic emerging industry",
+          "chinese": "战略性新兴产业",
+          "hits": [
+            {
+              "id": "2026-06-3",
+              "count": 1,
+              "forms": [
+                "strategic emerging industries"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "high-definition",
+          "chinese": "高清的",
+          "hits": [
+            {
+              "id": "2026-06-3",
+              "count": 1,
+              "forms": [
+                "high-definition"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "artificial intelligence",
+          "chinese": "人工智能",
+          "hits": [
+            {
+              "id": "2025-12-2",
+              "count": 1,
+              "forms": [
+                "artificial intelligence"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "intelligent assistant",
+          "chinese": "智能助手",
+          "hits": [
+            {
+              "id": "2026-06-3",
+              "count": 1,
+              "forms": [
+                "intelligent assistants"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "science and technology",
+          "chinese": "科学技术",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "research and development",
+          "chinese": "研发",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "spacecraft",
+          "chinese": "航天器",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "outer space",
+          "chinese": "外太空",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "scientific experiment",
+          "chinese": "科学实验",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "civilian applications",
+          "chinese": "民用应用",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "reliable",
+          "chinese": "可靠的",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "independently developed",
+          "chinese": "自主研发的",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "医疗科技",
+      "paper_ids": [
+        "2026-06-1"
+      ],
+      "words": [
+        {
+          "english": "patients",
+          "chinese": "患者",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 5,
+              "forms": [
+                "patients"
+              ]
+            }
+          ],
+          "count": 5,
+          "coverage": 1
+        },
+        {
+          "english": "consultations",
+          "chinese": "咨询",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 2,
+              "forms": [
+                "consultation",
+                "consultations"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "telemedicine",
+          "chinese": "远程医疗",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "telemedicine"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "healthcare",
+          "chinese": "医疗卫生",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "healthcare"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "medical resources",
+          "chinese": "医疗资源",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "medical resources"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "medical experts",
+          "chinese": "医学专家",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "medical experts"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "remote areas",
+          "chinese": "偏远地区",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "remote areas"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "treatment plans",
+          "chinese": "治疗方案",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "treatment plans"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "early symptoms",
+          "chinese": "早期症状",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "early symptoms"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "electronic health records",
+          "chinese": "电子健康档案",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "electronic health records"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "medical history",
+          "chinese": "病史",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "medical histories"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "online medical consultation",
+          "chinese": "线上医疗咨询",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "Online medical consultation"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "health needs",
+          "chinese": "健康需求",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "health needs"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "high-quality medical resources",
+          "chinese": "优质医疗资源",
+          "hits": [
+            {
+              "id": "2026-06-1",
+              "count": 1,
+              "forms": [
+                "high-quality medical resources"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "artificial intelligence",
+          "chinese": "人工智能",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "diagnostic systems",
+          "chinese": "诊断系统",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "diagnostic accuracy",
+          "chinese": "诊断准确率",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "identify symptoms",
+          "chinese": "识别症状",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "formulate and implement",
+          "chinese": "制定并实施",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "avoid repeated examinations",
+          "chinese": "避免重复检查",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "数字经济与乡村发展",
+      "paper_ids": [
+        "2026-06-2"
+      ],
+      "words": [
+        {
+          "english": "e-commerce",
+          "chinese": "电子商务",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 3,
+              "forms": [
+                "E-commerce",
+                "e-commerce"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "rural residents",
+          "chinese": "农村居民",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 2,
+              "forms": [
+                "rural residents"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "agricultural products",
+          "chinese": "农产品",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 2,
+              "forms": [
+                "agricultural products"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "urban consumers",
+          "chinese": "城市消费者",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 2,
+              "forms": [
+                "urban consumers"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "digital economy",
+          "chinese": "数字经济",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "digital economy"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "rural revitalization",
+          "chinese": "乡村振兴",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "rural revitalization"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "logistics network",
+          "chinese": "物流网络",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "logistics networks"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "e-commerce platforms",
+          "chinese": "电子商务平台",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "e-commerce platforms"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "live-streaming commerce",
+          "chinese": "直播带货",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "live-streaming commerce"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "information barriers",
+          "chinese": "信息壁垒",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "information barriers"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "sales channels",
+          "chinese": "销售渠道",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "sales channels"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "vitality",
+          "chinese": "活力",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "vitality"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "integration",
+          "chinese": "融合",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "integration"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "unprecedented vitality",
+          "chinese": "前所未有的活力",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "unprecedented vitality"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "promote rural development",
+          "chinese": "促进农村发展",
+          "hits": [
+            {
+              "id": "2026-06-2",
+              "count": 1,
+              "forms": [
+                "promote rural development"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "real-time interaction",
+          "chinese": "实时互动",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "increase income",
+          "chinese": "增加收入",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "expand sales channels",
+          "chinese": "拓宽销售渠道",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "sell directly to consumers",
+          "chinese": "直接向消费者销售",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "break down barriers",
+          "chinese": "打破壁垒",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "养老与社会保障",
+      "paper_ids": [
+        "2025-12-1",
+        "2023-12-3",
+        "2023-12-2",
+        "2023-12-1"
+      ],
+      "words": [
+        {
+          "english": "the elderly",
+          "chinese": "老年人",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 6,
+              "forms": [
+                "the elderly"
+              ]
+            },
+            {
+              "id": "2023-12-3",
+              "count": 5,
+              "forms": [
+                "the elderly"
+              ]
+            },
+            {
+              "id": "2023-12-2",
+              "count": 2,
+              "forms": [
+                "the elderly"
+              ]
+            },
+            {
+              "id": "2023-12-1",
+              "count": 2,
+              "forms": [
+                "the elderly"
+              ]
+            }
+          ],
+          "count": 15,
+          "coverage": 4
+        },
+        {
+          "english": "elderly care",
+          "chinese": "养老",
+          "hits": [
+            {
+              "id": "2023-12-3",
+              "count": 3,
+              "forms": [
+                "elderly care"
+              ]
+            },
+            {
+              "id": "2023-12-2",
+              "count": 1,
+              "forms": [
+                "elderly care"
+              ]
+            },
+            {
+              "id": "2023-12-1",
+              "count": 4,
+              "forms": [
+                "elderly care"
+              ]
+            }
+          ],
+          "count": 8,
+          "coverage": 3
+        },
+        {
+          "english": "aging society",
+          "chinese": "老龄化社会",
+          "hits": [
+            {
+              "id": "2023-12-2",
+              "count": 1,
+              "forms": [
+                "aging society"
+              ]
+            },
+            {
+              "id": "2023-12-1",
+              "count": 1,
+              "forms": [
+                "aging society"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "care institutions",
+          "chinese": "养老机构",
+          "hits": [
+            {
+              "id": "2023-12-3",
+              "count": 1,
+              "forms": [
+                "care institutions"
+              ]
+            },
+            {
+              "id": "2023-12-1",
+              "count": 1,
+              "forms": [
+                "care institutions"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "population aging",
+          "chinese": "人口老龄化",
+          "hits": [
+            {
+              "id": "2023-12-2",
+              "count": 2,
+              "forms": [
+                "population aging"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "social security",
+          "chinese": "社会保障",
+          "hits": [
+            {
+              "id": "2023-12-2",
+              "count": 2,
+              "forms": [
+                "social security"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "respecting the elderly",
+          "chinese": "尊老",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 2,
+              "forms": [
+                "Respecting the elderly"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "community canteens",
+          "chinese": "社区食堂",
+          "hits": [
+            {
+              "id": "2023-12-3",
+              "count": 1,
+              "forms": [
+                "community canteens"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "community-based care",
+          "chinese": "社区养老",
+          "hits": [
+            {
+              "id": "2023-12-3",
+              "count": 1,
+              "forms": [
+                "community-based care"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "priority seats",
+          "chinese": "优先座位",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 1,
+              "forms": [
+                "priority seats"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "rights and interests",
+          "chinese": "权益",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 1,
+              "forms": [
+                "rights and interests"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "affordable meals",
+          "chinese": "价格实惠的饭菜",
+          "hits": [
+            {
+              "id": "2023-12-3",
+              "count": 1,
+              "forms": [
+                "affordable meals"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "public places",
+          "chinese": "公共场所",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 1,
+              "forms": [
+                "public places"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "social consensus",
+          "chinese": "社会共识",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 1,
+              "forms": [
+                "social consensus"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "coverage",
+          "chinese": "覆盖范围",
+          "hits": [
+            {
+              "id": "2023-12-2",
+              "count": 1,
+              "forms": [
+                "coverage"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "convenient services",
+          "chinese": "便利服务",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 1,
+              "forms": [
+                "convenient services"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "social harmony",
+          "chinese": "社会和谐",
+          "hits": [
+            {
+              "id": "2025-12-1",
+              "count": 1,
+              "forms": [
+                "social harmony"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "older people",
+          "chinese": "老年人",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "aging population",
+          "chinese": "老龄人口",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "home-based care",
+          "chinese": "居家养老",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "nursing homes",
+          "chinese": "养老院",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "food delivery",
+          "chinese": "送餐",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "传统文化与生活习俗",
+      "paper_ids": [
+        "2025-12-3",
+        "2024-06-3",
+        "2024-06-2",
+        "2024-06-1",
+        "2022-09-2",
+        "2022-09-1"
+      ],
+      "words": [
+        {
+          "english": "bamboo",
+          "chinese": "竹子",
+          "hits": [
+            {
+              "id": "2024-06-2",
+              "count": 8,
+              "forms": [
+                "Bamboo",
+                "bamboo"
+              ]
+            }
+          ],
+          "count": 8,
+          "coverage": 1
+        },
+        {
+          "english": "fan",
+          "chinese": "扇子",
+          "hits": [
+            {
+              "id": "2024-06-3",
+              "count": 6,
+              "forms": [
+                "Fans",
+                "fan",
+                "fans"
+              ]
+            }
+          ],
+          "count": 6,
+          "coverage": 1
+        },
+        {
+          "english": "seal",
+          "chinese": "印章",
+          "hits": [
+            {
+              "id": "2022-09-2",
+              "count": 5,
+              "forms": [
+                "seal",
+                "seals"
+              ]
+            }
+          ],
+          "count": 5,
+          "coverage": 1
+        },
+        {
+          "english": "Spring Festival couplets",
+          "chinese": "春联",
+          "hits": [
+            {
+              "id": "2022-09-1",
+              "count": 4,
+              "forms": [
+                "Spring Festival couplet",
+                "Spring Festival couplets"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 1
+        },
+        {
+          "english": "calligraphy",
+          "chinese": "书法",
+          "hits": [
+            {
+              "id": "2022-09-2",
+              "count": 3,
+              "forms": [
+                "calligraphy"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "frugality",
+          "chinese": "节俭",
+          "hits": [
+            {
+              "id": "2025-12-3",
+              "count": 2,
+              "forms": [
+                "Frugality",
+                "frugality"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "horizontal scroll",
+          "chinese": "横批",
+          "hits": [
+            {
+              "id": "2022-09-1",
+              "count": 2,
+              "forms": [
+                "horizontal scroll"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "consumption",
+          "chinese": "消费",
+          "hits": [
+            {
+              "id": "2025-12-3",
+              "count": 2,
+              "forms": [
+                "consumption"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "traditional virtue",
+          "chinese": "传统美德",
+          "hits": [
+            {
+              "id": "2025-12-3",
+              "count": 1,
+              "forms": [
+                "traditional virtue"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "traditional wedding customs",
+          "chinese": "传统婚礼习俗",
+          "hits": [
+            {
+              "id": "2024-06-1",
+              "count": 1,
+              "forms": [
+                "traditional wedding customs"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "celebration",
+          "chinese": "庆典",
+          "hits": [
+            {
+              "id": "2024-06-1",
+              "count": 1,
+              "forms": [
+                "celebration"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "carving",
+          "chinese": "雕刻",
+          "hits": [
+            {
+              "id": "2022-09-2",
+              "count": 1,
+              "forms": [
+                "carving"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "symbol of power",
+          "chinese": "权力的象征",
+          "hits": [
+            {
+              "id": "2022-09-2",
+              "count": 1,
+              "forms": [
+                "symbol of power"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "craftsmanship",
+          "chinese": "工艺",
+          "hits": [
+            {
+              "id": "2022-09-2",
+              "count": 1,
+              "forms": [
+                "craftsmanship"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "works of art",
+          "chinese": "艺术品",
+          "hits": [
+            {
+              "id": "2024-06-3",
+              "count": 1,
+              "forms": [
+                "works of art"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "chopsticks",
+          "chinese": "筷子",
+          "hits": [
+            {
+              "id": "2024-06-2",
+              "count": 1,
+              "forms": [
+                "chopsticks"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "low-carbon lifestyle",
+          "chinese": "低碳生活方式",
+          "hits": [
+            {
+              "id": "2025-12-3",
+              "count": 1,
+              "forms": [
+                "low-carbon lifestyle"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "recycling",
+          "chinese": "循环利用",
+          "hits": [
+            {
+              "id": "2025-12-3",
+              "count": 1,
+              "forms": [
+                "recycling"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "a long history",
+          "chinese": "悠久历史",
+          "hits": [
+            {
+              "id": "2024-06-1",
+              "count": 1,
+              "forms": [
+                "a long history"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "appreciate",
+          "chinese": "欣赏",
+          "hits": [
+            {
+              "id": "2024-06-3",
+              "count": 1,
+              "forms": [
+                "appreciated"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "wedding rituals",
+          "chinese": "婚礼仪式",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "wisdom",
+          "chinese": "智慧",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "pass down",
+          "chinese": "传承",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "中国文化传播",
+      "paper_ids": [
+        "2023-06-1"
+      ],
+      "words": [
+        {
+          "english": "cultural products",
+          "chinese": "文化产品",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 3,
+              "forms": [
+                "cultural products"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "global market",
+          "chinese": "全球市场",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "global market"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "overseas consumers",
+          "chinese": "海外消费者",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "overseas consumers"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "cultural trade",
+          "chinese": "文化贸易",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "cultural trade"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "exports",
+          "chinese": "出口",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "export"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "cultural enterprises",
+          "chinese": "文化企业",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "cultural enterprises"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "brands",
+          "chinese": "品牌",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "brands"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "publications",
+          "chinese": "出版物",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "publications"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "online literature",
+          "chinese": "网络文学",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "online literature"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "animation",
+          "chinese": "动漫",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "animation"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "Chinese elements",
+          "chinese": "中国元素",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "Chinese elements"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "market share",
+          "chinese": "市场份额",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "market share"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "encourage and support",
+          "chinese": "鼓励和支持",
+          "hits": [
+            {
+              "id": "2023-06-1",
+              "count": 1,
+              "forms": [
+                "encourage and support"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "films and television",
+          "chinese": "影视作品",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "international influence",
+          "chinese": "国际影响力",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "worldwide influence",
+          "chinese": "世界影响力",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "expand overseas markets",
+          "chinese": "扩大海外市场",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "gain popularity",
+          "chinese": "受到欢迎",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "rank among the top",
+          "chinese": "位居前列",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "cultural exchanges",
+          "chinese": "文化交流",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "城市建设与公共服务",
+      "paper_ids": [
+        "2023-06-3",
+        "2023-06-2",
+        "2022-09-3"
+      ],
+      "words": [
+        {
+          "english": "squares",
+          "chinese": "广场",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 1,
+              "forms": [
+                "squares"
+              ]
+            },
+            {
+              "id": "2022-09-3",
+              "count": 1,
+              "forms": [
+                "square"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "living environment",
+          "chinese": "人居环境",
+          "hits": [
+            {
+              "id": "2023-06-3",
+              "count": 2,
+              "forms": [
+                "living environment"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "headquarters",
+          "chinese": "总部",
+          "hits": [
+            {
+              "id": "2022-09-3",
+              "count": 2,
+              "forms": [
+                "Headquarters"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "urban development",
+          "chinese": "城市发展",
+          "hits": [
+            {
+              "id": "2023-06-3",
+              "count": 1,
+              "forms": [
+                "urban development"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "quality of life",
+          "chinese": "生活品质",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 1,
+              "forms": [
+                "quality of life"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "public facilities",
+          "chinese": "公共设施",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 1,
+              "forms": [
+                "public facilities"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "green spaces",
+          "chinese": "绿地",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 1,
+              "forms": [
+                "green spaces"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "parks",
+          "chinese": "公园",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 1,
+              "forms": [
+                "parks"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "fitness equipment",
+          "chinese": "健身器械",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 1,
+              "forms": [
+                "fitness equipment"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "fitness trails",
+          "chinese": "健身步道",
+          "hits": [
+            {
+              "id": "2023-06-2",
+              "count": 1,
+              "forms": [
+                "fitness trails"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "infrastructure",
+          "chinese": "基础设施",
+          "hits": [
+            {
+              "id": "2023-06-3",
+              "count": 1,
+              "forms": [
+                "infrastructure"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "ecological restoration",
+          "chinese": "生态修复",
+          "hits": [
+            {
+              "id": "2023-06-3",
+              "count": 1,
+              "forms": [
+                "ecological restoration"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "landscaping",
+          "chinese": "园林绿化",
+          "hits": [
+            {
+              "id": "2023-06-3",
+              "count": 1,
+              "forms": [
+                "landscaping"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "safety hazards",
+          "chinese": "安全隐患",
+          "hits": [
+            {
+              "id": "2023-06-3",
+              "count": 1,
+              "forms": [
+                "safety hazards"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "livable",
+          "chinese": "宜居的",
+          "hits": [
+            {
+              "id": "2023-06-3",
+              "count": 1,
+              "forms": [
+                "livable"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "architects",
+          "chinese": "建筑师",
+          "hits": [
+            {
+              "id": "2022-09-3",
+              "count": 1,
+              "forms": [
+                "architects"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "floor area",
+          "chinese": "建筑面积",
+          "hits": [
+            {
+              "id": "2022-09-3",
+              "count": 1,
+              "forms": [
+                "floor area"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "innovative structure",
+          "chinese": "创新结构",
+          "hits": [
+            {
+              "id": "2022-09-3",
+              "count": 1,
+              "forms": [
+                "innovative structure"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "construction materials",
+          "chinese": "建筑材料",
+          "hits": [
+            {
+              "id": "2022-09-3",
+              "count": 1,
+              "forms": [
+                "construction materials"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "public spaces",
+          "chinese": "公共场所",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "urban governance",
+          "chinese": "城市治理",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "old residential communities",
+          "chinese": "老旧小区",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "sightseeing",
+          "chinese": "观光",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "meet people's needs",
+          "chinese": "满足人们的需求",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "交通工程与区域经济",
+      "paper_ids": [
+        "2025-06-3",
+        "2025-06-2",
+        "2024-12-2",
+        "2022-06-3",
+        "2022-06-2",
+        "2022-06-1"
+      ],
+      "words": [
+        {
+          "english": "construction",
+          "chinese": "建设",
+          "hits": [
+            {
+              "id": "2025-06-3",
+              "count": 1,
+              "forms": [
+                "construction"
+              ]
+            },
+            {
+              "id": "2025-06-2",
+              "count": 1,
+              "forms": [
+                "construction"
+              ]
+            },
+            {
+              "id": "2022-06-3",
+              "count": 2,
+              "forms": [
+                "construction"
+              ]
+            },
+            {
+              "id": "2022-06-2",
+              "count": 1,
+              "forms": [
+                "construction"
+              ]
+            },
+            {
+              "id": "2022-06-1",
+              "count": 1,
+              "forms": [
+                "construction"
+              ]
+            }
+          ],
+          "count": 6,
+          "coverage": 5
+        },
+        {
+          "english": "bridge",
+          "chinese": "桥梁",
+          "hits": [
+            {
+              "id": "2022-06-3",
+              "count": 8,
+              "forms": [
+                "Bridge",
+                "Bridges",
+                "bridge"
+              ]
+            },
+            {
+              "id": "2022-06-2",
+              "count": 6,
+              "forms": [
+                "Bridge",
+                "bridge"
+              ]
+            },
+            {
+              "id": "2022-06-1",
+              "count": 7,
+              "forms": [
+                "Bridge",
+                "bridge"
+              ]
+            }
+          ],
+          "count": 21,
+          "coverage": 3
+        },
+        {
+          "english": "economic development",
+          "chinese": "经济发展",
+          "hits": [
+            {
+              "id": "2025-06-3",
+              "count": 1,
+              "forms": [
+                "economic development"
+              ]
+            },
+            {
+              "id": "2025-06-2",
+              "count": 2,
+              "forms": [
+                "economic development"
+              ]
+            },
+            {
+              "id": "2022-06-2",
+              "count": 1,
+              "forms": [
+                "economic development"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 3
+        },
+        {
+          "english": "arch",
+          "chinese": "拱",
+          "hits": [
+            {
+              "id": "2022-06-3",
+              "count": 2,
+              "forms": [
+                "arch",
+                "arches"
+              ]
+            },
+            {
+              "id": "2022-06-1",
+              "count": 1,
+              "forms": [
+                "arch"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 2
+        },
+        {
+          "english": "Greater Bay Area",
+          "chinese": "大湾区",
+          "hits": [
+            {
+              "id": "2025-06-2",
+              "count": 4,
+              "forms": [
+                "Greater Bay Area"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 1
+        },
+        {
+          "english": "railway",
+          "chinese": "铁路",
+          "hits": [
+            {
+              "id": "2022-06-2",
+              "count": 3,
+              "forms": [
+                "railway"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "water resources",
+          "chinese": "水资源",
+          "hits": [
+            {
+              "id": "2025-06-3",
+              "count": 3,
+              "forms": [
+                "water resources"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "stone bridge",
+          "chinese": "石桥",
+          "hits": [
+            {
+              "id": "2022-06-1",
+              "count": 2,
+              "forms": [
+                "stone bridge"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "pillar",
+          "chinese": "柱子",
+          "hits": [
+            {
+              "id": "2022-06-1",
+              "count": 2,
+              "forms": [
+                "pillar",
+                "pillars"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "deep-water port",
+          "chinese": "深水港",
+          "hits": [
+            {
+              "id": "2024-12-2",
+              "count": 2,
+              "forms": [
+                "deep-water port",
+                "deep-water ports"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "shipping center",
+          "chinese": "航运中心",
+          "hits": [
+            {
+              "id": "2024-12-2",
+              "count": 2,
+              "forms": [
+                "shipping center"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "span",
+          "chinese": "跨度",
+          "hits": [
+            {
+              "id": "2022-06-3",
+              "count": 1,
+              "forms": [
+                "span"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "highway",
+          "chinese": "公路",
+          "hits": [
+            {
+              "id": "2022-06-2",
+              "count": 1,
+              "forms": [
+                "highway"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "earthquake",
+          "chinese": "地震",
+          "hits": [
+            {
+              "id": "2022-06-3",
+              "count": 1,
+              "forms": [
+                "earthquakes"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "flood",
+          "chinese": "洪水",
+          "hits": [
+            {
+              "id": "2022-06-3",
+              "count": 1,
+              "forms": [
+                "floods"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "geographical location",
+          "chinese": "地理位置",
+          "hits": [
+            {
+              "id": "2025-06-2",
+              "count": 1,
+              "forms": [
+                "geographical location"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "water shortage",
+          "chinese": "缺水",
+          "hits": [
+            {
+              "id": "2025-06-3",
+              "count": 1,
+              "forms": [
+                "water shortage"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "South-to-North Water Diversion Project",
+          "chinese": "南水北调工程",
+          "hits": [
+            {
+              "id": "2025-06-3",
+              "count": 1,
+              "forms": [
+                "South-to-North Water Diversion Project"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "transportation hub",
+          "chinese": "交通枢纽",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "container",
+          "chinese": "集装箱",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "industrial system",
+          "chinese": "产业体系",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "regional economy",
+          "chinese": "区域经济",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "facilitate exchanges",
+          "chinese": "便利交流",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "transport goods",
+          "chinese": "运输货物",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "地理生态与旅游",
+      "paper_ids": [
+        "2022-12-3",
+        "2022-12-2",
+        "2022-12-1",
+        "2021-06-3",
+        "2021-06-2",
+        "2021-06-1"
+      ],
+      "words": [
+        {
+          "english": "plateau",
+          "chinese": "高原",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 4,
+              "forms": [
+                "Plateau",
+                "plateau"
+              ]
+            },
+            {
+              "id": "2022-12-2",
+              "count": 5,
+              "forms": [
+                "Plateau",
+                "plateau"
+              ]
+            },
+            {
+              "id": "2022-12-1",
+              "count": 4,
+              "forms": [
+                "Plateau",
+                "plateau"
+              ]
+            },
+            {
+              "id": "2021-06-2",
+              "count": 1,
+              "forms": [
+                "plateaus"
+              ]
+            }
+          ],
+          "count": 14,
+          "coverage": 4
+        },
+        {
+          "english": "province",
+          "chinese": "省份",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 2,
+              "forms": [
+                "Province"
+              ]
+            },
+            {
+              "id": "2021-06-3",
+              "count": 2,
+              "forms": [
+                "province"
+              ]
+            },
+            {
+              "id": "2021-06-2",
+              "count": 3,
+              "forms": [
+                "province"
+              ]
+            },
+            {
+              "id": "2021-06-1",
+              "count": 2,
+              "forms": [
+                "province"
+              ]
+            }
+          ],
+          "count": 9,
+          "coverage": 4
+        },
+        {
+          "english": "area",
+          "chinese": "面积",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 2,
+              "forms": [
+                "area"
+              ]
+            },
+            {
+              "id": "2022-12-2",
+              "count": 1,
+              "forms": [
+                "area"
+              ]
+            },
+            {
+              "id": "2022-12-1",
+              "count": 2,
+              "forms": [
+                "area",
+                "areas"
+              ]
+            },
+            {
+              "id": "2021-06-2",
+              "count": 1,
+              "forms": [
+                "area"
+              ]
+            }
+          ],
+          "count": 6,
+          "coverage": 4
+        },
+        {
+          "english": "average altitude",
+          "chinese": "平均海拔",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 1,
+              "forms": [
+                "average altitude"
+              ]
+            },
+            {
+              "id": "2022-12-2",
+              "count": 1,
+              "forms": [
+                "average altitude"
+              ]
+            },
+            {
+              "id": "2022-12-1",
+              "count": 1,
+              "forms": [
+                "average altitude"
+              ]
+            },
+            {
+              "id": "2021-06-3",
+              "count": 1,
+              "forms": [
+                "average altitude"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 4
+        },
+        {
+          "english": "tourists",
+          "chinese": "游客",
+          "hits": [
+            {
+              "id": "2021-06-3",
+              "count": 2,
+              "forms": [
+                "tourist",
+                "tourists"
+              ]
+            },
+            {
+              "id": "2021-06-2",
+              "count": 1,
+              "forms": [
+                "tourist"
+              ]
+            },
+            {
+              "id": "2021-06-1",
+              "count": 1,
+              "forms": [
+                "tourists"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 3
+        },
+        {
+          "english": "square kilometers",
+          "chinese": "平方公里",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 1,
+              "forms": [
+                "square kilometers"
+              ]
+            },
+            {
+              "id": "2022-12-2",
+              "count": 1,
+              "forms": [
+                "square kilometers"
+              ]
+            },
+            {
+              "id": "2022-12-1",
+              "count": 1,
+              "forms": [
+                "square kilometers"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 3
+        },
+        {
+          "english": "pleasant climate",
+          "chinese": "宜人气候",
+          "hits": [
+            {
+              "id": "2021-06-3",
+              "count": 1,
+              "forms": [
+                "pleasant climate"
+              ]
+            },
+            {
+              "id": "2021-06-1",
+              "count": 1,
+              "forms": [
+                "pleasant climate"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "mineral resources",
+          "chinese": "矿产资源",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 1,
+              "forms": [
+                "mineral resources"
+              ]
+            },
+            {
+              "id": "2021-06-3",
+              "count": 1,
+              "forms": [
+                "mineral resources"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "water resources",
+          "chinese": "水资源",
+          "hits": [
+            {
+              "id": "2021-06-3",
+              "count": 1,
+              "forms": [
+                "water resources"
+              ]
+            },
+            {
+              "id": "2021-06-2",
+              "count": 1,
+              "forms": [
+                "water resources"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "ethnic minorities",
+          "chinese": "少数民族",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 1,
+              "forms": [
+                "ethnic minorities"
+              ]
+            },
+            {
+              "id": "2021-06-3",
+              "count": 1,
+              "forms": [
+                "ethnic minorities"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "island",
+          "chinese": "岛屿",
+          "hits": [
+            {
+              "id": "2021-06-1",
+              "count": 2,
+              "forms": [
+                "Island",
+                "island"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "biodiversity",
+          "chinese": "生物多样性",
+          "hits": [
+            {
+              "id": "2021-06-1",
+              "count": 1,
+              "forms": [
+                "biodiversity"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "customs",
+          "chinese": "习俗",
+          "hits": [
+            {
+              "id": "2021-06-3",
+              "count": 1,
+              "forms": [
+                "customs"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "religions",
+          "chinese": "宗教",
+          "hits": [
+            {
+              "id": "2021-06-3",
+              "count": 1,
+              "forms": [
+                "religions"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "tourist destination",
+          "chinese": "旅游目的地",
+          "hits": [
+            {
+              "id": "2021-06-3",
+              "count": 1,
+              "forms": [
+                "tourist destinations"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "sustainable development",
+          "chinese": "可持续发展",
+          "hits": [
+            {
+              "id": "2021-06-3",
+              "count": 1,
+              "forms": [
+                "sustainable development"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "grassland",
+          "chinese": "草原",
+          "hits": [
+            {
+              "id": "2022-12-1",
+              "count": 1,
+              "forms": [
+                "grassland"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "forests",
+          "chinese": "森林",
+          "hits": [
+            {
+              "id": "2022-12-3",
+              "count": 1,
+              "forms": [
+                "forest"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "ecological system",
+          "chinese": "生态系统",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "wildlife",
+          "chinese": "野生动物",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "soil erosion",
+          "chinese": "水土流失",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "desertification",
+          "chinese": "沙漠化",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "unique scenery",
+          "chinese": "独特景色",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "protection",
+          "chinese": "保护",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "历史人物与中外交流",
+      "paper_ids": [
+        "2023-03-3",
+        "2023-03-2",
+        "2023-03-1"
+      ],
+      "words": [
+        {
+          "english": "cultural exchanges",
+          "chinese": "文化交流",
+          "hits": [
+            {
+              "id": "2023-03-3",
+              "count": 1,
+              "forms": [
+                "cultural exchanges"
+              ]
+            },
+            {
+              "id": "2023-03-2",
+              "count": 1,
+              "forms": [
+                "cultural exchanges"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 2
+        },
+        {
+          "english": "Western Regions",
+          "chinese": "西域",
+          "hits": [
+            {
+              "id": "2023-03-3",
+              "count": 4,
+              "forms": [
+                "Western Regions"
+              ]
+            }
+          ],
+          "count": 4,
+          "coverage": 1
+        },
+        {
+          "english": "voyage",
+          "chinese": "航行",
+          "hits": [
+            {
+              "id": "2023-03-2",
+              "count": 3,
+              "forms": [
+                "voyage",
+                "voyages"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "Silk Road",
+          "chinese": "丝绸之路",
+          "hits": [
+            {
+              "id": "2023-03-3",
+              "count": 2,
+              "forms": [
+                "Silk Road"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "geographer",
+          "chinese": "地理学家",
+          "hits": [
+            {
+              "id": "2023-03-1",
+              "count": 1,
+              "forms": [
+                "geographer"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "explorer",
+          "chinese": "探险家",
+          "hits": [
+            {
+              "id": "2023-03-3",
+              "count": 1,
+              "forms": [
+                "explorer"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "navigator",
+          "chinese": "航海家",
+          "hits": [
+            {
+              "id": "2023-03-2",
+              "count": 1,
+              "forms": [
+                "navigator"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "fleet",
+          "chinese": "船队",
+          "hits": [
+            {
+              "id": "2023-03-2",
+              "count": 1,
+              "forms": [
+                "fleet"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "diplomacy",
+          "chinese": "外交",
+          "hits": [
+            {
+              "id": "2023-03-2",
+              "count": 1,
+              "forms": [
+                "diplomacy"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "military affairs",
+          "chinese": "军事",
+          "hits": [
+            {
+              "id": "2023-03-2",
+              "count": 1,
+              "forms": [
+                "military affairs"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "Central Plains",
+          "chinese": "中原",
+          "hits": [
+            {
+              "id": "2023-03-3",
+              "count": 1,
+              "forms": [
+                "Central Plains"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "silk fabrics",
+          "chinese": "丝织品",
+          "hits": [
+            {
+              "id": "2023-03-3",
+              "count": 1,
+              "forms": [
+                "silk fabrics"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "unique species",
+          "chinese": "特有物种",
+          "hits": [
+            {
+              "id": "2023-03-3",
+              "count": 1,
+              "forms": [
+                "unique species"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "historians",
+          "chinese": "历史学家",
+          "hits": [
+            {
+              "id": "2023-03-3",
+              "count": 1,
+              "forms": [
+                "historians"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "trade relations",
+          "chinese": "贸易关系",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "diplomatic missions",
+          "chinese": "外交出使",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "geographical culture",
+          "chinese": "地理文化",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "brave hardships",
+          "chinese": "不畏艰险",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "overcome difficulties",
+          "chinese": "克服困难",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "broaden horizons",
+          "chinese": "开阔视野",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "travel on foot",
+          "chinese": "徒步旅行",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "remote areas",
+          "chinese": "偏远地区",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    },
+    {
+      "section": "translation",
+      "theme": "革命历史与纪念场所",
+      "paper_ids": [
+        "2021-12-3",
+        "2021-12-2",
+        "2021-12-1"
+      ],
+      "words": [
+        {
+          "english": "patriotism",
+          "chinese": "爱国主义",
+          "hits": [
+            {
+              "id": "2021-12-3",
+              "count": 1,
+              "forms": [
+                "patriotism"
+              ]
+            },
+            {
+              "id": "2021-12-2",
+              "count": 1,
+              "forms": [
+                "patriotism"
+              ]
+            },
+            {
+              "id": "2021-12-1",
+              "count": 1,
+              "forms": [
+                "patriotism"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 3
+        },
+        {
+          "english": "revolution",
+          "chinese": "革命",
+          "hits": [
+            {
+              "id": "2021-12-3",
+              "count": 3,
+              "forms": [
+                "Revolution",
+                "revolution"
+              ]
+            },
+            {
+              "id": "2021-12-2",
+              "count": 3,
+              "forms": [
+                "revolution"
+              ]
+            }
+          ],
+          "count": 6,
+          "coverage": 2
+        },
+        {
+          "english": "memorial hall",
+          "chinese": "纪念馆",
+          "hits": [
+            {
+              "id": "2021-12-3",
+              "count": 1,
+              "forms": [
+                "memorial halls"
+              ]
+            },
+            {
+              "id": "2021-12-1",
+              "count": 2,
+              "forms": [
+                "memorial hall"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 2
+        },
+        {
+          "english": "Communist Party of China",
+          "chinese": "中国共产党",
+          "hits": [
+            {
+              "id": "2021-12-1",
+              "count": 3,
+              "forms": [
+                "Communist Party of China"
+              ]
+            }
+          ],
+          "count": 3,
+          "coverage": 1
+        },
+        {
+          "english": "revolutionary history",
+          "chinese": "革命历史",
+          "hits": [
+            {
+              "id": "2021-12-2",
+              "count": 2,
+              "forms": [
+                "revolutionary history"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "National Congress",
+          "chinese": "全国代表大会",
+          "hits": [
+            {
+              "id": "2021-12-1",
+              "count": 2,
+              "forms": [
+                "National Congress"
+              ]
+            }
+          ],
+          "count": 2,
+          "coverage": 1
+        },
+        {
+          "english": "revolutionary base",
+          "chinese": "革命根据地",
+          "hits": [
+            {
+              "id": "2021-12-2",
+              "count": 1,
+              "forms": [
+                "revolutionary base"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "revolutionary martyrs",
+          "chinese": "革命先烈",
+          "hits": [
+            {
+              "id": "2021-12-1",
+              "count": 1,
+              "forms": [
+                "revolutionary martyrs"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "liberation",
+          "chinese": "解放",
+          "hits": [
+            {
+              "id": "2021-12-3",
+              "count": 1,
+              "forms": [
+                "Liberation"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "Red Army",
+          "chinese": "红军",
+          "hits": [
+            {
+              "id": "2021-12-2",
+              "count": 1,
+              "forms": [
+                "Red Army"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "resolution",
+          "chinese": "决议",
+          "hits": [
+            {
+              "id": "2021-12-1",
+              "count": 1,
+              "forms": [
+                "resolution"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "program",
+          "chinese": "纲领",
+          "hits": [
+            {
+              "id": "2021-12-1",
+              "count": 1,
+              "forms": [
+                "program"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "restore",
+          "chinese": "修复",
+          "hits": [
+            {
+              "id": "2021-12-1",
+              "count": 1,
+              "forms": [
+                "restored"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "commemorate",
+          "chinese": "纪念",
+          "hits": [
+            {
+              "id": "2021-12-1",
+              "count": 1,
+              "forms": [
+                "commemorate"
+              ]
+            }
+          ],
+          "count": 1,
+          "coverage": 1
+        },
+        {
+          "english": "historical sites",
+          "chinese": "历史遗址",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "patriotic education",
+          "chinese": "爱国主义教育",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "leadership",
+          "chinese": "领导机构",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "open to the public",
+          "chinese": "向公众开放",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "make contributions",
+          "chinese": "作出贡献",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        },
+        {
+          "english": "authentic historical setting",
+          "chinese": "真实的历史风貌",
+          "hits": [],
+          "count": 0,
+          "coverage": 0
+        }
+      ]
+    }
+  ],
+  "topic_expression_entries": 415,
+  "entries_found_in_texts": 260,
+  "transfer_entries": 155
+}

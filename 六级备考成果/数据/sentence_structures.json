@@ -1,0 +1,2249 @@
+[
+  {
+    "pattern": "not only ... but also ...",
+    "note": "不仅……而且……；并列两部分保持相同语法形式。",
+    "matched_sentences": 22,
+    "example": {
+      "id": "S012884",
+      "unit": "U05805",
+      "category": "翻译参考译文",
+      "text": "This not only marks China's tremendous progress in aerospace technology, but also demonstrates that China has made significant contributions to global space research and application.",
+      "zh": "天宫空间站(Tiangong Space Station)是中国首个太空实验室,拥有110多立方米使用空间,可驻留三名宇航员,在距地球表面400-450公里的轨道上运行。天宫空间站已实施180多个科学研究与应用项目,涉及空间生命科学、太空医学、空间材料科学等领域。天宫空间站的研究成果在我国得到了广泛应用,产生了显著的经济效益。例如,太空育种创造的直接经济效益高达数千亿元。这不仅标志中国在航天技术上取得了巨大进步,也表明中国为全球的太空研究和应用做出了重大贡献。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2025-06-1_part-iv.html",
+          "page": null,
+          "session": "2025-06",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第1套【可复制可检索，打印首选】.pdf",
+            "page": 9,
+            "session": "2025-06",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2025年参考表达.pdf",
+            "page": 3,
+            "paragraph_start_page": 3,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "this",
+        "not",
+        "only",
+        "mark",
+        "china",
+        "tremendous",
+        "progress",
+        "in",
+        "aerospace",
+        "technology",
+        "but",
+        "also",
+        "demonstrate",
+        "that",
+        "china",
+        "have",
+        "make",
+        "significant",
+        "contribution",
+        "to",
+        "global",
+        "space",
+        "research",
+        "and",
+        "application"
+      ]
+    }
+  },
+  {
+    "pattern": "there is / are ...",
+    "note": "用存在句引出现象；后接名词短语。",
+    "matched_sentences": 244,
+    "example": {
+      "id": "S012748",
+      "unit": "U05781",
+      "category": "翻译参考译文",
+      "text": "The stone lions on the bridge are too numerous to count, so there is a popular saying in the Beijing area: \"The stone lions on Lugou Bridge are simply countless.\"",
+      "zh": "卢沟桥位于天安门广场西南15公里处,横跨永定河,是北京现存最古老的多拱石桥。卢沟桥最初建成于1192年,1698年重建,由281根柱子支撑。每根柱子上都有一头石狮。这些石狮的头、背、腹部或爪子上都藏着更多的狮子。这些石狮生动逼真、千姿百态,是卢沟桥石刻艺术的精品。桥上的石狮不计其数,因而北京地区流传着\"卢沟桥上的石狮子——数不清\"的说法。 卢沟桥不仅以其美学特征闻名于世,还被公认为石桥建筑史上的一座丰碑。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2022-06-1_part-iv.html",
+          "page": null,
+          "session": "2022-06",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2022-06-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第1套【可复制可搜索，打印首选】.pdf",
+            "page": 10,
+            "session": "2022-06",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2022年参考表达.pdf",
+            "page": 3,
+            "paragraph_start_page": 3,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "the",
+        "stone",
+        "lion",
+        "on",
+        "the",
+        "bridge",
+        "be",
+        "too",
+        "numerous",
+        "to",
+        "count",
+        "so",
+        "there",
+        "be",
+        "popular",
+        "saying",
+        "in",
+        "the",
+        "beijing",
+        "area",
+        "the",
+        "stone",
+        "lion",
+        "on",
+        "bridge",
+        "be",
+        "simply",
+        "countless"
+      ]
+    }
+  },
+  {
+    "pattern": "It is ... to ...",
+    "note": "用形式主语承接不定式；重点是后面的具体行动。",
+    "matched_sentences": 157,
+    "example": {
+      "id": "S012894",
+      "unit": "U05807",
+      "category": "翻译参考译文",
+      "text": "Divided into eastern, central and western routes with a total length of 4,350 kilometers, it is expected to benefit more than 400 million people.",
+      "zh": "自古以来,中国的水资源北缺南丰,分布极不均衡。为了有效解决北方严重缺水问题,中国政府实施了南水北调工程(the South-to-North Water Diversion Project)。这是一项跨区域配置水资源的宏大水利工程。历经数十年的规划与筹备,工程于2002年开工建设,分为东、中、西三条线路,总长4350公里,惠及人口将超过4亿。自2014年通水以来,工程向北方调水累计已超500亿立方米,为北方地区的人民提供了可靠的水资源,同时也极大地改善了这一地区的生态环境,促进了经济的可持续健康发展。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2025-06-3_part-iv.html",
+          "page": null,
+          "session": "2025-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第3套【可复制可检索，打印首选】.pdf",
+            "page": 6,
+            "session": "2025-06",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2025年参考表达.pdf",
+            "page": 7,
+            "paragraph_start_page": 7,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "divide",
+        "into",
+        "eastern",
+        "central",
+        "and",
+        "western",
+        "route",
+        "with",
+        "total",
+        "length",
+        "of",
+        "kilometer",
+        "it",
+        "be",
+        "expect",
+        "to",
+        "benefit",
+        "more",
+        "than",
+        "million",
+        "people"
+      ]
+    }
+  },
+  {
+    "pattern": "It is ... that ...",
+    "note": "形式主语或强调结构；先判断that从句在句中的作用。",
+    "matched_sentences": 82,
+    "example": {
+      "id": "S012897",
+      "unit": "U05808",
+      "category": "翻译参考译文",
+      "text": "Deeply rooted in the thoughts and behavior of the Chinese people, it is a code of conduct and a social norm that people widely observe.",
+      "zh": "尊老是中华民族的传统美德,深深植根于中国人的思想和行为中,是人们普遍遵守的行为规范和社会准则。在当今的中国,这种美德得到广泛传承。社会各界积极营造敬老助老的社会氛围。为老年人提供便利服务已成为社会共识,例如社区专门开设长者食堂,公共场所配置优先座位。政府还出台了一系列政策,为老年人的权益提供有力保障。尊老是社会和谐与发展的重要基石,有助于培育良好的社会氛围,推动整个社会文明进步。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2025-12-1_part-iv.html",
+          "page": null,
+          "session": "2025-12",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第1套【可复制可检索，打印首选】.pdf",
+            "page": 9,
+            "session": "2025-12",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2025年参考表达.pdf",
+            "page": 9,
+            "paragraph_start_page": 9,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "deeply",
+        "root",
+        "in",
+        "the",
+        "thought",
+        "and",
+        "behavior",
+        "of",
+        "the",
+        "chinese",
+        "people",
+        "it",
+        "be",
+        "code",
+        "of",
+        "conduct",
+        "and",
+        "social",
+        "norm",
+        "that",
+        "people",
+        "widely",
+        "observe"
+      ]
+    }
+  },
+  {
+    "pattern": "which ...",
+    "note": "定语从句补充说明名词或前面的情况；不要让which指代不明。",
+    "matched_sentences": 304,
+    "example": {
+      "id": "S012846",
+      "unit": "U05799",
+      "category": "翻译参考译文",
+      "text": "A complete set of wedding ceremonies gradually took shape as early as the Zhou Dynasty, some of which have been followed to this day.",
+      "zh": "中国的传统婚礼习俗历史悠久,从周朝开始就逐渐形成了一套完整的婚礼仪式,有些一直沿用至今。如今的中式婚礼习俗已有很大变化,但婚礼庆典仍然十分隆重。婚礼场地经过精心装饰,以象征喜庆 (jubilance) 的红色为主色调,摆放着许多祝愿新人幸福的物件。在婚礼上,新人要拜天地 (bow to Heaven and Earth)、拜父母和相互对拜,然后设宴招待宾客,并向宾客敬酒致谢。今天,许多年轻人依然钟情于传统的中式婚礼,体验独特而美好的中国式浪漫。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2024-06-1_part-iv.html",
+          "page": null,
+          "session": "2024-06",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第1套）.pdf",
+            "page": 10,
+            "session": "2024-06",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2024年参考表达.pdf",
+            "page": 3,
+            "paragraph_start_page": 3,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "complete",
+        "set",
+        "of",
+        "wed",
+        "ceremony",
+        "gradually",
+        "take",
+        "shape",
+        "as",
+        "early",
+        "a",
+        "the",
+        "zhou",
+        "dynasty",
+        "some",
+        "of",
+        "which",
+        "have",
+        "be",
+        "follow",
+        "to",
+        "this",
+        "day"
+      ]
+    }
+  },
+  {
+    "pattern": "that ...",
+    "note": "连接宾语从句或定语从句；按原句识别它修饰或补充的内容。",
+    "matched_sentences": 1917,
+    "example": {
+      "id": "S012897",
+      "unit": "U05808",
+      "category": "翻译参考译文",
+      "text": "Deeply rooted in the thoughts and behavior of the Chinese people, it is a code of conduct and a social norm that people widely observe.",
+      "zh": "尊老是中华民族的传统美德,深深植根于中国人的思想和行为中,是人们普遍遵守的行为规范和社会准则。在当今的中国,这种美德得到广泛传承。社会各界积极营造敬老助老的社会氛围。为老年人提供便利服务已成为社会共识,例如社区专门开设长者食堂,公共场所配置优先座位。政府还出台了一系列政策,为老年人的权益提供有力保障。尊老是社会和谐与发展的重要基石,有助于培育良好的社会氛围,推动整个社会文明进步。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2025-12-1_part-iv.html",
+          "page": null,
+          "session": "2025-12",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第1套【可复制可检索，打印首选】.pdf",
+            "page": 9,
+            "session": "2025-12",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2025年参考表达.pdf",
+            "page": 9,
+            "paragraph_start_page": 9,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "deeply",
+        "root",
+        "in",
+        "the",
+        "thought",
+        "and",
+        "behavior",
+        "of",
+        "the",
+        "chinese",
+        "people",
+        "it",
+        "be",
+        "code",
+        "of",
+        "conduct",
+        "and",
+        "social",
+        "norm",
+        "that",
+        "people",
+        "widely",
+        "observe"
+      ]
+    }
+  },
+  {
+    "pattern": "who ...",
+    "note": "修饰人的定语从句；主谓一致看先行词。",
+    "matched_sentences": 410,
+    "example": {
+      "id": "S012733",
+      "unit": "U05778",
+      "category": "翻译参考译文",
+      "text": "In addition to introducing the delegates who attended the Congress, the memorial hall also presents the course of the Party's historical development.",
+      "zh": "中国共产党第一次全国代表大会会址位于上海兴业路76号,是一栋典型的上海式住宅,建于1920年秋。1921年7月23日,中国共产党第一次全国代表大会在此召开,大会通过了中国共产党的第一个纲领和第一个决议,选举产生了中央领导机构,宣告了中国共产党的诞生。1952年9月,中共一大会址修复,建立纪念馆并对外开放。纪念馆除了介绍参加一大的代表之外,还介绍党的历史发展进程,现已成为了解党史,缅怀革命先烈的爱国主义教育基地。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2021-12-1_part-iv.html",
+          "page": null,
+          "session": "2021-12",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2021-12-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第1套）.pdf",
+            "page": 12,
+            "session": "2021-12",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2021年参考表达.pdf",
+            "page": 9,
+            "paragraph_start_page": 9,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "in",
+        "addition",
+        "to",
+        "introduce",
+        "the",
+        "delegate",
+        "who",
+        "attend",
+        "the",
+        "congress",
+        "the",
+        "memorial",
+        "hall",
+        "also",
+        "present",
+        "the",
+        "course",
+        "of",
+        "the",
+        "party",
+        "historical",
+        "development"
+      ]
+    }
+  },
+  {
+    "pattern": "where ...",
+    "note": "说明地点或情境；区分关系副词与名词性从句。",
+    "matched_sentences": 140,
+    "example": {
+      "id": "S012734",
+      "unit": "U05778",
+      "category": "翻译参考译文",
+      "text": "It has now become a base for patriotism education, where people can learn about the Party's history and commemorate revolutionary martyrs.",
+      "zh": "中国共产党第一次全国代表大会会址位于上海兴业路76号,是一栋典型的上海式住宅,建于1920年秋。1921年7月23日,中国共产党第一次全国代表大会在此召开,大会通过了中国共产党的第一个纲领和第一个决议,选举产生了中央领导机构,宣告了中国共产党的诞生。1952年9月,中共一大会址修复,建立纪念馆并对外开放。纪念馆除了介绍参加一大的代表之外,还介绍党的历史发展进程,现已成为了解党史,缅怀革命先烈的爱国主义教育基地。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2021-12-1_part-iv.html",
+          "page": null,
+          "session": "2021-12",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2021-12-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第1套）.pdf",
+            "page": 12,
+            "session": "2021-12",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2021年参考表达.pdf",
+            "page": 9,
+            "paragraph_start_page": 9,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "it",
+        "have",
+        "now",
+        "become",
+        "base",
+        "for",
+        "patriotism",
+        "education",
+        "where",
+        "people",
+        "can",
+        "learn",
+        "about",
+        "the",
+        "party",
+        "history",
+        "and",
+        "commemorate",
+        "revolutionary",
+        "martyr"
+      ]
+    }
+  },
+  {
+    "pattern": "when ...",
+    "note": "时间或情境从句；不要把所有when都译成时间点。",
+    "matched_sentences": 464,
+    "example": {
+      "id": "S012910",
+      "unit": "U05810",
+      "category": "翻译参考译文",
+      "text": "Today, when material wealth is abundant, the Chinese people still maintain a frugal lifestyle, reflecting their concept of rational consumption and their respect for labor.",
+      "zh": "节俭 (frugality) 是中华民族的传统美德。在中国古代,生产力低下,先人们深知劳动成果来之不易,因而秉持节俭的理念。到了物质极大丰富的今天,中国人民依然坚持节俭的生活方式,体现了理性消费的生活理念和对劳动的尊重。近年来,中国政府持续加强节约型社会的建设,倡导\"光盘行动\",减少食物浪费,提倡简约低碳的生活方式,推进资源循环利用,反对过度消费。节约型社会的建设有力地推动了中国经济的高质量发展。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2025-12-3_part-iv.html",
+          "page": null,
+          "session": "2025-12",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第3套【可复制可检索，打印首选】.pdf",
+            "page": 6,
+            "session": "2025-12",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2025年参考表达.pdf",
+            "page": 13,
+            "paragraph_start_page": 13,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "today",
+        "when",
+        "material",
+        "wealth",
+        "be",
+        "abundant",
+        "the",
+        "chinese",
+        "people",
+        "still",
+        "maintain",
+        "frugal",
+        "lifestyle",
+        "reflect",
+        "their",
+        "concept",
+        "of",
+        "rational",
+        "consumption",
+        "and",
+        "their",
+        "respect",
+        "for",
+        "labor"
+      ]
+    }
+  },
+  {
+    "pattern": "while ...",
+    "note": "可表示同时发生或对比；按上下文判断。",
+    "matched_sentences": 160,
+    "example": {
+      "id": "S012895",
+      "unit": "U05807",
+      "category": "翻译参考译文",
+      "text": "Since the water supply began in 2014, the project has diverted over 50 billion cubic meters of water to the north, providing reliable water resources for people in the region, while greatly improving the local ecological environment and promoting sustainable and healthy economic development.",
+      "zh": "自古以来,中国的水资源北缺南丰,分布极不均衡。为了有效解决北方严重缺水问题,中国政府实施了南水北调工程(the South-to-North Water Diversion Project)。这是一项跨区域配置水资源的宏大水利工程。历经数十年的规划与筹备,工程于2002年开工建设,分为东、中、西三条线路,总长4350公里,惠及人口将超过4亿。自2014年通水以来,工程向北方调水累计已超500亿立方米,为北方地区的人民提供了可靠的水资源,同时也极大地改善了这一地区的生态环境,促进了经济的可持续健康发展。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2025-06-3_part-iv.html",
+          "page": null,
+          "session": "2025-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第3套【可复制可检索，打印首选】.pdf",
+            "page": 6,
+            "session": "2025-06",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2025年参考表达.pdf",
+            "page": 7,
+            "paragraph_start_page": 7,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "since",
+        "the",
+        "water",
+        "supply",
+        "begin",
+        "in",
+        "the",
+        "project",
+        "have",
+        "divert",
+        "over",
+        "billion",
+        "cubic",
+        "meter",
+        "of",
+        "water",
+        "to",
+        "the",
+        "north",
+        "provide",
+        "reliable",
+        "water",
+        "resource",
+        "for",
+        "people",
+        "in",
+        "the",
+        "region",
+        "while",
+        "greatly",
+        "improve",
+        "the",
+        "local",
+        "ecological",
+        "environment",
+        "and",
+        "promote",
+        "sustainable",
+        "and",
+        "healthy",
+        "economic",
+        "development"
+      ]
+    }
+  },
+  {
+    "pattern": "although ...",
+    "note": "让步关系；同一主从句不再重复使用but。",
+    "matched_sentences": 43,
+    "example": {
+      "id": "S012863",
+      "unit": "U05801",
+      "category": "翻译参考译文",
+      "text": "Today, although the practical function of fans has greatly weakened, the fan, as a cultural symbol and an art form, still plays an important role in traditional Chinese culture.",
+      "zh": "扇子自古以来就深受中国人喜爱,但现在已不只是消暑纳凉的工具,而更多地作为艺术品供人欣赏。许多扇子造型优美、做工精良,并绘有山水、花鸟、人物等精美图案,具有很高的艺术价值。中国许多著名画家和书法家喜欢在扇子上作诗绘画,展示其艺术品味。扇子常作为礼物赠予他人,表达美好的祝福和真挚的情感。如今,扇子的实用功能已大为减弱, 但作为一种文化符号和艺术形式,扇子仍然在中国传统文化中扮演着重要角色。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2024-06-3_part-iv.html",
+          "page": null,
+          "session": "2024-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
+            "page": 7,
+            "session": "2024-06",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2024年参考表达.pdf",
+            "page": 7,
+            "paragraph_start_page": 7,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "today",
+        "although",
+        "the",
+        "practical",
+        "function",
+        "of",
+        "fan",
+        "have",
+        "greatly",
+        "weaken",
+        "the",
+        "fan",
+        "a",
+        "cultural",
+        "symbol",
+        "and",
+        "an",
+        "art",
+        "form",
+        "still",
+        "play",
+        "an",
+        "important",
+        "role",
+        "in",
+        "traditional",
+        "chinese",
+        "culture"
+      ]
+    }
+  },
+  {
+    "pattern": "even though ...",
+    "note": "尽管……；承认事实后引出另一层判断。",
+    "matched_sentences": 17,
+    "example": {
+      "id": "S005347",
+      "unit": "U03360",
+      "category": "阅读真题",
+      "text": "Only a third of parents involve their children in discussions about their household finances, even though less",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\2026年06月六级真题第3套_懒笔记整理版.pdf",
+          "page": 4,
+          "session": "2026-06",
+          "suite": "3",
+          "method": "text",
+          "locator": "选项O"
+        }
+      ],
+      "lemmata": [
+        "only",
+        "third",
+        "of",
+        "parent",
+        "involve",
+        "their",
+        "child",
+        "in",
+        "discussion",
+        "about",
+        "their",
+        "household",
+        "finance",
+        "even",
+        "though",
+        "less"
+      ]
+    }
+  },
+  {
+    "pattern": "even if ...",
+    "note": "即使……；强调假设条件。",
+    "matched_sentences": 20,
+    "example": {
+      "id": "S012286",
+      "unit": "U05732",
+      "category": "听力原文",
+      "text": "But scientists do not always know the purpose of a pattern, or even if there is one.",
+      "zh": "但科学家并不总是知道某种图案的作用，甚至不知道它是否具有作用。相关的分子过程足够简单，因此它们可能只是偶然形成了某种图案。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\2026-06-2_听力解析.html",
+          "page": null,
+          "session": "2026-06",
+          "suite": "2",
+          "method": "补充原文",
+          "locator": "Questions 12 to 15 are based on the passage you have just heard. 播放本篇 p-12-4",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-2/#p-12-4",
+          "local_pdf_match": {
+            "file": "补充资料_2026年6月\\2026年06月六级解析第2套_懒笔记整理版.pdf",
+            "page": 34,
+            "session": "2026-06",
+            "suite": "2",
+            "method": "text",
+            "locator": "p-12-4"
+          },
+          "match_score": 100.0,
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2026年听力原文.pdf",
+            "page": 23,
+            "paragraph_start_page": 23,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "but",
+        "scientist",
+        "do",
+        "not",
+        "always",
+        "know",
+        "the",
+        "purpose",
+        "of",
+        "pattern",
+        "or",
+        "even",
+        "if",
+        "there",
+        "be",
+        "one"
+      ]
+    }
+  },
+  {
+    "pattern": "if ...",
+    "note": "条件从句；区分真实条件与虚拟假设。",
+    "matched_sentences": 364,
+    "example": {
+      "id": "S003661",
+      "unit": "U02320",
+      "category": "阅读真题",
+      "text": "You are only your job if you let it be so.",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第2套）.pdf",
+          "page": 9,
+          "session": "2024-06",
+          "suite": "2",
+          "method": "text",
+          "locator": "题50"
+        }
+      ],
+      "lemmata": [
+        "you",
+        "be",
+        "only",
+        "your",
+        "job",
+        "if",
+        "you",
+        "let",
+        "it",
+        "be",
+        "so"
+      ]
+    }
+  },
+  {
+    "pattern": "unless ...",
+    "note": "除非……；避免与否定词重复造成意思相反。",
+    "matched_sentences": 16,
+    "example": {
+      "id": "S000739",
+      "unit": "U00464",
+      "category": "阅读真题",
+      "text": "In most states and cities, you can take a right on red unless otherwise indicated.",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第3套【可复制可检索，打印首选】.pdf",
+          "page": 3,
+          "session": "2025-12",
+          "suite": "3",
+          "method": "text",
+          "locator": "Section B"
+        }
+      ],
+      "lemmata": [
+        "in",
+        "most",
+        "state",
+        "and",
+        "city",
+        "you",
+        "can",
+        "take",
+        "right",
+        "on",
+        "red",
+        "unless",
+        "otherwise",
+        "indicate"
+      ]
+    }
+  },
+  {
+    "pattern": "as long as ...",
+    "note": "只要……；用于给出明确条件。",
+    "matched_sentences": 10,
+    "example": {
+      "id": "S001758",
+      "unit": "U01145",
+      "category": "听力选项",
+      "text": "To keep the food cold as long as possible.",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第2套【可复制可检索，打印首选】.pdf",
+          "page": 2,
+          "session": "2025-06",
+          "suite": "2",
+          "method": "text",
+          "locator": "题13 选项D"
+        }
+      ],
+      "lemmata": [
+        "to",
+        "keep",
+        "the",
+        "food",
+        "cold",
+        "as",
+        "long",
+        "a",
+        "possible"
+      ]
+    }
+  },
+  {
+    "pattern": "because ...",
+    "note": "因为……；后接完整原因从句。",
+    "matched_sentences": 225,
+    "example": {
+      "id": "S012777",
+      "unit": "U05786",
+      "category": "翻译参考译文",
+      "text": "Consisting of two towers, the main building has become a popular attraction in the city because of its unique shape, attracting crowds of visitors every day.",
+      "zh": "中央电视台总部大楼位于北京市朝阳区,总建筑面积约55万平方米。主楼由两座塔楼组成,因其独特的造型,成为这座城市的一个热门景点,每天都吸引众多游客前来参观。 大楼的创新结构是中外建筑师长期合作的成果,不仅体现了环保意识,而且大大节约了建筑材料。中央电视台总部设有一条穿过大楼的专用通道,向公众展示各个工作室以及中央电视台的历史。在那里,参观者还可以看到故宫和北京其他地方的壮观景色。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2022-09-3_part-iv.html",
+          "page": null,
+          "session": "2022-09",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2022-09-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+            "page": 13,
+            "session": "2022-09",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2022年参考表达.pdf",
+            "page": 13,
+            "paragraph_start_page": 13,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "consist",
+        "of",
+        "two",
+        "tower",
+        "the",
+        "main",
+        "building",
+        "have",
+        "become",
+        "popular",
+        "attraction",
+        "in",
+        "the",
+        "city",
+        "because",
+        "of",
+        "it",
+        "unique",
+        "shape",
+        "attract",
+        "crowd",
+        "of",
+        "visitor",
+        "every",
+        "day"
+      ]
+    }
+  },
+  {
+    "pattern": "since ...",
+    "note": "表示自从或由于；由时态和逻辑判断。",
+    "matched_sentences": 83,
+    "example": {
+      "id": "S012890",
+      "unit": "U05807",
+      "category": "翻译参考译文",
+      "text": "Since ancient times, China's water resources have been unevenly distributed, with water scarce in the north but abundant in the south.",
+      "zh": "自古以来,中国的水资源北缺南丰,分布极不均衡。为了有效解决北方严重缺水问题,中国政府实施了南水北调工程(the South-to-North Water Diversion Project)。这是一项跨区域配置水资源的宏大水利工程。历经数十年的规划与筹备,工程于2002年开工建设,分为东、中、西三条线路,总长4350公里,惠及人口将超过4亿。自2014年通水以来,工程向北方调水累计已超500亿立方米,为北方地区的人民提供了可靠的水资源,同时也极大地改善了这一地区的生态环境,促进了经济的可持续健康发展。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2025-06-3_part-iv.html",
+          "page": null,
+          "session": "2025-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第3套【可复制可检索，打印首选】.pdf",
+            "page": 6,
+            "session": "2025-06",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2025年参考表达.pdf",
+            "page": 7,
+            "paragraph_start_page": 7,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "since",
+        "ancient",
+        "time",
+        "china",
+        "water",
+        "resource",
+        "have",
+        "be",
+        "unevenly",
+        "distribute",
+        "with",
+        "water",
+        "scarce",
+        "in",
+        "the",
+        "north",
+        "but",
+        "abundant",
+        "in",
+        "the",
+        "south"
+      ]
+    }
+  },
+  {
+    "pattern": "as ...",
+    "note": "可能引出时间、原因、比较或方式；不要固定译为一个词义。",
+    "matched_sentences": 959,
+    "example": {
+      "id": "S012862",
+      "unit": "U05801",
+      "category": "翻译参考译文",
+      "text": "Fans are also often given to others as gifts to convey good wishes and sincere feelings.",
+      "zh": "扇子自古以来就深受中国人喜爱,但现在已不只是消暑纳凉的工具,而更多地作为艺术品供人欣赏。许多扇子造型优美、做工精良,并绘有山水、花鸟、人物等精美图案,具有很高的艺术价值。中国许多著名画家和书法家喜欢在扇子上作诗绘画,展示其艺术品味。扇子常作为礼物赠予他人,表达美好的祝福和真挚的情感。如今,扇子的实用功能已大为减弱, 但作为一种文化符号和艺术形式,扇子仍然在中国传统文化中扮演着重要角色。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2024-06-3_part-iv.html",
+          "page": null,
+          "session": "2024-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
+            "page": 7,
+            "session": "2024-06",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2024年参考表达.pdf",
+            "page": 7,
+            "paragraph_start_page": 7,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "fan",
+        "be",
+        "also",
+        "often",
+        "give",
+        "to",
+        "others",
+        "a",
+        "gift",
+        "to",
+        "convey",
+        "good",
+        "wish",
+        "and",
+        "sincere",
+        "feeling"
+      ]
+    }
+  },
+  {
+    "pattern": "so that ...",
+    "note": "以便或因此……；结合后文判断目的和结果。",
+    "matched_sentences": 25,
+    "example": {
+      "id": "S012835",
+      "unit": "U05797",
+      "category": "翻译参考译文",
+      "text": "By reforming the social security system, the government keeps increasing social security funding and gradually expanding its coverage, so that more elderly people can benefit.",
+      "zh": "随着经济与社会的发展,中国人口结构发生了显著变化,逐渐步入老龄化社会。中国老年人口将持续增加,人口老龄化趋势将更加明显。为了应对人口老龄化带来的种种挑战,国家正积极采取措施,加大对养老的支持。通过改革社会保障(social security)制度,政府不断增加社会保障经费,逐步扩大社会保障覆盖范围,使更多老年人受益。政府还鼓励各种社会团体为老年人提供服务。在政府和社会团体的共同努力下,老年人将生活得更加幸福。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2023-12-2_part-iv.html",
+          "page": null,
+          "session": "2023-12",
+          "suite": "2",
+          "source_suite": "2",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2023-12-2/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第2套.pdf",
+            "page": 9,
+            "session": "2023-12",
+            "suite": "2",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2023年参考表达.pdf",
+            "page": 17,
+            "paragraph_start_page": 17,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "by",
+        "reform",
+        "the",
+        "social",
+        "security",
+        "system",
+        "the",
+        "government",
+        "keep",
+        "increase",
+        "social",
+        "security",
+        "funding",
+        "and",
+        "gradually",
+        "expand",
+        "it",
+        "coverage",
+        "so",
+        "that",
+        "more",
+        "elderly",
+        "people",
+        "can",
+        "benefit"
+      ]
+    }
+  },
+  {
+    "pattern": "rather than ...",
+    "note": "而不是……；对应的两部分要平行。",
+    "matched_sentences": 87,
+    "example": {
+      "id": "S001956",
+      "unit": "U01266",
+      "category": "阅读真题",
+      "text": "It arouses pity rather than respect from the wealthy.",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第2套【可复制可检索，打印首选】.pdf",
+          "page": 7,
+          "session": "2025-06",
+          "suite": "2",
+          "method": "text",
+          "locator": "题48 选项C"
+        }
+      ],
+      "lemmata": [
+        "it",
+        "arouse",
+        "pity",
+        "rather",
+        "than",
+        "respect",
+        "from",
+        "the",
+        "wealthy"
+      ]
+    }
+  },
+  {
+    "pattern": "instead of ...",
+    "note": "用……代替……；of后接名词或动名词。",
+    "matched_sentences": 60,
+    "example": {
+      "id": "S012774",
+      "unit": "U05785",
+      "category": "翻译参考译文",
+      "text": "While artists from other countries usually sign their names on their paintings, Chinese artists tend to stamp their seals on their works of painting and calligraphy instead of signing.",
+      "zh": "自古以来,印章在中国就是身份的凭证和权力的象征。印章不仅具有实用性,而且也是一种艺术形式,是一门集书法与雕刻于一体的古老艺术,经常被看作与书画并列的独立艺术品。印章从材料的选择、制作的工艺到字体的设计,都具有极其丰富的美学表现。其他国家的艺术家通常在其绘画作品上签名,而中国艺术家则往往在其书画作品上盖上印章代替签名。这样,印章也就成为作品的组成部分,是体现作品独特性的一种方式。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2022-09-2_part-iv.html",
+          "page": null,
+          "session": "2022-09",
+          "suite": "2",
+          "source_suite": "2",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2022-09-2/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+            "page": 12,
+            "session": "2022-09",
+            "suite": "2",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2022年参考表达.pdf",
+            "page": 11,
+            "paragraph_start_page": 11,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "while",
+        "artist",
+        "from",
+        "other",
+        "country",
+        "usually",
+        "sign",
+        "their",
+        "name",
+        "on",
+        "their",
+        "painting",
+        "chinese",
+        "artist",
+        "tend",
+        "to",
+        "stamp",
+        "their",
+        "seal",
+        "on",
+        "their",
+        "work",
+        "of",
+        "painting",
+        "and",
+        "calligraphy",
+        "instead",
+        "of",
+        "sign"
+      ]
+    }
+  },
+  {
+    "pattern": "by doing ...",
+    "note": "通过某种行动实现目标；by后用动名词。",
+    "matched_sentences": 143,
+    "example": {
+      "id": "S012911",
+      "unit": "U05810",
+      "category": "翻译参考译文",
+      "text": "In recent years, the Chinese government has been strengthening the building of a resource-conserving society by advocating the \"Clear Your Plate\" campaign to reduce food waste, promoting a simple and low-carbon lifestyle, advancing the recycling of resources, and opposing excessive consumption.",
+      "zh": "节俭 (frugality) 是中华民族的传统美德。在中国古代,生产力低下,先人们深知劳动成果来之不易,因而秉持节俭的理念。到了物质极大丰富的今天,中国人民依然坚持节俭的生活方式,体现了理性消费的生活理念和对劳动的尊重。近年来,中国政府持续加强节约型社会的建设,倡导\"光盘行动\",减少食物浪费,提倡简约低碳的生活方式,推进资源循环利用,反对过度消费。节约型社会的建设有力地推动了中国经济的高质量发展。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2025-12-3_part-iv.html",
+          "page": null,
+          "session": "2025-12",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第3套【可复制可检索，打印首选】.pdf",
+            "page": 6,
+            "session": "2025-12",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2025年参考表达.pdf",
+            "page": 13,
+            "paragraph_start_page": 13,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "in",
+        "recent",
+        "year",
+        "the",
+        "chinese",
+        "government",
+        "have",
+        "be",
+        "strengthen",
+        "the",
+        "building",
+        "of",
+        "resource-conserving",
+        "society",
+        "by",
+        "advocate",
+        "the",
+        "clear",
+        "your",
+        "plate",
+        "campaign",
+        "to",
+        "reduce",
+        "food",
+        "waste",
+        "promote",
+        "simple",
+        "and",
+        "low-carbon",
+        "lifestyle",
+        "advance",
+        "the",
+        "recycling",
+        "of",
+        "resource",
+        "and",
+        "oppose",
+        "excessive",
+        "consumption"
+      ]
+    }
+  },
+  {
+    "pattern": "without doing ...",
+    "note": "在没有做……的情况下；without后用动名词。",
+    "matched_sentences": 47,
+    "example": {
+      "id": "S003372",
+      "unit": "U02144",
+      "category": "听力选项",
+      "text": "Blended all his food without using a machine.",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第2套）.pdf",
+          "page": 1,
+          "session": "2024-06",
+          "suite": "2",
+          "method": "text",
+          "locator": "题1 选项B"
+        }
+      ],
+      "lemmata": [
+        "blend",
+        "all",
+        "his",
+        "food",
+        "without",
+        "use",
+        "machine"
+      ]
+    }
+  },
+  {
+    "pattern": "with ...",
+    "note": "引出背景、伴随因素或资源；with后不要直接接完整谓语句。",
+    "matched_sentences": 1013,
+    "example": {
+      "id": "S012925",
+      "unit": "U05813",
+      "category": "翻译参考译文",
+      "text": "In recent years, China's drone industry has been booming, with its export volume ranking first in the world.",
+      "zh": "近年来,中国无人机(drone) 产业蓬勃发展,出口量跃升为全球第一。中国的无人机以出色的稳 定性、高清 (high-definition)拍摄能力和便捷的操作,受到全球消费者的喜爱,在民用领域得到广泛应用。无人机已被国家纳入战略性新兴产业,逐步成为能满足多种场景需求的智能助手。在农村,无人机可精准识别农作物病虫害,高效喷洒农药。在城市,无人机可快速运送生鲜食品。在不久的将来, 无人机能够在更多领域实现其独特价值,为经济社会发展注入新动能。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2026-06-3_part-iv.html",
+          "page": null,
+          "session": "2026-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2026-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "补充资料_2026年6月\\2026年06月六级真题第3套_懒笔记整理版.pdf",
+            "page": 8,
+            "session": "2026-06",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2026年参考表达.pdf",
+            "page": 7,
+            "paragraph_start_page": 7,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "in",
+        "recent",
+        "year",
+        "china",
+        "drone",
+        "industry",
+        "have",
+        "be",
+        "boom",
+        "with",
+        "it",
+        "export",
+        "volume",
+        "rank",
+        "first",
+        "in",
+        "the",
+        "world"
+      ]
+    }
+  },
+  {
+    "pattern": "one of the ...",
+    "note": "……之一；通常后接可数名词复数。",
+    "matched_sentences": 70,
+    "example": {
+      "id": "S012868",
+      "unit": "U05803",
+      "category": "翻译参考译文",
+      "text": "Yangshan Port is an important part of the Shanghai shipping center, China's first deep-water port, and one of the largest deep-water ports in the world.",
+      "zh": "洋山港(Yangshan Port)是上海航运中心的重要组成部分,是中国第一个深水港,也是世界上规模最大的深水港之一。经过近20年的发展,洋山港已实现高度自动化。数字技术和人工智能的使用大大减少了用工成本和碳排放。自主研发的码头管理系统可以在百公里之外对大型设备进行远程操控。洋山港看上去一片繁忙,现场却见不到人工操作,而且能够24小时不间断运作。洋山港将不断发展,为把上海建成一个全球航运中心做出更大贡献。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2024-12-2_part-iv.html",
+          "page": null,
+          "session": "2024-12",
+          "suite": "2",
+          "source_suite": "2",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2024-12-2/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第2套.pdf",
+            "page": 9,
+            "session": "2024-12",
+            "suite": "2",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2024年参考表达.pdf",
+            "page": 11,
+            "paragraph_start_page": 11,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "port",
+        "be",
+        "an",
+        "important",
+        "part",
+        "of",
+        "the",
+        "shanghai",
+        "shipping",
+        "center",
+        "china",
+        "first",
+        "deep-water",
+        "port",
+        "and",
+        "one",
+        "of",
+        "the",
+        "large",
+        "deep-water",
+        "port",
+        "in",
+        "the",
+        "world"
+      ]
+    }
+  },
+  {
+    "pattern": "such as ...",
+    "note": "列举具体例子；与前面的类别对应。",
+    "matched_sentences": 105,
+    "example": {
+      "id": "S012866",
+      "unit": "U05802",
+      "category": "翻译参考译文",
+      "text": "The system has been widely applied in many fields such as transportation, disaster relief, weather forecasting and public safety.",
+      "zh": "北斗(Beidou)卫星导航系统的成功研制是中国自改革开放以来取得的一项重大科技成就。研发人员经过不懈努力,攻克了一系列技术难题,北斗系统最终实现了全球覆盖和高精度定位,使中国成为世界上少数几个独立拥有全球卫星导航系统的国家之一。北斗系统已广泛应用于交通运输、灾害救援、天气预报、公共安全等诸多领域。北斗系统现在已经在国际上得到广泛认可,开始为越来越多的国家和地区提供优质服务。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2024-12-1_part-iv.html",
+          "page": null,
+          "session": "2024-12",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2024-12-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第1套.pdf",
+            "page": 9,
+            "session": "2024-12",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2024年参考表达.pdf",
+            "page": 9,
+            "paragraph_start_page": 9,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "the",
+        "system",
+        "have",
+        "be",
+        "widely",
+        "apply",
+        "in",
+        "many",
+        "field",
+        "such",
+        "a",
+        "transportation",
+        "disaster",
+        "relief",
+        "weather",
+        "forecasting",
+        "and",
+        "public",
+        "safety"
+      ]
+    }
+  },
+  {
+    "pattern": "including ...",
+    "note": "补充列举范围；后接名词短语。",
+    "matched_sentences": 44,
+    "example": {
+      "id": "S012825",
+      "unit": "U05795",
+      "category": "翻译参考译文",
+      "text": "China has been carrying out a series of efforts, including the ecological restoration and functional improvement of cities, the comprehensive renovation of old urban residential communities, the vigorous promotion of urban landscaping and afforestation, and the elimination of pollution.",
+      "zh": "近年来,中国城市加快发展,城市人居环境得到显著改善。许多城市努力探索中国特色的城市高质量发展之路,城市功能不断完善,治理水平明显提高。中国持续开展城市生态修复和功能修补,全面实施城镇老旧小区改造,大力推进城市园林绿化,消除污染 ;同时大力推进城市基础设施体系化建设,开展房屋建筑和市政设施普查以及安全隐患排查整治,努力为市民创造高品质的生活环境,让城市更美丽、更安全、更宜居。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2023-06-3_part-iv.html",
+          "page": null,
+          "session": "2023-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2023-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第3套.pdf",
+            "page": 6,
+            "session": "2023-06",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2023年参考表达.pdf",
+            "page": 13,
+            "paragraph_start_page": 13,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "china",
+        "have",
+        "be",
+        "carry",
+        "out",
+        "series",
+        "of",
+        "effort",
+        "include",
+        "the",
+        "ecological",
+        "restoration",
+        "and",
+        "functional",
+        "improvement",
+        "of",
+        "city",
+        "the",
+        "comprehensive",
+        "renovation",
+        "of",
+        "old",
+        "urban",
+        "residential",
+        "community",
+        "the",
+        "vigorous",
+        "promotion",
+        "of",
+        "urban",
+        "landscaping",
+        "and",
+        "afforestation",
+        "and",
+        "the",
+        "elimination",
+        "of",
+        "pollution"
+      ]
+    }
+  },
+  {
+    "pattern": "compared with / to ...",
+    "note": "与……相比；被比较对象保持一致。",
+    "matched_sentences": 21,
+    "example": {
+      "id": "S002795",
+      "unit": "U01780",
+      "category": "阅读真题",
+      "text": "It is less energy-efficient compared to that in cities.",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第2套.pdf",
+          "page": 7,
+          "session": "2024-12",
+          "suite": "2",
+          "method": "text",
+          "locator": "题47 选项B"
+        }
+      ],
+      "lemmata": [
+        "it",
+        "be",
+        "less",
+        "energy-efficient",
+        "compare",
+        "to",
+        "that",
+        "in",
+        "city"
+      ]
+    }
+  },
+  {
+    "pattern": "be associated with ...",
+    "note": "与……存在关联；关联不能自动当成因果。",
+    "matched_sentences": 12,
+    "example": {
+      "id": "S003869",
+      "unit": "U02427",
+      "category": "阅读真题",
+      "text": "Exposure to fewer faces during childhood is associated with diminished face memory.\"",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
+          "page": 7,
+          "session": "2024-06",
+          "suite": "3",
+          "method": "text",
+          "locator": "题50",
+          "sentence_page_check": "exact"
+        }
+      ],
+      "lemmata": [
+        "exposure",
+        "to",
+        "few",
+        "face",
+        "during",
+        "childhood",
+        "be",
+        "associate",
+        "with",
+        "diminished",
+        "face",
+        "memory"
+      ]
+    }
+  },
+  {
+    "pattern": "be likely to ...",
+    "note": "可能会……；用于谨慎表达判断。",
+    "matched_sentences": 27,
+    "example": {
+      "id": "S003633",
+      "unit": "U02316",
+      "category": "阅读真题",
+      "text": "They are likely to blame the government for their plight.",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第2套）.pdf",
+          "page": 8,
+          "session": "2024-06",
+          "suite": "2",
+          "method": "text",
+          "locator": "题50 选项A"
+        }
+      ],
+      "lemmata": [
+        "they",
+        "be",
+        "likely",
+        "to",
+        "blame",
+        "the",
+        "government",
+        "for",
+        "their",
+        "plight"
+      ]
+    }
+  },
+  {
+    "pattern": "be expected to ...",
+    "note": "预计或被期待会……；区分预测与要求。",
+    "matched_sentences": 12,
+    "example": {
+      "id": "S012894",
+      "unit": "U05807",
+      "category": "翻译参考译文",
+      "text": "Divided into eastern, central and western routes with a total length of 4,350 kilometers, it is expected to benefit more than 400 million people.",
+      "zh": "自古以来,中国的水资源北缺南丰,分布极不均衡。为了有效解决北方严重缺水问题,中国政府实施了南水北调工程(the South-to-North Water Diversion Project)。这是一项跨区域配置水资源的宏大水利工程。历经数十年的规划与筹备,工程于2002年开工建设,分为东、中、西三条线路,总长4350公里,惠及人口将超过4亿。自2014年通水以来,工程向北方调水累计已超500亿立方米,为北方地区的人民提供了可靠的水资源,同时也极大地改善了这一地区的生态环境,促进了经济的可持续健康发展。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2025-06-3_part-iv.html",
+          "page": null,
+          "session": "2025-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第3套【可复制可检索，打印首选】.pdf",
+            "page": 6,
+            "session": "2025-06",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2025年参考表达.pdf",
+            "page": 7,
+            "paragraph_start_page": 7,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "divide",
+        "into",
+        "eastern",
+        "central",
+        "and",
+        "western",
+        "route",
+        "with",
+        "total",
+        "length",
+        "of",
+        "kilometer",
+        "it",
+        "be",
+        "expect",
+        "to",
+        "benefit",
+        "more",
+        "than",
+        "million",
+        "people"
+      ]
+    }
+  },
+  {
+    "pattern": "be used to ...",
+    "note": "被用于做某事或习惯于某事；后面形式决定意思。",
+    "matched_sentences": 12,
+    "example": {
+      "id": "S003369",
+      "unit": "U02141",
+      "category": "阅读真题",
+      "text": "Its industrial south is used to running factories on conventional energy supplies.",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第1套）.pdf",
+          "page": 10,
+          "session": "2024-06",
+          "suite": "1",
+          "method": "text",
+          "locator": "题55 选项C"
+        }
+      ],
+      "lemmata": [
+        "it",
+        "industrial",
+        "south",
+        "be",
+        "use",
+        "to",
+        "run",
+        "factory",
+        "on",
+        "conventional",
+        "energy",
+        "supply"
+      ]
+    }
+  },
+  {
+    "pattern": "have / has been ...",
+    "note": "现在完成时；结合后面成分判断状态、被动或进行。",
+    "matched_sentences": 193,
+    "example": {
+      "id": "S012857",
+      "unit": "U05800",
+      "category": "翻译参考译文",
+      "text": "For thousands of years, bamboo has been regarded as a symbol of the character of the Chinese nation.",
+      "zh": "中国盛产竹子,是最早开发利用竹资源的国家。竹子在中国分布广泛,品种丰富。竹子实用性强,用于生产和生活的许多方面,如筷子、桌椅的制作和桥梁、房屋的建造。中国人爱竹,自古以来就有无数文人以竹为主题,创作了绚丽多彩的文学和绘画作品。竹子主干(stem) 笔直,象征正直的品格。竹子具有强大的生命力和适应能力,无论环境多么恶劣,都能够顽强生存,因而寓意坚韧不拔的精神。几千年来,竹子一直被视为中华民族品格的象征。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2024-06-2_part-iv.html",
+          "page": null,
+          "session": "2024-06",
+          "suite": "2",
+          "source_suite": "2",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-2/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第2套）.pdf",
+            "page": 10,
+            "session": "2024-06",
+            "suite": "2",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2024年参考表达.pdf",
+            "page": 5,
+            "paragraph_start_page": 5,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "for",
+        "thousand",
+        "of",
+        "year",
+        "bamboo",
+        "have",
+        "be",
+        "regard",
+        "a",
+        "symbol",
+        "of",
+        "the",
+        "character",
+        "of",
+        "the",
+        "chinese",
+        "nation"
+      ]
+    }
+  },
+  {
+    "pattern": "have / has ...",
+    "note": "可表示拥有或完成时；先识别词组中的谓语。",
+    "matched_sentences": 1410,
+    "example": {
+      "id": "S012858",
+      "unit": "U05801",
+      "category": "翻译参考译文",
+      "text": "Fans have long been cherished by the Chinese people.",
+      "zh": "扇子自古以来就深受中国人喜爱,但现在已不只是消暑纳凉的工具,而更多地作为艺术品供人欣赏。许多扇子造型优美、做工精良,并绘有山水、花鸟、人物等精美图案,具有很高的艺术价值。中国许多著名画家和书法家喜欢在扇子上作诗绘画,展示其艺术品味。扇子常作为礼物赠予他人,表达美好的祝福和真挚的情感。如今,扇子的实用功能已大为减弱, 但作为一种文化符号和艺术形式,扇子仍然在中国传统文化中扮演着重要角色。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2024-06-3_part-iv.html",
+          "page": null,
+          "session": "2024-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
+            "page": 7,
+            "session": "2024-06",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2024年参考表达.pdf",
+            "page": 7,
+            "paragraph_start_page": 7,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "fan",
+        "have",
+        "long",
+        "be",
+        "cherish",
+        "by",
+        "the",
+        "chinese",
+        "people"
+      ]
+    }
+  },
+  {
+    "pattern": "be located / situated ...",
+    "note": "位于……；地点介绍中的常用结构。",
+    "matched_sentences": 2,
+    "example": {
+      "id": "S012776",
+      "unit": "U05786",
+      "category": "翻译参考译文",
+      "text": "The CCTV Headquarters is located in the Chaoyang District of Beijing, with a total floor area of about 550,000 square meters.",
+      "zh": "中央电视台总部大楼位于北京市朝阳区,总建筑面积约55万平方米。主楼由两座塔楼组成,因其独特的造型,成为这座城市的一个热门景点,每天都吸引众多游客前来参观。 大楼的创新结构是中外建筑师长期合作的成果,不仅体现了环保意识,而且大大节约了建筑材料。中央电视台总部设有一条穿过大楼的专用通道,向公众展示各个工作室以及中央电视台的历史。在那里,参观者还可以看到故宫和北京其他地方的壮观景色。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2022-09-3_part-iv.html",
+          "page": null,
+          "session": "2022-09",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2022-09-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+            "page": 13,
+            "session": "2022-09",
+            "suite": "3",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2022年参考表达.pdf",
+            "page": 13,
+            "paragraph_start_page": 13,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "the",
+        "cctv",
+        "headquarters",
+        "be",
+        "locate",
+        "in",
+        "the",
+        "district",
+        "of",
+        "beijing",
+        "with",
+        "total",
+        "floor",
+        "area",
+        "of",
+        "about",
+        "square",
+        "meter"
+      ]
+    }
+  },
+  {
+    "pattern": "be known as / for ...",
+    "note": "被称为……或因……而著名。",
+    "matched_sentences": 5,
+    "example": {
+      "id": "S012725",
+      "unit": "U05777",
+      "category": "翻译参考译文",
+      "text": "With its superior ecological environment and diverse species, it is known as a paradise for wild animals and plants.",
+      "zh": "云南是位于中国西南的一个省份,平均海拔 1500米。云南历史悠久,风景秀丽,气候宜人。云南生态环境优越,生物多种多样,被誉为野生动植物的天堂。云南还有多种矿藏和充足的水资源,为全省经济的可持续发展提供了有利条件。 云南居住着25个少数民族,他们大多有自己的语言、习俗和宗教。云南独特的自然景色和丰富的民族文化使其成为中国最受欢迎的旅游目的地之一,每年都吸引着大批国内外游客前往观光旅游。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2021-06-3_part-iv.html",
+          "page": null,
+          "session": "2021-06",
+          "suite": "3",
+          "source_suite": "3",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2021-06-3/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+            "page": 6,
+            "session": "2021-06",
+            "suite": "3",
+            "method": "text+OCR Chinese",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2021年参考表达.pdf",
+            "page": 7,
+            "paragraph_start_page": 7,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "with",
+        "it",
+        "superior",
+        "ecological",
+        "environment",
+        "and",
+        "diverse",
+        "specie",
+        "it",
+        "be",
+        "know",
+        "a",
+        "paradise",
+        "for",
+        "wild",
+        "animal",
+        "and",
+        "plant"
+      ]
+    }
+  },
+  {
+    "pattern": "allow ... to ...",
+    "note": "使某人能够做……；to前写清动作的执行者。",
+    "matched_sentences": 60,
+    "example": {
+      "id": "S002929",
+      "unit": "U01857",
+      "category": "阅读真题",
+      "text": "Money allows us to purchase the work of",
+      "zh": "",
+      "zh_type": "",
+      "sources": [
+        {
+          "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第3套.pdf",
+          "page": 3,
+          "session": "2024-12",
+          "suite": "3",
+          "method": "text",
+          "locator": "选项I"
+        }
+      ],
+      "lemmata": [
+        "money",
+        "allow",
+        "u",
+        "to",
+        "purchase",
+        "the",
+        "work",
+        "of"
+      ]
+    }
+  },
+  {
+    "pattern": "enable ... to ...",
+    "note": "使……能够……；适合描述技术或政策的作用。",
+    "matched_sentences": 26,
+    "example": {
+      "id": "S012917",
+      "unit": "U05811",
+      "category": "翻译参考译文",
+      "text": "The widespread adoption of electronic health records enables doctors to quickly review patients' medical histories, thus avoiding repeated examinations.",
+      "zh": "科技进步使中国的医疗事业得到快速发展。近年来,远程医疗使优质医疗资源惠及更多患者。医学专家可以通过视频为偏远地区患者提供咨询,指导当地医生制定并实施治疗方案。人工智能辅助诊 断系统帮助医生识别患者的早期症状,提高诊断准确率。电子健康档案的普及让医生能够快速了解患 者病史,避免重复检查。线上医疗咨询平台极大地方便了患者就诊。科技与医疗的深度融合更好地满足了人民的健康需求。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2026-06-1_part-iv.html",
+          "page": null,
+          "session": "2026-06",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2026-06-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "补充资料_2026年6月\\2026年06月六级真题第1套_懒笔记整理版.pdf",
+            "page": 11,
+            "session": "2026-06",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2026年参考表达.pdf",
+            "page": 3,
+            "paragraph_start_page": 3,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "the",
+        "widespread",
+        "adoption",
+        "of",
+        "electronic",
+        "health",
+        "record",
+        "enable",
+        "doctor",
+        "to",
+        "quickly",
+        "review",
+        "patient",
+        "medical",
+        "history",
+        "thus",
+        "avoid",
+        "repeat",
+        "examination"
+      ]
+    }
+  },
+  {
+    "pattern": "help ...",
+    "note": "帮助或有助于……；后接的动作体现具体作用。",
+    "matched_sentences": 189,
+    "example": {
+      "id": "S012916",
+      "unit": "U05811",
+      "category": "翻译参考译文",
+      "text": "AI-assisted diagnosis systems help doctors identify patients' early symptoms, thereby improving the accuracy of diagnosis.",
+      "zh": "科技进步使中国的医疗事业得到快速发展。近年来,远程医疗使优质医疗资源惠及更多患者。医学专家可以通过视频为偏远地区患者提供咨询,指导当地医生制定并实施治疗方案。人工智能辅助诊 断系统帮助医生识别患者的早期症状,提高诊断准确率。电子健康档案的普及让医生能够快速了解患 者病史,避免重复检查。线上医疗咨询平台极大地方便了患者就诊。科技与医疗的深度融合更好地满足了人民的健康需求。",
+      "zh_type": "原句所在段的参考译文",
+      "sources": [
+        {
+          "file": "补充资料_2026年6月\\校对参考\\2026-06-1_part-iv.html",
+          "page": null,
+          "session": "2026-06",
+          "suite": "1",
+          "source_suite": "1",
+          "method": "第三方参考译文",
+          "locator": "translation",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/2026-06-1/part-iv/#translation",
+          "local_prompt_pdf": {
+            "file": "补充资料_2026年6月\\2026年06月六级真题第1套_懒笔记整理版.pdf",
+            "page": 11,
+            "session": "2026-06",
+            "suite": "1",
+            "method": "text",
+            "locator": "翻译原文"
+          },
+          "generated_pdf": {
+            "file": "六级备考成果\\学习资料\\来源补充_2026年参考表达.pdf",
+            "page": 3,
+            "paragraph_start_page": 3,
+            "sentence_page_verified": true
+          }
+        }
+      ],
+      "lemmata": [
+        "diagnosis",
+        "system",
+        "help",
+        "doctor",
+        "identify",
+        "patient",
+        "early",
+        "symptom",
+        "thereby",
+        "improve",
+        "the",
+        "accuracy",
+        "of",
+        "diagnosis"
+      ]
+    }
+  }
+]

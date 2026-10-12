@@ -1,0 +1,626 @@
+[
+  {
+    "module": "写作",
+    "session": "2021-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay based on the graph below. You should start your essay with a brief description of the graph and comment on China's achievements in urbanization. ",
+    "verified_prompt": "China's achievements in urbanization"
+  },
+  {
+    "module": "写作",
+    "session": "2021-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China's achievements in higher education. ",
+    "verified_prompt": "China's achievements in higher education "
+  },
+  {
+    "module": "写作",
+    "session": "2021-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a briXf description of the chart and comment on China's achievements in poverty alleviation. ",
+    "verified_prompt": "China's achievements in poverty alleviation"
+  },
+  {
+    "module": "写作",
+    "session": "2021-12",
+    "web_suite": "1",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay based on the short passage given below. In your essay, you are to comment on the phenomenon described in the passage and suggest measures to address the issue. ",
+    "verified_prompt": "Young people spend a lot of time on the Internet. However, they are sometimes unable to recognize false information on the Internet, judge the reliability of online information sources, or tell real news stories from fake ones."
+  },
+  {
+    "module": "写作",
+    "session": "2021-12",
+    "web_suite": "2",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay related to the short passage given below. In your essay, you are to comment on the phenomenon described in the passage and suggest measures to address the issue. ",
+    "verified_prompt": "Nowadays star chasing is prevalent among many teenagers. They take pop stars as their idols, imitating their way of talking, following their style of dressing9 and seeking every chance to meet them in person at great expenses."
+  },
+  {
+    "module": "写作",
+    "session": "2021-12",
+    "web_suite": "3",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay based on the short passage given below. In your essay, you are to comment on the phenomenon described in the passage and suggest measures to address the issue. ",
+    "verified_prompt": "Some parents in China are overprotective of their children. They plan everything for their children, make all the decisions for them, and do not allow them to explore on their own in case they make mistakes or get hurt."
+  },
+  {
+    "module": "写作",
+    "session": "2022-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "Nowadays more and more people choose to live an environmentally friendly lifestyle.99",
+    "verified_prompt": "Nowadays more and more people choose to live an environmentally friendly lifestyle."
+  },
+  {
+    "module": "写作",
+    "session": "2022-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "Nowadays more and more people keep learning new skills to adapt to a fast-changing world.",
+    "verified_prompt": "Nowadays more and more people keep learning new skills to adapt to a fast-changing world."
+  },
+  {
+    "module": "写作",
+    "session": "2022-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "Nowadays more and more people take delight in offering help to the needy.w",
+    "verified_prompt": "Nowadays more and more people take delight in offering help to the needy."
+  },
+  {
+    "module": "写作",
+    "session": "2022-09",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "Nowadays more and more students are becoming increasingly aware of the importance of developing digital skills.",
+    "verified_prompt": "Nowadays more and more students are becoming increasingly aware of the importance of developing digital skills."
+  },
+  {
+    "module": "写作",
+    "session": "2022-09",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "Today more and more people begin to realize the pleasures and joys of real-world social interaction.",
+    "verified_prompt": "Today more and more people begin to realize the pleasures and joys of real-world social interaction."
+  },
+  {
+    "module": "写作",
+    "session": "2022-09",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "It is now widely accepted that mutual trust and openness is the key to promoting cooperation.",
+    "verified_prompt": "It is now widely accepted that mutual trust and openness is the key to promoting cooperation."
+  },
+  {
+    "module": "写作",
+    "session": "2022-12",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence uWith the application o f information technology in education, college students can now learn in more diverse and efficient ways. w You can make statements, give reasons, or cite examples to develop your essay. ",
+    "verified_prompt": "With the application of information technology in education, college students can now learn in more diverse and efficient ways."
+  },
+  {
+    "module": "写作",
+    "session": "2022-12",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence u In an era o f information explosion, it is vitally important to develop the ability to think critically and make rational choices. M You can make statements, give reasons, or cite examples to develop your essay. ",
+    "verified_prompt": "In an era of information explosion, it is vitally important to develop the ability t o think critically and make rational choices."
+  },
+  {
+    "module": "写作",
+    "session": "2022-12",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 98.7,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today increasing importance is being attached to cultivating college studentteam s p ir it.Y o u can make statements, give reasons, or cite examples to develop your essay. ",
+    "verified_prompt": "Today increasing importance is being attached to cultivating college students'team spirit."
+  },
+  {
+    "module": "写作",
+    "session": "2023-03",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "People are now increasingly aware of the danger of \"appearance anxiety' or being obsessed with one s looks.",
+    "verified_prompt": "People are now increasingly aware of the danger of 'appearance anxiety' or being obsessed with one's looks."
+  },
+  {
+    "module": "写作",
+    "session": "2023-03",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence People are now increasingly aware of the challenges in making a decision when faced with too many choices. You can make comments, cite examples or use your personal experiences to develop your essay. You should -write at least 150 words but no more than 200 words. Part IV Translation (30 minutes) Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. ",
+    "verified_prompt": "People are now increasingly aware of the challenges in making a decision when faced with too many choices."
+  },
+  {
+    "module": "写作",
+    "session": "2023-03",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "People are now increasingly aware of the \"digital gap' or challenges the elderly face in a digital world.",
+    "verified_prompt": "People are now increasingly aware of the 'digital gap' or challenges the elderly face in a digital world."
+  },
+  {
+    "module": "写作",
+    "session": "2023-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.",
+    "verified_prompt": "Today there is a growing awareness that mental well-being needs to be given as much attention as physical health."
+  },
+  {
+    "module": "写作",
+    "session": "2023-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "When faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument.",
+    "verified_prompt": "When faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument."
+  },
+  {
+    "module": "写作",
+    "session": "2023-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "It is widely accepted that an important goal of education is to help students learn how to learn.",
+    "verified_prompt": "It is widely accepted that an important goal of education is to help students learn how to learn."
+  },
+  {
+    "module": "写作",
+    "session": "2023-12",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 99.0,
+    "old_prompt": "As is known to all, gaining a sound knowledge of the basics is of vital importance for students to master an academie subject.",
+    "verified_prompt": "As is known to all, gaining a sound knowledge of the basics is of vital importance for students to master an academic subject."
+  },
+  {
+    "module": "写作",
+    "session": "2023-12",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "Nowadays parents are increasingly aware that allowing kids more freedom to explore and learn on their own helps foster their independence and boost their confidence.",
+    "verified_prompt": "Nowadays parents are increasingly aware that allowing kids more freedom to explore and learn on their own helps foster their independence and boost their confidence."
+  },
+  {
+    "module": "写作",
+    "session": "2023-12",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "With their valuable skills and experience, elderly people can continue to make significant contributions to society.",
+    "verified_prompt": "With their valuable skills and experience, elderly people can continue to make significant contributions to society."
+  },
+  {
+    "module": "写作",
+    "session": "2024-06",
+    "web_suite": "1",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "Nowadays, cultivating independent learning ability is becoming increasingly crucial for personal development.",
+    "verified_prompt": "Nowadays, cultivating independent learning ability is becoming increasingly crucial for personal development."
+  },
+  {
+    "module": "写作",
+    "session": "2024-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "Nowadays more and more college students have come to realize social practice and academic learning are equally important.",
+    "verified_prompt": "Nowadays more and more college students have come to realize social practice and academic learning are equally important."
+  },
+  {
+    "module": "写作",
+    "session": "2024-06",
+    "web_suite": "3",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "There is a growing awareness of the importance of digital literacy and skills in today's world.",
+    "verified_prompt": "There is a growing awareness of the importance of digital literacy and skills in today's world."
+  },
+  {
+    "module": "写作",
+    "session": "2024-12",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "To increase the likelihood of success, one should set realistic goals and work persistently towards them, ",
+    "verified_prompt": "To increase the likelihood of success, one should set realistic goals and work persistently towards them."
+  },
+  {
+    "module": "写作",
+    "session": "2024-12",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "Nowadays, more and more students have realized the importance of self-discipline in their personal growth.",
+    "verified_prompt": "Nowadays, more and more students have realized the importance of self-discipline in their personal growth."
+  },
+  {
+    "module": "写作",
+    "session": "2024-12",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "College provides a great opportunity for students to explore various possibilities and find the right path for themselves. ",
+    "verified_prompt": "College provides a great opportunity for students to explore various possibilities and find the right path for themselves."
+  },
+  {
+    "module": "写作",
+    "session": "2025-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "As requirements for job applications are getting increasingly higher, college students ought to be better prepared for their future career.95",
+    "verified_prompt": "As requirements for job applications are getting increasingly higher, college students ought to be better prepared for their future career."
+  },
+  {
+    "module": "写作",
+    "session": "2025-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly.",
+    "verified_prompt": "As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly."
+  },
+  {
+    "module": "写作",
+    "session": "2025-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "With the increasing application of AI technology, there is a growing concern that it may negatively impact human creativity.",
+    "verified_prompt": "With the increasing application of AI technology, there is a growing concern that it may negatively impact human creativity."
+  },
+  {
+    "module": "写作",
+    "session": "2025-12",
+    "web_suite": "1",
+    "local_suite": "2",
+    "score": 98.9,
+    "old_prompt": "While striving for the Chinese Dream, young people enjoy more opportunities to realize their selAworth.",
+    "verified_prompt": "While striving for the Chinese Dream, young people enjoy more opportunities to realize their self-worth."
+  },
+  {
+    "module": "写作",
+    "session": "2025-12",
+    "web_suite": "2",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "It is believed that teachers can exert a profound influence on their students5 academic pursuit and personal development?5",
+    "verified_prompt": "It is believed that teachers can exert a profound influence on their students' academic pursuit and personal development."
+  },
+  {
+    "module": "写作",
+    "session": "2025-12",
+    "web_suite": "3",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges.",
+    "verified_prompt": "Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges."
+  },
+  {
+    "module": "写作",
+    "session": "2026-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0,
+    "old_prompt": "With the trend of Urbanization, it is vitally important for city residents to develop a stronger love for Nature.",
+    "verified_prompt": "With the trend of Urbanization, it is vitally important for city residents to develop a stronger love for Nature."
+  },
+  {
+    "module": "写作",
+    "session": "2026-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0,
+    "old_prompt": "In an era of rapid social development, it is vitally important to enhance young people's sense of responsibility.",
+    "verified_prompt": "In an era of rapid social development, it is vitally important to enhance young people's sense of responsibility."
+  },
+  {
+    "module": "写作",
+    "session": "2026-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0,
+    "old_prompt": "Faced with growing globalization,students realize that a deep understanding of traditional Chinese culture helps cultivate cultural confidence.",
+    "verified_prompt": "Faced with growing globalization,students realize that a deep understanding of traditional Chinese culture helps cultivate cultural confidence."
+  },
+  {
+    "module": "翻译",
+    "session": "2021-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2021-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2021-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2021-12",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2021-12",
+    "web_suite": "2",
+    "local_suite": "3",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2021-12",
+    "web_suite": "3",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2022-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2022-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 99.5
+  },
+  {
+    "module": "翻译",
+    "session": "2022-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 94.8
+  },
+  {
+    "module": "翻译",
+    "session": "2022-09",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 96.3
+  },
+  {
+    "module": "翻译",
+    "session": "2022-09",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 97.4
+  },
+  {
+    "module": "翻译",
+    "session": "2022-09",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 98.9
+  },
+  {
+    "module": "翻译",
+    "session": "2022-12",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2022-12",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2022-12",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 98.9
+  },
+  {
+    "module": "翻译",
+    "session": "2023-03",
+    "web_suite": "1",
+    "local_suite": "3",
+    "score": 98.2
+  },
+  {
+    "module": "翻译",
+    "session": "2023-03",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2023-03",
+    "web_suite": "3",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2023-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2023-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2023-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2023-12",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2023-12",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2023-12",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2024-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2024-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2024-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2024-12",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2024-12",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2024-12",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2025-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2025-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2025-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2025-12",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2025-12",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 99.4
+  },
+  {
+    "module": "翻译",
+    "session": "2025-12",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 99.7
+  },
+  {
+    "module": "翻译",
+    "session": "2026-06",
+    "web_suite": "1",
+    "local_suite": "1",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2026-06",
+    "web_suite": "2",
+    "local_suite": "2",
+    "score": 100.0
+  },
+  {
+    "module": "翻译",
+    "session": "2026-06",
+    "web_suite": "3",
+    "local_suite": "3",
+    "score": 100.0
+  }
+]

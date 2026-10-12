@@ -1,0 +1,23 @@
+{
+  "pdf_files": 70,
+  "pdf_pages": 1027,
+  "ocr_pages": 192,
+  "units": 5813,
+  "sentences": 12930,
+  "valid_lemmas": 9153,
+  "tokens": 171531,
+  "categories": {
+    "听力选项": 2179,
+    "阅读真题": 3356,
+    "作文题干": 39,
+    "听力原文": 161,
+    "作文范文": 39,
+    "翻译参考译文": 39
+  },
+  "prompts": 39,
+  "translation_tasks": 39,
+  "excluded_tokens": 934,
+  "issues": [],
+  "quarantined_sentences": 15,
+  "quarantined_tokens": 271
+}
