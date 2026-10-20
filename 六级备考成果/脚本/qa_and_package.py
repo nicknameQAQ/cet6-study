@@ -67,3 +67,6 @@ print('ERRORS',len(page_errors),len(glyph_errors),len(link_errors),flush=True)
 if expected_core==1500:
  from verify_vocabulary_revision import verify
  verify()
+if (D/'writing_replacement_expanded.json').exists():
+ from make_oct20_study_editions import verify_and_render
+ verify_and_render([m for m in manifest if m['kind'] in ['writing_translation','quick_vocabulary','writing_replacements']])

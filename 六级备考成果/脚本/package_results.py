@@ -9,6 +9,9 @@ assert not qa['page_errors'] and not qa['glyph_errors'] and not qa['link_errors'
 if qa.get('vocabulary_revision'):
  assert not qa['vocabulary_revision']['source_errors']
  assert qa['vocabulary_revision']['visual_review']=='passed'
+if qa.get('oct20_revision'):
+ assert not qa['oct20_revision']['errors']
+ assert qa['oct20_revision']['visual_review']=='passed'
 checked={r['file']:r for r in qa['pdf_checks']}
 for m in manifest:
  path=ROOT/m['file'];assert checked[m['file']]['sha256']==hashlib.sha256(path.read_bytes()).hexdigest(),m['file']
@@ -33,8 +36,17 @@ with (D/'全部词形与出处.csv').open('w',encoding='utf-8-sig',newline='') a
     wr.writerow([lemma,o['form'],o.get('source_form',o['form']),o['pos'],s['id'],o['position'],s['category'],z['session'],z['suite'],z['file'],z.get('page'),','.join(map(str,z.get('page_range',[]))),z['locator'],source.get('file',''),source.get('page',''),s['text'],s.get('zh','')])
 readme='''六级平板学习资料 使用说明
 
+2026年10月20日更新：
+06_核心词汇1500速记_仅单词与英音.pdf：30页，仅1500个主词与英音，顺序与15卷详解版一致。
+07_写作同义替换独立扩充版.pdf：140组指导（80组词、60组短语）、64道练习、8个主题段落改写、16类常见误用。
+04册已移出原替换附录，保留39篇作文、39道翻译对照、主题词库、40个句式与20道翻译练习。
+原00册仍供训练安排参考；写作章节拆分后的最新位置以本说明为准。
+范文、范文中译和翻译参考英译来自单一第三方“懒笔记”，未完成逐题独立语义复核，不能视作官方标准答案。
+每题增加了参考来源；题意中文、分类和部分学习建议为整理者编写。
+详见同包“范文译文与分析来源说明.md”，其中列出78条来源与一处已发现的中译校订提示。
+
 从00_使用指南与备考安排.pdf开始阅读。
-日常使用01核心词汇、02短语、03听力阅读、04写作翻译。
+日常使用06速记筛词，01详解查漏，02短语、03听力阅读、04写作翻译、07替换训练。
 05完整索引用于查词和核对全部出处，不需要从头背完。
 来源补充册提供听力段落原文、中文解释及第三方参考表达。
 
@@ -53,8 +65,8 @@ readme='''六级平板学习资料 使用说明
 按8个作文主题及11个翻译主题，列出415条主题词汇与短语条目。
 词库区分原文表达与同主题迁移表达；不同主题有复用，不代表415个互不重复的词条。
 40个句式和20句中译英练习及独立答案页仍保留。
-新增100组写作替换指导（60组单词、40组短语）和32道练习及集中答案。
-按8个作文主题组织，逐组说明意义、程度、搭配与结构变化；新例句均标为自编练习。
+原100组写作替换及32道练习已移至07册，并扩充为140组、64道。
+07册按8个作文主题组织，逐组说明意义、程度、搭配与结构变化；新例句、段落和练习均标为自编材料。
 原118项中文概念统计可在统计数据包的translation_concepts.json中查阅。
 
 2026年6月补充文件：三套真题、三套第三方解析、两套MP3。
@@ -66,7 +78,7 @@ PDF页码指文件中的物理页码。完整索引的F代码见使用指南末�
 统计数据和复算脚本另保存在当前工作文件夹，原始试卷保持不变。
 '''
 (R/'使用说明.txt').write_text(readme,encoding='utf-8-sig')
-daily=[m for m in manifest if m['kind'] in ['core','phrases','guide','listening_reading','writing_translation']]
+daily=[m for m in manifest if m['kind'] in ['core','phrases','guide','listening_reading','writing_translation','quick_vocabulary','writing_replacements']]
 def archive(name,items):
  target=R/name
  with zipfile.ZipFile(target,'w',compression=zipfile.ZIP_DEFLATED,compresslevel=6) as z:
@@ -76,12 +88,21 @@ def archive(name,items):
  print('PACKAGE',target.name,round(target.stat().st_size/1048576,2),'MB',len(items),'files',flush=True)
  return {'file':str(target.relative_to(ROOT)),'bytes':target.stat().st_size,'sha256':hashlib.sha256(target.read_bytes()).hexdigest()}
 daily_items=[(ROOT/m['file'],Path(m['file']).name) for m in daily]+[(R/'使用说明.txt','使用说明.txt')]
+if (R/'范文译文与分析来源说明.md').exists():daily_items.append((R/'范文译文与分析来源说明.md','范文译文与分析来源说明.md'))
 dailyzip=archive('六级平板日常学习包.zip',daily_items)
 full_items=[(ROOT/m['file'],'学习资料/'+Path(m['file']).name) for m in manifest]
 for p in sorted((ROOT/'补充资料_2026年6月').glob('*.pdf')):full_items.append((p,'2026年6月试卷与听力/'+p.name))
 for p in sorted((ROOT/'补充资料_2026年6月').glob('*.mp3')):full_items.append((p,'2026年6月试卷与听力/'+p.name))
 full_items.extend([(R/'使用说明.txt','使用说明.txt'),(D/'补充资料来源.json','来源与验收/补充资料来源.json'),(D/'验收报告.json','来源与验收/验收报告.json')])
+if (R/'范文译文与分析来源说明.md').exists():full_items.append((R/'范文译文与分析来源说明.md','范文译文与分析来源说明.md'))
+if (D/'写作翻译来源追溯.json').exists():full_items.append((D/'写作翻译来源追溯.json','来源与验收/写作翻译来源追溯.json'))
 fullzip=archive('六级平板完整资料包.zip',full_items)
+
+updatezip=None
+if qa.get('oct20_revision'):
+ update_items=[(ROOT/m['file'],Path(m['file']).name) for m in manifest if m['kind'] in ['writing_translation','quick_vocabulary','writing_replacements']]
+ update_items.append((R/'范文译文与分析来源说明.md','范文译文与分析来源说明.md'))
+ updatezip=archive('2026-10-20_速记与写作更新包.zip',update_items)
 data_names=['word_statistics.json','sentences.json','corpus_units.json','corpus_summary.json','全部词形与出处.csv','资料清单.json','资料覆盖与缺项.json','套号与文字校对记录.json','原始PDF句级位置核对.json','句子来源页码核对.json','补充原文PDF页码.json','source_id_catalogue.json','待核对词形.json','待核对残缺原句.json','阅读文字双源校对记录.json','derived_word_families.json','translation_concepts.json','translation_originals.json','writing_analysis.json','writing_theme_statistics.json','core_words_with_source_pages.json','phrase_statistics.json','sentence_structures.json','translation_practice.json','pdf_manifest.json','验收报告.json']
 data_names += [n for n in ['writing_translation_topic_banks.json','写作翻译新版主题词汇.json','写作翻译新版对照核验.json'] if (D/n).exists()]
 data_names += [n for n in ['core_words_original500.json','core_words_enriched1500.json','core_vocabulary_volume_index.json','vocabulary_revision_candidates.json','vocabulary_enrichment_audit.json','vocabulary_revision_pdf_manifest.json','1500词原文逐条核验.json','writing_replacement_guidance.json'] if (D/n).exists()]
@@ -103,5 +124,6 @@ data_items += [(p,'') for p in language_files if p.is_file()]
 data_items += [(p,'') for p in sorted((ROOT/'补充资料_2026年6月').rglob('*.html'))]
 data_items=[(p,str(p.relative_to(ROOT)).replace('\\','/')) for p,_ in data_items]
 data_items.append((R/'复算说明.md','复算说明.md'))
+if (R/'范文译文与分析来源说明.md').exists():data_items.append((R/'范文译文与分析来源说明.md','范文译文与分析来源说明.md'))
 datazip=archive('六级统计数据与复算脚本.zip',data_items)
-save('交付清单.json',{'daily':dailyzip,'full':fullzip,'data':datazip,'daily_pdf_count':len(daily),'all_pdf_count':len(manifest),'validation':'逐页自动检查及人工版面抽查通过；1500条双语例句文本与出处页比对通过','created_date':'2026-10-12'})
+save('交付清单.json',{'daily':dailyzip,'full':fullzip,'data':datazip,'update':updatezip,'daily_pdf_count':len(daily),'all_pdf_count':len(manifest),'validation':'逐页自动检查及人工版面抽查通过；出处文本匹配不等于语义准确性审定','created_date':'2026-10-20'})

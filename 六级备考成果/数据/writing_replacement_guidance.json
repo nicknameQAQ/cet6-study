@@ -12,34 +12,7 @@
       "chinese_before": "学生通过实践学到实用技能。",
       "chinese_after": "学生通过实践获得实用技能。",
       "misuse": "不能写acquire to swim；学会做事用learn to do。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2025-12-3",
-          "expression": "learn",
-          "source": {
-            "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第3套【可复制可检索，打印首选】.pdf",
-            "page": 1,
-            "session": "2025-12",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2024-06-3",
-          "expression": "learn",
-          "source": {
-            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
-            "page": 1,
-            "session": "2024-06",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R002",
@@ -53,9 +26,7 @@
       "chinese_before": "阅读能够提高学生的语言能力。",
       "chinese_after": "阅读能够提升学生的语言能力。",
       "misuse": "提高某人的分数常用improve/raise scores；不要把enhance用于所有数量增长。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R003",
@@ -69,34 +40,7 @@
       "chinese_before": "学校应培养学生的好奇心。",
       "chinese_after": "学校应着力培养学生的好奇心。",
       "misuse": "develop an app不能换成cultivate an app。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2024-06-3",
-          "expression": "develop",
-          "source": {
-            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
-            "page": 1,
-            "session": "2024-06",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2021-12-2",
-          "expression": "develop",
-          "source": {
-            "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第2套）.pdf",
-            "page": 1,
-            "session": "2021-12",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R004",
@@ -110,22 +54,7 @@
       "chinese_before": "清晰的反馈有助于学生学习。",
       "chinese_after": "清晰的反馈有助于学生的学习过程。",
       "misuse": "不能写facilitate students to learn。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2023-06-3",
-          "expression": "help",
-          "source": {
-            "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第3套.pdf",
-            "page": 1,
-            "session": "2023-06",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R005",
@@ -139,9 +68,7 @@
       "chinese_before": "学生需要时间理解复杂的概念。",
       "chinese_after": "学生需要时间充分理解复杂的概念。",
       "misuse": "日常表示体谅别人时通常保留understand。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R006",
@@ -155,22 +82,7 @@
       "chinese_before": "学生应运用这一理论解决实际问题。",
       "chinese_after": "学生应将这一理论用于实际问题。",
       "misuse": "不能把use a computer直接改成apply a computer。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2023-06-3",
-          "expression": "apply",
-          "source": {
-            "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第3套.pdf",
-            "page": 1,
-            "session": "2023-06",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R007",
@@ -184,34 +96,7 @@
       "chinese_before": "经常练习对于掌握语言很重要。",
       "chinese_after": "经常练习对于掌握语言不可或缺。",
       "misuse": "这不是完全等义替换；原文只表达一般重要性时不宜加强。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": [
-        {
-          "id": "2024-06-2",
-          "expression": "important",
-          "source": {
-            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第2套）.pdf",
-            "page": 1,
-            "session": "2024-06",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2023-06-3",
-          "expression": "important",
-          "source": {
-            "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第3套.pdf",
-            "page": 1,
-            "session": "2023-06",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R008",
@@ -225,22 +110,7 @@
       "chinese_before": "教师定期检查学生的进步情况。",
       "chinese_after": "教师定期评估学生的进步情况。",
       "misuse": "核对一个拼写错误用check，不用assess。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2023-12-2",
-          "expression": "check",
-          "source": {
-            "file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第2套.pdf",
-            "page": 1,
-            "session": "2023-12",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R009",
@@ -254,9 +124,7 @@
       "chinese_before": "数字工具改变了我们的交流方式。",
       "chinese_after": "数字工具显著改变了我们的交流方式。",
       "misuse": "没有深刻变化的证据时保留change。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R010",
@@ -270,22 +138,7 @@
       "chinese_before": "在线课程让人们能够远程学习。",
       "chinese_after": "在线课程使人们能够远程学习。",
       "misuse": "enable必须用enable sb to do，不能enable sb doing。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2021-12-3",
-          "expression": "make",
-          "source": {
-            "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第3套）.pdf",
-            "page": 1,
-            "session": "2021-12",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R011",
@@ -299,9 +152,7 @@
       "chinese_before": "用户应降低数据丢失的风险。",
       "chinese_after": "用户应尽量降低数据丢失的风险。",
       "misuse": "不是宣称风险已为零；避免用minimise替代普通的少量下降。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R012",
@@ -315,22 +166,7 @@
       "chinese_before": "平台应保护用户隐私。",
       "chinese_after": "平台应维护用户隐私。",
       "misuse": "不能因此省略具体保护措施；两词都可用against/from引出威胁。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": [
-        {
-          "id": "2024-06-1",
-          "expression": "protect",
-          "source": {
-            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第1套）.pdf",
-            "page": 1,
-            "session": "2024-06",
-            "suite": "1",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R013",
@@ -344,34 +180,7 @@
       "chinese_before": "数字图书馆广泛传播知识。",
       "chinese_after": "数字图书馆广泛传播知识。",
       "misuse": "疾病自然传播用spread；不能套用disseminate到所有传播情形。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2025-06-2",
-          "expression": "spread",
-          "source": {
-            "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第2套【可复制可检索，打印首选】.pdf",
-            "page": 1,
-            "session": "2025-06",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2021-12-3",
-          "expression": "spread",
-          "source": {
-            "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第3套）.pdf",
-            "page": 1,
-            "session": "2021-12",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R014",
@@ -385,9 +194,7 @@
       "chinese_before": "许多工作者依赖数字工具。",
       "chinese_after": "许多工作者依赖数字工具。",
       "misuse": "结果取决于天气时depend on更自然，不必全部换成rely on。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R015",
@@ -401,9 +208,7 @@
       "chinese_before": "学校不应把所有面授课程都换成网课。",
       "chinese_after": "学校不应让网课取代所有面授课程。",
       "misuse": "substitute A for B表示用A替B，不能照抄replace的顺序。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R016",
@@ -417,9 +222,7 @@
       "chinese_before": "数据安全是小企业面临的重大问题。",
       "chinese_after": "数据安全是小企业面临的重大挑战。",
       "misuse": "已有明确故障时problem更准确；挑战也可能带来机会。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R017",
@@ -433,34 +236,7 @@
       "chinese_before": "培训能帮助年轻人找到工作。",
       "chinese_after": "培训能帮助年轻人实现就业。",
       "misuse": "不能写an employment；介绍具体岗位时仍用a job。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2025-12-1",
-          "expression": "job",
-          "source": {
-            "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第1套【可复制可检索，打印首选】.pdf",
-            "page": 1,
-            "session": "2025-12",
-            "suite": "1",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2025-06-1",
-          "expression": "job",
-          "source": {
-            "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第1套【可复制可检索，打印首选】.pdf",
-            "page": 1,
-            "session": "2025-06",
-            "suite": "1",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R018",
@@ -474,22 +250,7 @@
       "chinese_before": "培训提高员工的专业能力。",
       "chinese_after": "培训提升员工的专业胜任能力。",
       "misuse": "天生潜力不一定是competence；后者强调胜任。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": [
-        {
-          "id": "2025-06-1",
-          "expression": "ability",
-          "source": {
-            "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第1套【可复制可检索，打印首选】.pdf",
-            "page": 1,
-            "session": "2025-06",
-            "suite": "1",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R019",
@@ -503,34 +264,7 @@
       "chinese_before": "团队需要有数据分析经验的人。",
       "chinese_after": "团队需要具备数据分析专长的人。",
       "misuse": "经验不必然构成专长；只有要强调熟练专业能力时才这样改写。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2025-12-1",
-          "expression": "experience",
-          "source": {
-            "file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第1套【可复制可检索，打印首选】.pdf",
-            "page": 1,
-            "session": "2025-12",
-            "suite": "1",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2025-06-1",
-          "expression": "experience",
-          "source": {
-            "file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第1套【可复制可检索，打印首选】.pdf",
-            "page": 1,
-            "session": "2025-06",
-            "suite": "1",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R020",
@@ -544,9 +278,7 @@
       "chinese_before": "明确的目标鼓励员工进步。",
       "chinese_after": "明确的目标激励员工进步。",
       "misuse": "encourage还可指促进事物发生，如encourage investment；不可处处替换。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R021",
@@ -560,9 +292,7 @@
       "chinese_before": "团队完成了一项艰巨任务。",
       "chinese_after": "团队成功完成了一项艰巨任务。",
       "misuse": "finish reading不能改成accomplish reading。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R022",
@@ -576,9 +306,7 @@
       "chinese_before": "毕业生可以通过实习获得实践经验。",
       "chinese_after": "毕业生可以通过实习获得实践经验。",
       "misuse": "get tired、get home里的get不能改成obtain。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R023",
@@ -592,9 +320,7 @@
       "chinese_before": "雇主选择具备相关技能的应聘者。",
       "chinese_after": "雇主挑选具备相关技能的应聘者。",
       "misuse": "choose to do表示决定做，不能直接改为select to do。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R024",
@@ -608,9 +334,7 @@
       "chinese_before": "清晰沟通是她的主要优势之一。",
       "chinese_after": "清晰沟通是她的主要长处之一。",
       "misuse": "价格优惠等外部优势不一定叫个人strength。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R025",
@@ -624,22 +348,7 @@
       "chinese_before": "我认为个人能为社会进步作贡献。",
       "chinese_after": "我相信个人能为社会进步作贡献。",
       "misuse": "think about表示思考，不能直接用believe about替换。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "表达观点",
-      "essay_observations": [
-        {
-          "id": "2024-12-2",
-          "expression": "believe",
-          "source": {
-            "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第2套.pdf",
-            "page": 1,
-            "session": "2024-12",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R026",
@@ -653,22 +362,7 @@
       "chinese_before": "小小的行动也能对社区产生重要影响。",
       "chinese_after": "小小的行动也能对社区产生显著影响。",
       "misuse": "涉及研究结果时significant可能有统计学含义，要有依据。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": [
-        {
-          "id": "2026-06-2",
-          "expression": "important",
-          "source": {
-            "file": "补充资料_2026年6月\\2026年06月六级真题第2套_懒笔记整理版.pdf",
-            "page": 1,
-            "session": "2026-06",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R027",
@@ -682,9 +376,7 @@
       "chinese_before": "过度比较不利于心理健康。",
       "chinese_after": "过度比较有害于心理健康。",
       "misuse": "介词由for改为to；bad还可指质量差，不能都换成harmful。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R028",
@@ -698,9 +390,7 @@
       "chinese_before": "经常反思有利于个人成长。",
       "chinese_after": "经常反思有益于个人成长。",
       "misuse": "good-looking不等于beneficial；限定在有益这一义项。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R029",
@@ -714,34 +404,7 @@
       "chinese_before": "年轻的成年人必须面对新的责任。",
       "chinese_after": "年轻的成年人必须正视新的责任。",
       "misuse": "be confronted with用被动结构；不能写confront with responsibilities。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2026-06-2",
-          "expression": "face",
-          "source": {
-            "file": "补充资料_2026年6月\\2026年06月六级真题第2套_懒笔记整理版.pdf",
-            "page": 1,
-            "session": "2026-06",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2021-12-1",
-          "expression": "face",
-          "source": {
-            "file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第1套）.pdf",
-            "page": 1,
-            "session": "2021-12",
-            "suite": "1",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R030",
@@ -755,9 +418,7 @@
       "chinese_before": "保持合理平衡很重要。",
       "chinese_after": "维持合理平衡很重要。",
       "misuse": "keep doing表示持续做，不能直接改成maintain doing。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R031",
@@ -771,34 +432,7 @@
       "chinese_before": "个人成长需要耐心。",
       "chinese_after": "个人成长需要耐心。",
       "misuse": "need to do不能简单改成require to do；可改为require effort等名词结构。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2026-06-2",
-          "expression": "require",
-          "source": {
-            "file": "补充资料_2026年6月\\2026年06月六级真题第2套_懒笔记整理版.pdf",
-            "page": 1,
-            "session": "2026-06",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2022-06-3",
-          "expression": "need",
-          "source": {
-            "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第3套【可复制可搜索，打印首选】.pdf",
-            "page": 1,
-            "session": "2022-06",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R032",
@@ -812,9 +446,7 @@
       "chinese_before": "志愿服务体现责任感。",
       "chinese_after": "志愿服务展现责任感。",
       "misuse": "show someone a room表示带人参观，不能替换为demonstrate。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R033",
@@ -828,34 +460,7 @@
       "chinese_before": "团队成员应坦诚交谈。",
       "chinese_after": "团队成员应坦诚交流。",
       "misuse": "communicate可及物接information，但接人通常用with。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2022-09-3",
-          "expression": "communicate",
-          "source": {
-            "file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
-            "page": 13,
-            "session": "2022-09",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2022-12-3",
-          "expression": "communicate",
-          "source": {
-            "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第3套【可复制可搜索，打印首选】.pdf",
-            "page": 1,
-            "session": "2022-12",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R034",
@@ -869,22 +474,7 @@
       "chinese_before": "学生一起完成有挑战性的项目。",
       "chinese_after": "学生合作开展有挑战性的项目。",
       "misuse": "不能把work in a factory改成collaborate in a factory而保持原义。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2022-12-3",
-          "expression": "work",
-          "source": {
-            "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第3套【可复制可搜索，打印首选】.pdf",
-            "page": 1,
-            "session": "2022-12",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R035",
@@ -898,9 +488,7 @@
       "chinese_before": "优秀的领导者认真听取不同意见。",
       "chinese_after": "优秀的领导者重视并关注不同意见。",
       "misuse": "attend a meeting是出席，attend to opinions是关注，结构不同。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R036",
@@ -914,9 +502,7 @@
       "chinese_before": "坦诚讨论可以解决许多冲突。",
       "chinese_after": "坦诚讨论可以化解许多冲突。",
       "misuse": "数学题用solve a problem更自然。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R037",
@@ -930,34 +516,7 @@
       "chinese_before": "不同的视角使团队受益。",
       "chinese_after": "多样化的视角使团队受益。",
       "misuse": "A is different from B不能改为A is diverse from B。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "比较与让步",
-      "essay_observations": [
-        {
-          "id": "2023-06-2",
-          "expression": "diverse",
-          "source": {
-            "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第2套.pdf",
-            "page": 1,
-            "session": "2023-06",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2022-12-3",
-          "expression": "different",
-          "source": {
-            "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第3套【可复制可搜索，打印首选】.pdf",
-            "page": 1,
-            "session": "2022-12",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R038",
@@ -971,22 +530,7 @@
       "chinese_before": "委员会就主要目标达成一致。",
       "chinese_after": "委员会就主要目标形成共识。",
       "misuse": "consensus不必表示每个人对每个细节都完全赞同。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2023-06-2",
-          "expression": "agreement",
-          "source": {
-            "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第2套.pdf",
-            "page": 1,
-            "session": "2023-06",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R039",
@@ -1000,34 +544,7 @@
       "chinese_before": "我们应尊重他人的意见。",
       "chinese_after": "我们应重视他人的意见。",
       "misuse": "尊重某种意见不代表赞成；value也不等于agree with。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2023-06-2",
-          "expression": "respect",
-          "source": {
-            "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第2套.pdf",
-            "page": 1,
-            "session": "2023-06",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2022-12-3",
-          "expression": "respect",
-          "source": {
-            "file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第3套【可复制可搜索，打印首选】.pdf",
-            "page": 1,
-            "session": "2022-12",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R040",
@@ -1041,9 +558,7 @@
       "chinese_before": "城市应减少过度能源消耗。",
       "chinese_after": "城市应遏制过度能源消耗。",
       "misuse": "curb不是降低所有数值的通用词；通常用于不良增长。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R041",
@@ -1057,9 +572,7 @@
       "chinese_before": "经常运动可能缓解压力。",
       "chinese_after": "经常运动可能减轻压力。",
       "misuse": "不能把alleviate stress理解为eliminate stress；保留may的程度。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R042",
@@ -1073,9 +586,7 @@
       "chinese_before": "空气污染损害人体健康。",
       "chinese_after": "空气污染危害人体健康。",
       "misuse": "不要写a harm或many damages来表达一般危害。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R043",
@@ -1089,9 +600,7 @@
       "chinese_before": "家庭可以通过修补漏水处节约用水。",
       "chinese_after": "家庭可以通过修补漏水处节约水资源。",
       "misuse": "save someone's life中的save不能换成conserve。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R044",
@@ -1105,9 +614,7 @@
       "chinese_before": "更清洁的生产有助于避免产生不必要的污染。",
       "chinese_after": "更清洁的生产有助于防止不必要的污染。",
       "misuse": "prevent sb from doing和avoid doing不可混用。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R045",
@@ -1121,9 +628,7 @@
       "chinese_before": "睡眠不足可能导致头痛。",
       "chinese_after": "睡眠不足可能诱发头痛。",
       "misuse": "触发因素不等于唯一根本原因；不能据此增强因果断言。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "解释因果与关联",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R046",
@@ -1137,22 +642,7 @@
       "chinese_before": "经常步行是一种健康习惯。",
       "chinese_after": "经常步行是一种有益健康的习惯。",
       "misuse": "a beneficial person不等于a healthy person。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": [
-        {
-          "id": "2023-06-1",
-          "expression": "healthy",
-          "source": {
-            "file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第1套.pdf",
-            "page": 1,
-            "session": "2023-06",
-            "suite": "1",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R047",
@@ -1166,9 +656,7 @@
       "chinese_before": "公共服务需求有所增加。",
       "chinese_after": "公共服务需求有所上升。",
       "misuse": "rise不及物；政府提高支出用raise/increase spending。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R048",
@@ -1182,9 +670,7 @@
       "chinese_before": "这座城市计划改善交通系统。",
       "chinese_after": "这座城市计划升级交通系统。",
       "misuse": "improve one's mood不能换成upgrade one's mood。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R049",
@@ -1198,9 +684,7 @@
       "chinese_before": "更好的交通可以支持区域发展。",
       "chinese_after": "更好的交通可以促进区域发展。",
       "misuse": "support a family表示养家，不能换成promote。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R050",
@@ -1214,9 +698,7 @@
       "chinese_before": "政策应确保人们公平获得公共服务。",
       "chinese_after": "政策应确保人们公正合理地获得公共服务。",
       "misuse": "equitable与equal不同；公平未必是人人获得同样数量。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R051",
@@ -1230,9 +712,7 @@
       "chinese_before": "社区中心为居民提供学习机会。",
       "chinese_after": "社区中心为居民提供学习机会。",
       "misuse": "offer不必表示对方已经接受；注意双宾语结构。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R052",
@@ -1246,22 +726,7 @@
       "chinese_before": "社区需要建立有效的支持网络。",
       "chinese_after": "社区需要建立有效的支持网络。",
       "misuse": "建造一座桥通常用build，不是establish。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": [
-        {
-          "id": "2023-12-3",
-          "expression": "build",
-          "source": {
-            "file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第3套.pdf",
-            "page": 1,
-            "session": "2023-12",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R053",
@@ -1275,9 +740,7 @@
       "chinese_before": "公共设施需要足够的资金。",
       "chinese_after": "公共设施需要充足的资金。",
       "misuse": "enough可放形容词后，sufficient不能：不能写large sufficient。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R054",
@@ -1291,9 +754,7 @@
       "chinese_before": "社区应保护传统工艺。",
       "chinese_after": "社区应保存并传承传统工艺。",
       "misuse": "preserve还可指保鲜，要由宾语确定词义。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R055",
@@ -1307,9 +768,7 @@
       "chinese_before": "文化节有助于传播地方传统。",
       "chinese_after": "文化节有助于推广地方传统。",
       "misuse": "promote不只表示传播，还强调提高认知或支持。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R056",
@@ -1323,9 +782,7 @@
       "chinese_before": "参观博物馆有助于学生更多地了解传统艺术。",
       "chinese_after": "参观博物馆有助于学生理解并欣赏传统艺术。",
       "misuse": "只是知道名称时不能说已appreciate其价值。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R057",
@@ -1339,9 +796,7 @@
       "chinese_before": "这座城市有许多具有历史意义的古老建筑。",
       "chinese_after": "这座城市有许多具有历史意义的建筑。",
       "misuse": "historic偏历史意义；historical偏与历史有关；old仅表示古老。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R058",
@@ -1355,9 +810,7 @@
       "chinese_before": "这个村庄有独特的建筑风格。",
       "chinese_after": "这个村庄有鲜明的建筑风格。",
       "misuse": "special可指专门用途，如special treatment，不一定是distinctive。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R059",
@@ -1371,9 +824,7 @@
       "chinese_before": "设计师可以把传统元素与现代观念结合起来。",
       "chinese_after": "设计师可以把传统元素融入现代观念之中。",
       "misuse": "若只是把两项并排展示，combine更稳妥。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R060",
@@ -1387,9 +838,7 @@
       "chinese_before": "传统知识是有价值的文化资源。",
       "chinese_after": "传统知识是珍贵的文化资源。",
       "misuse": "valuable information常指有用，未必需要用感情色彩较强的precious。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R061",
@@ -1403,9 +852,7 @@
       "chinese_before": "练习对于语言学习很重要。",
       "chinese_after": "练习在语言学习中发挥重要作用。",
       "misuse": "不要写play an important role to learning。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "说明价值与评价",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R062",
@@ -1419,9 +866,7 @@
       "chinese_before": "学校应更加关注实践技能。",
       "chinese_after": "学校应更加优先培养实践技能。",
       "misuse": "只有要强调排序上的优先时才替换。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R063",
@@ -1435,9 +880,7 @@
       "chinese_before": "学生应在实践中学习。",
       "chinese_after": "学生应将所学知识付诸实践。",
       "misuse": "不是严格同义：应用知识与获取知识可同时发生，但不能混为一谈。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R064",
@@ -1451,9 +894,7 @@
       "chinese_before": "这种方法有助于解决复杂问题。",
       "chinese_after": "这种方法在解决复杂问题时有用。",
       "misuse": "不要写be of useful。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R065",
@@ -1467,34 +908,7 @@
       "chinese_before": "新生需要习惯自主学习。",
       "chinese_after": "新生需要适应自主学习。",
       "misuse": "不要写adapt to learn；若只是习惯噪声，get used to更贴切。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2024-06-3",
-          "expression": "adapt to",
-          "source": {
-            "file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
-            "page": 1,
-            "session": "2024-06",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2022-06-2",
-          "expression": "adapt to",
-          "source": {
-            "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第2套【可复制可搜索，打印首选】.pdf",
-            "page": 1,
-            "session": "2022-06",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R066",
@@ -1508,9 +922,7 @@
       "chinese_before": "数字技术使交流更快捷。",
       "chinese_after": "由于数字技术，交流更快捷。",
       "misuse": "后面完整从句要用because，不能直接owing to technology develops。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "解释因果与关联",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R067",
@@ -1524,9 +936,7 @@
       "chinese_before": "学生可以利用网络资源。",
       "chinese_after": "学生可以充分利用网络资源。",
       "misuse": "搭配人时需检查是否变成贬义。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R068",
@@ -1540,9 +950,7 @@
       "chinese_before": "过长屏幕使用时间与睡眠不佳有关。",
       "chinese_after": "过长屏幕使用时间与睡眠不佳存在关联。",
       "misuse": "不能据此改成causes poor sleep。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "解释因果与关联",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R069",
@@ -1556,9 +964,7 @@
       "chinese_before": "数字图书馆让学生能接触更多书籍。",
       "chinese_after": "数字图书馆使更多书籍可供学生使用。",
       "misuse": "accessible修饰资源，不要写make students accessible to books。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R070",
@@ -1572,22 +978,7 @@
       "chinese_before": "工作者需要跟上技术变化。",
       "chinese_after": "工作者需要跟上技术变化的步伐。",
       "misuse": "catch up with通常指从落后状态追上，含义不同。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2023-03-3",
-          "expression": "keep pace with",
-          "source": {
-            "file": "2023年3月CET6真题+解析+听力音频全3套\\2023年03月六级真题全3套【可复制可划线查词】.pdf",
-            "page": 11,
-            "session": "2023-03",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R071",
@@ -1601,9 +992,7 @@
       "chinese_before": "毕业生应能够解决实际问题。",
       "chinese_after": "毕业生应具备解决实际问题的能力。",
       "misuse": "不要写capable to solve或capable of solve。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R072",
@@ -1617,9 +1006,7 @@
       "chinese_before": "员工应努力培养新技能。",
       "chinese_after": "员工应为培养新技能作出努力。",
       "misuse": "不能改成manage to，因为后者通常表示设法成功。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R073",
@@ -1633,9 +1020,7 @@
       "chinese_before": "团队领导应对自己的决定负责。",
       "chinese_after": "团队领导应承担自己决定的责任。",
       "misuse": "替换后主动承担的语气更强；不适合纯粹陈述岗位归属的所有场景。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R074",
@@ -1649,9 +1034,7 @@
       "chinese_before": "新员工必须学会处理工作压力。",
       "chinese_after": "新员工必须学会应对工作压力。",
       "misuse": "deal with a topic表示论述话题，不能换成cope with。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R075",
@@ -1665,9 +1048,7 @@
       "chinese_before": "有相关经验的求职者具有优势。",
       "chinese_after": "有相关经验的求职者具有竞争优势。",
       "misuse": "一般生活便利不一定是competitive edge。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R076",
@@ -1681,9 +1062,7 @@
       "chinese_before": "在我看来，小习惯可能带来持久变化。",
       "chinese_after": "从我的角度看，小习惯可能带来持久变化。",
       "misuse": "同一篇短文不必每句都用观点提示语。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "表达观点",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R077",
@@ -1697,9 +1076,7 @@
       "chinese_before": "个人成长需要很多耐心。",
       "chinese_after": "个人成长需要相当多的耐心。",
       "misuse": "可数复数用a considerable number of，不能amount of people。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R078",
@@ -1713,34 +1090,7 @@
       "chinese_before": "越来越多的人参加志愿服务项目。",
       "chinese_after": "越来越多的人参加志愿服务项目。",
       "misuse": "the number of people表示人数，谓语用单数；不要混淆。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": [
-        {
-          "id": "2024-12-2",
-          "expression": "more and more",
-          "source": {
-            "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第2套.pdf",
-            "page": 1,
-            "session": "2024-12",
-            "suite": "2",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        },
-        {
-          "id": "2022-06-3",
-          "expression": "more and more",
-          "source": {
-            "file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第3套【可复制可搜索，打印首选】.pdf",
-            "page": 1,
-            "session": "2022-06",
-            "suite": "3",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R079",
@@ -1754,9 +1104,7 @@
       "chinese_before": "尽管任务困难，她仍继续努力。",
       "chinese_after": "尽管任务有难度，她仍坚持了下来。",
       "misuse": "不要写despite of；完整从句可用despite the fact that。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "比较与让步",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R080",
@@ -1770,22 +1118,7 @@
       "chinese_before": "他认真安排时间，因此压力有所减轻。",
       "chinese_after": "他认真安排时间，因此压力有所减轻。",
       "misuse": "不能用一个逗号连接两个独立句，需用句号或分号。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "解释因果与关联",
-      "essay_observations": [
-        {
-          "id": "2024-12-1",
-          "expression": "as a result",
-          "source": {
-            "file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第1套.pdf",
-            "page": 1,
-            "session": "2024-12",
-            "suite": "1",
-            "method": "text",
-            "locator": "作文题目"
-          }
-        }
-      ]
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R081",
@@ -1799,9 +1132,7 @@
       "chinese_before": "居民应合作改善社区。",
       "chinese_after": "居民应共同努力改善社区。",
       "misuse": "只有协调行动或共同努力时适用，不代表所有一起工作。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R082",
@@ -1815,9 +1146,7 @@
       "chinese_before": "学生应参与小组讨论。",
       "chinese_after": "学生应参与小组讨论。",
       "misuse": "不要省略participate后面的in。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R083",
@@ -1831,9 +1160,7 @@
       "chinese_before": "领导者作决定前应考虑不同意见。",
       "chinese_after": "领导者作决定前应将不同意见纳入考虑。",
       "misuse": "take into account不是想到某个人时的通用替换。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R084",
@@ -1847,9 +1174,7 @@
       "chinese_before": "我同意合作有助于学习这一观点。",
       "chinese_after": "我赞同合作有助于学习这一看法。",
       "misuse": "share不接with the view；与某人分享可用share a view with sb。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "表达观点",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R085",
@@ -1863,9 +1188,7 @@
       "chinese_before": "有些人喜欢独立工作，另一些人则喜欢团队合作。",
       "chinese_after": "有些人喜欢独立工作；相比之下，另一些人喜欢团队合作。",
       "misuse": "没有对比关系时不能仅为换词而使用by contrast。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "比较与让步",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R086",
@@ -1879,9 +1202,7 @@
       "chinese_before": "严重空气污染不利于公众健康。",
       "chinese_after": "严重空气污染威胁公众健康。",
       "misuse": "程度较轻的不便不宜升级为threat。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R087",
@@ -1895,9 +1216,7 @@
       "chinese_before": "政府应采取行动处理空气污染。",
       "chinese_after": "政府应采取措施治理空气污染。",
       "misuse": "address作动词时后面直接接问题，不用address to pollution。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "提出措施与建议",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R088",
@@ -1911,9 +1230,7 @@
       "chinese_before": "明确警告能阻止人们冒不必要的风险。",
       "chinese_after": "明确警告能防止人们冒不必要的风险。",
       "misuse": "from后接动名词，不是动词原形。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R089",
@@ -1927,9 +1244,7 @@
       "chinese_before": "过量废弃物可能导致环境破坏。",
       "chinese_after": "过量废弃物可能造成环境破坏。",
       "misuse": "不要将result in写成result from而保持同一主语。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "解释因果与关联",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R090",
@@ -1943,9 +1258,7 @@
       "chinese_before": "节能从长远来看可以降低成本。",
       "chinese_after": "节能可以在长期内降低成本。",
       "misuse": "不能用它来证明短期效果；时间尺度须与论据一致。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R091",
@@ -1959,9 +1272,7 @@
       "chinese_before": "更好的交通有助于发展区域经济。",
       "chinese_after": "更好的交通有助于区域经济发展。",
       "misuse": "contribute to后接developing或development，不用develop。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "解释因果与关联",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R092",
@@ -1975,9 +1286,7 @@
       "chinese_before": "更好的服务可以缩小城乡差距。",
       "chinese_after": "更好的服务可以缩小城乡差距。",
       "misuse": "narrow the gap并不等于eliminate the gap。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R093",
@@ -1991,9 +1300,7 @@
       "chinese_before": "公共服务应满足居民需求。",
       "chinese_after": "公共服务应回应居民需求。",
       "misuse": "回应需求不保证全部满足；需根据论点选择。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R094",
@@ -2007,9 +1314,7 @@
       "chinese_before": "社区参与是改善公共服务的一种方式。",
       "chinese_after": "社区参与是改善公共服务的一种途径。",
       "misuse": "不要写an approach to improve。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R095",
@@ -2023,9 +1328,7 @@
       "chinese_before": "新服务使老年人能够在线学习。",
       "chinese_after": "新服务为老年人在线学习创造机会。",
       "misuse": "可能性与机会侧重不同；不能据此推断人人已实际参与。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R096",
@@ -2039,9 +1342,7 @@
       "chinese_before": "家庭把传统技艺传给年轻一代。",
       "chinese_after": "家庭把传统技艺传承给年轻一代。",
       "misuse": "hand out是分发，不是传承。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R097",
@@ -2055,9 +1356,7 @@
       "chinese_before": "该地区以传统工艺闻名。",
       "chinese_after": "该地区因传统工艺而享有盛名。",
       "misuse": "坏名声通常用notorious for，不能一律用renowned。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R098",
@@ -2071,9 +1370,7 @@
       "chinese_before": "展览由三个部分组成。",
       "chinese_after": "展览由三个部分组成。",
       "misuse": "不要写is consisted of。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R099",
@@ -2087,9 +1384,7 @@
       "chinese_before": "文化节展现地方传统的价值。",
       "chinese_after": "文化节凸显地方传统的价值。",
       "misuse": "突出价值不等于证明所有传统都应原样保留。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     },
     {
       "id": "R100",
@@ -2103,9 +1398,7 @@
       "chinese_before": "共同庆祝使人们走到一起。",
       "chinese_after": "共同庆祝增强人们之间的联系。",
       "misuse": "共同出席不必然增强关系；只有强调团结效果时才替换。",
-      "example_origin": "自编迁移练习，不计入真题频次",
-      "function": "描述现象与行动",
-      "essay_observations": []
+      "example_origin": "自编迁移练习，不计入真题频次"
     }
   ],
   "exercises": [

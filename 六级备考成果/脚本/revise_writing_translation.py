@@ -51,7 +51,7 @@ def vocab_table(rows,original=True):
 def paired(pairs,writing):
  story=[]
  for i,pair in enumerate(pairs,1):
-  story.append(KeepTogether([P(f'第{i}'+('段 英文原文' if writing else '句 中文原文'),'small'),P(pair['en'] if writing else pair['zh'],'quote' if writing else 'body'),P('中文译文' if writing else '参考英译','small'),P(pair['zh'] if writing else pair['en'],'body' if writing else 'quote'),Spacer(1,8)]))
+  story.append(KeepTogether([P(f'第{i}'+('段 范文英文（第三方参考）' if writing else '句 中文题干'),'small'),P(pair['en'] if writing else pair['zh'],'quote' if writing else 'body'),P('范文中文参考译文' if writing else '参考英译（第三方）','small'),P(pair['zh'] if writing else pair['en'],'body' if writing else 'quote'),Spacer(1,8)]))
  return story
 def theme_words(story,theme,bank,docs,mode,records):
  rows=evaluate(bank,docs);original=[r for r in rows if r['hits']];extra=[r for r in rows if not r['hits']];records.append({'section':mode,'theme':theme,'paper_ids':[p['id'] for p in docs],'words':rows})
@@ -59,7 +59,9 @@ def theme_words(story,theme,bank,docs,mode,records):
  if original:story.append(vocab_table(original))
  if extra:story.append(P('可迁移表达  可用于同主题练习，未在本组文本中逐字出现。','small'));story.append(vocab_table(extra,False))
  return rows
-def generate(update_manifest=True):
+def generate(update_manifest=True,include_replacements=False):
+ from reference_provenance import build_audit
+ provenance=build_audit()
  banks=load('writing_translation_topic_banks.json');docs_w=[];docs_t=[];audit=[]
  for p in load('writing_analysis.json'):
   html=BeautifulSoup((ROOT/p['web_source']).read_text(encoding='utf-8'),'html.parser');en=[clean(x.get_text(' ',strip=True)) for x in html.select('#essay > p')];zh=[clean(x.get_text(' ',strip=True)) for x in html.select('#essay-zh .wp-trans__para')]
@@ -73,7 +75,7 @@ def generate(update_manifest=True):
   same_en=signature(' '.join(x['en'] for x in pairs))==signature(en);same_zh=original_signature(''.join(x['zh'] for x in pairs))==original_signature(p['zh']);mode='sentence' if same_en and same_zh else 'whole';theme,title=banks['translation_themes'][key(p)]
   docs_t.append(dict(p,id=key(p),theme=theme,title=title,pairs=pairs if mode=='sentence' else [{'en':en,'zh':p['zh']}],alignment=mode,english_text=en));audit.append({'section':'translation','id':key(p),'mode':mode,'English_matches_full_reference':same_en,'Chinese_matches_full_original':same_zh,'source':p['web_source']})
  assert len(docs_w)==len(docs_t)==39
- records=[];story=cover('写作与翻译主题对照学习册','39篇作文范文中英对照 39道翻译原文英译对照 按主题整理词汇','先看主题词汇，再读紧邻的原文与译文，最后遮住译文独立复述或翻译。作文按8个主题、翻译按11个主题归类。词汇表区分原文表达和可迁移表达，各题保留年份、套号与原卷页码。\n\n范文及英译为配套第三方参考表达。题目主题和首句的中文另行翻译；不同来源的套号差异单独标明。')
+ records=[];story=cover('写作与翻译主题对照学习册','39篇作文范文中英对照 39道翻译原文英译对照 按主题整理词汇','先看主题词汇，再读紧邻的原文与译文，最后遮住译文独立复述或翻译。作文按8个主题、翻译按11个主题归类。词汇表区分来源表达和可迁移表达，各题保留年份、套号与原卷页码。\n\n范文、范文中译及参考英译均来自懒笔记，属于第三方参考，不是官方标准答案，未完成逐题独立语义复核。题意中文、主题标题、分类和部分学习表达由整理者编写。出处文本匹配不等于语义准确性审定。\n\n同义替换已移至07独立册；本册保留主题词库、双语对照、40个句式和20道翻译练习。')
  for number,(theme,bank) in enumerate(banks['writing'].items(),1):
   papers=sorted([p for p in docs_w if p['theme']==theme],key=lambda p:(p['session'],p['suite']),reverse=True)
   if number>1:story.append(PageBreak())
@@ -84,7 +86,9 @@ def generate(update_manifest=True):
     s=p['source'];pdf=fitz.open(ROOT/s['file']);page=pdf[s['page']-1];words=page.get_text('words');wy=min(w[1] for w in words if w[4]=='Writing');ly=min(w[1] for w in words if w[4]=='Listening');clip=fitz.Rect(35,max(0,wy-18),page.rect.width-35,ly-14);img=QA/f'graph_{p["id"]}.png';page.get_pixmap(matrix=fitz.Matrix(2,2),clip=clip,alpha=False).save(img);pdf.close();story.append(P('原卷题干与图表','small'));story.append(RLImage(str(img),width=499,height=499*clip.height/clip.width))
    story.append(P('写作要求：150至200词。给定首句是否必须照抄请以原题要求为准；图表题先描述图表，材料评论题需评论现象并提出措施。','small'));specific=[r for r in rows if any(h['id']==p['id'] for h in r['hits'])]
    if specific:story.append(P('本题可直接积累：'+'；'.join(r['english']+' '+r['chinese'] for r in specific[:10]),'small'))
-   story.append(H('参考范文与中文译文',2,key='w-text-'+p['id']));story.extend(paired(p['pairs'],True))
+   ref=provenance['writing',p['id']];story.append(P(f'<link href="{ref["reference_url"]}" color="#2F6B86">参考来源：懒笔记，第{ref["web_suite"]}套；点击查看范文与中译</link>','small',True));story.append(P('来源说明：英文范文及中译为第三方参考；题意中文、主题分类和学习建议为整理者编写，未完成独立逐题语义复核。','small'))
+   story.append(H('第三方参考范文与中文参考译文',2,key='w-text-'+p['id']));story.extend(paired(p['pairs'],True))
+   if p['id']=='2025-12-1':story.append(P('校订提示（整理者）：原参考中译“挑战属于那些不断进步的人”未准确表达 are conquered by；应理解为“不断进步的人能够战胜挑战”。上方保留来源译文供对照。','small'))
  for number,(theme,bank) in enumerate(banks['translation'].items(),1):
   papers=sorted([p for p in docs_t if p['theme']==theme],key=lambda p:(p['session'],p['suite']),reverse=True);assert papers,theme;story.append(PageBreak());story.append(H(f'翻译主题{number:02d} {theme} 共{len(papers)}题',key='tt-'+str(number)));rows=theme_words(story,theme,parse_bank(bank),papers,'translation',records)
   for p in papers:
@@ -92,44 +96,48 @@ def generate(update_manifest=True):
    if specific:story.append(P('本题重点表达：'+'；'.join(r['english']+' '+r['chinese'] for r in specific[:12]),'small'))
    if p['alignment']=='sentence':story.extend(paired(p['pairs'],False))
    else:story.extend([P('中文原文','small'),P(p['zh']),P('参考英译','small'),P(p['english_text'],'quote')])
-   url=f'https://english-exam.lazynote.cn/cet6/sections/{p["session"]}-{p.get("web_suite",p["suite"])}/part-iv/';story.append(P(f'<link href="{url}" color="#2F6B86">查看本题参考英译来源</link>','small',True))
+   ref=provenance['translation',p['id']];story.append(P(f'<link href="{ref["reference_url"]}" color="#2F6B86">参考英译来源：懒笔记，第{ref["web_suite"]}套；点击查看</link>','small',True));story.append(P('原卷题干为中文；英译来自单一第三方参考，未完成逐题独立语义复核。主题标题、归类及学习建议为整理者编写。','small'))
  story.append(PageBreak());story.append(H('附录一 40个句式与中文用法',key='appendix-structures'))
  for i,p in enumerate(load('sentence_structures.json'),1):story.append(KeepTogether([P(f'{i:02d}  '+p['pattern'],'quote'),P(p['note']),Spacer(1,5)]))
  story.append(H('附录二 20句中译英练习',key='appendix-practice'));practice=load('translation_practice.json')
  for i,p in enumerate(practice,1):story.append(KeepTogether([P(f'练习{i:02d} '+p['zh']),P('先独立翻译，答案集中放在后面。','small'),Spacer(1,28)]))
  story.append(PageBreak());story.append(H('附录三 练习答案对照',key='appendix-answers'))
  for i,p in enumerate(practice,1):story.append(KeepTogether([P(f'{i:02d} 中文原句','small'),P(p['zh']),P('参考英译','small'),P(p['answer'],'quote'),P('重点：'+p['concept']+' - '+p['expression'],'small'),Spacer(1,8)]))
- from writing_replacements import build_data
- replacements=build_data();story.append(PageBreak());story.append(H('附录四 写作同义替换100组',key='writing-replacements'))
- story.append(P('60组单词、40组短语，按8个作文主题整理。基础句和改写句均为自编练习，不计入真题词频；每组说明语义、程度和句法变化。存在意义变化的表达作为辨析学习，不能机械换词。'))
- story.append(P('练习顺序：读中文确定意思 → 遮住改写句自己改 → 核对主语、因果、程度、范围和搭配。范文链接仅供观察相同表达的真实语境。','small'))
- for tn,theme in enumerate(replacements['themes'],1):
-  if tn>1:story.append(PageBreak())
-  story.append(H(f'替换主题{tn:02d} {theme}',1,key='replace-theme-'+str(tn)))
-  for r in [r for r in replacements['groups'] if r['theme']==theme]:
-   purpose='描述现象与行动'
-   if r['base'] in ['important','be important for','good','bad','healthy','valuable','enough','fair','special','advantage','ability']:purpose='说明价值与评价'
-   elif r['base'] in ['cause','because of','as a result','lead to','help to','be related to']:purpose='解释因果与关联'
-   elif r['base'] in ['different','on the other hand','even though']:purpose='比较与让步'
-   elif r['base'] in ['think','in my opinion','agree with']:purpose='表达观点'
-   elif r['base'] in ['try to','do something about','take part in','work together','deal with','protect','save','reduce','keep','build']:purpose='提出措施与建议'
-   r['function']=purpose;observations=[]
-   for p in docs_w:
-    if p['theme']!=theme:continue
-    matched=next((a for a in [r['base'],r['alternative']] if re.search(r'(?<![A-Za-z])'+re.escape(a)+r'(?![A-Za-z])',p['english_text'],re.I)),None)
-    if matched:observations.append({'id':p['id'],'expression':matched,'source':p['source']})
-   r['essay_observations']=observations[:2]
-   block=[H(r['id']+' '+r['base']+' → '+r['alternative'],2,key='replacement-'+r['id']),P(r['kind']+'替换 · '+purpose,'small'),P('区别与结构：'+r['distinction']),P('基础句（自编）','small'),P(r['before'],'quote'),P(r['chinese_before']),P('改写句（自编）','small'),P(r['after'],'quote'),P(r['chinese_after']),P('常见误用：'+r['misuse'])]
-   for o in observations[:2]:block.append(P(f'<link href="#w-{o["id"]}" color="#2F6B86">范文语境：{o["id"]} · {o["expression"]}</link>','small',True))
-   story.append(KeepTogether(block));story.append(Spacer(1,10))
- story.append(PageBreak());story.append(H('附录五 32道替换练习',key='replacement-exercises'));story.append(P('每个主题4道。按提示改写英文，并检查中文意思是否改变。答案在下一部分；允许其他符合语义、搭配和语法的表达。'))
- for theme in replacements['themes']:
-  story.append(H(theme+' · 练习',1,key='practice-theme-'+str(replacements['themes'].index(theme))))
-  for r in [x for x in replacements['exercises'] if x['theme']==theme]:story.append(KeepTogether([P(r['id']+' '+r['prompt'],'quote'),P(r['chinese']),P('使用提示：'+r['hint'],'small'),Spacer(1,32)]))
- story.append(PageBreak());story.append(H('附录六 32道练习答案与条件',key='replacement-answers'))
- for r in replacements['exercises']:story.append(KeepTogether([H(r['id']+' '+r['theme'],1,key='answer-'+r['id']),P(r['answer'],'quote'),P(r['answer_chinese']),P('成立条件：'+r['explanation']),P(f'<link href="#replacement-{r["replacement_id"]}" color="#2F6B86">返回对应辨析 {r["replacement_id"]}</link>','small',True),Spacer(1,10)]))
- save('writing_replacement_guidance.json',replacements)
+ if include_replacements:
+  from writing_replacements import build_data
+  replacements=build_data();story.append(PageBreak());story.append(H('附录四 写作同义替换100组',key='writing-replacements'))
+  story.append(P('60组单词、40组短语，按8个作文主题整理。基础句和改写句均为自编练习，不计入真题词频；每组说明语义、程度和句法变化。存在意义变化的表达作为辨析学习，不能机械换词。'))
+  story.append(P('练习顺序：读中文确定意思 → 遮住改写句自己改 → 核对主语、因果、程度、范围和搭配。范文链接仅供观察相同表达的真实语境。','small'))
+  for tn,theme in enumerate(replacements['themes'],1):
+   if tn>1:story.append(PageBreak())
+   story.append(H(f'替换主题{tn:02d} {theme}',1,key='replace-theme-'+str(tn)))
+   for r in [r for r in replacements['groups'] if r['theme']==theme]:
+    purpose='描述现象与行动'
+    if r['base'] in ['important','be important for','good','bad','healthy','valuable','enough','fair','special','advantage','ability']:purpose='说明价值与评价'
+    elif r['base'] in ['cause','because of','as a result','lead to','help to','be related to']:purpose='解释因果与关联'
+    elif r['base'] in ['different','on the other hand','even though']:purpose='比较与让步'
+    elif r['base'] in ['think','in my opinion','agree with']:purpose='表达观点'
+    elif r['base'] in ['try to','do something about','take part in','work together','deal with','protect','save','reduce','keep','build']:purpose='提出措施与建议'
+    r['function']=purpose;observations=[]
+    for p in docs_w:
+     if p['theme']!=theme:continue
+     matched=next((a for a in [r['base'],r['alternative']] if re.search(r'(?<![A-Za-z])'+re.escape(a)+r'(?![A-Za-z])',p['english_text'],re.I)),None)
+     if matched:observations.append({'id':p['id'],'expression':matched,'source':p['source']})
+    r['essay_observations']=observations[:2]
+    block=[H(r['id']+' '+r['base']+' → '+r['alternative'],2,key='replacement-'+r['id']),P(r['kind']+'替换 · '+purpose,'small'),P('区别与结构：'+r['distinction']),P('基础句（自编）','small'),P(r['before'],'quote'),P(r['chinese_before']),P('改写句（自编）','small'),P(r['after'],'quote'),P(r['chinese_after']),P('常见误用：'+r['misuse'])]
+    for o in observations[:2]:block.append(P(f'<link href="#w-{o["id"]}" color="#2F6B86">范文语境：{o["id"]} · {o["expression"]}</link>','small',True))
+    story.append(KeepTogether(block));story.append(Spacer(1,10))
+  story.append(PageBreak());story.append(H('附录五 32道替换练习',key='replacement-exercises'));story.append(P('每个主题4道。按提示改写英文，并检查中文意思是否改变。答案在下一部分；允许其他符合语义、搭配和语法的表达。'))
+  for theme in replacements['themes']:
+   story.append(H(theme+' · 练习',1,key='practice-theme-'+str(replacements['themes'].index(theme))))
+   for r in [x for x in replacements['exercises'] if x['theme']==theme]:story.append(KeepTogether([P(r['id']+' '+r['prompt'],'quote'),P(r['chinese']),P('使用提示：'+r['hint'],'small'),Spacer(1,32)]))
+  story.append(PageBreak());story.append(H('附录六 32道练习答案与条件',key='replacement-answers'))
+  for r in replacements['exercises']:story.append(KeepTogether([H(r['id']+' '+r['theme'],1,key='answer-'+r['id']),P(r['answer'],'quote'),P(r['answer_chinese']),P('成立条件：'+r['explanation']),P(f'<link href="#replacement-{r["replacement_id"]}" color="#2F6B86">返回对应辨析 {r["replacement_id"]}</link>','small',True),Spacer(1,10)]))
+  save('writing_replacement_guidance.json',replacements)
  target=OUT/'04_写作与翻译专项册.pdf'
+ # Keep short bilingual labels with the text they introduce.
+ for flow in story:
+  if hasattr(flow,'getPlainText') and flow.getPlainText() in {'题目主题或给定首句 英文','题意中文','中文原文','参考英译','原卷题干与图表'}:flow.keepWithNext=True
  if update_manifest:
   backup=R/'历史版本'/'04_写作与翻译专项册_原词频版.pdf';backup.parent.mkdir(exist_ok=True)
   if target.exists() and not backup.exists():shutil.copy2(target,backup)

@@ -1,0 +1,2017 @@
+{
+  "checked_on": "2026-10-20",
+  "writing_references": 39,
+  "translation_references": 39,
+  "independent_reference_domains": 1,
+  "semantic_independent_review_complete": false,
+  "records": [
+    {
+      "id": "2025-12-1",
+      "section": "writing",
+      "original_file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第1套【可复制可检索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-12-3_part1.html",
+      "reference_sha256": "1b5e2d63339794dc6e0d9943e62f0b4d2d59f3347fe02a83aa42749c97a9769a",
+      "web_suite": "3",
+      "local_suite": "1",
+      "source_title": "2025年12月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2025-12-2",
+      "section": "writing",
+      "original_file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第2套【可复制可检索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-12-1_part1.html",
+      "reference_sha256": "243cfcd4ac464f8ef6d9cda4c810fbb35bb5b3ead6cbc97d433104971d8e2de3",
+      "web_suite": "1",
+      "local_suite": "2",
+      "source_title": "2025年12月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2025-12-3",
+      "section": "writing",
+      "original_file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第3套【可复制可检索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-12-2_part1.html",
+      "reference_sha256": "0d7a4e0de8ceed7a5fc2b10eb49c7677d03d0ecf233aee8b4026f17ef5c81009",
+      "web_suite": "2",
+      "local_suite": "3",
+      "source_title": "2025年12月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2022-09-1",
+      "section": "writing",
+      "original_file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-09-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-09-1_part1.html",
+      "reference_sha256": "10cffe025be059ac4ec668089d2ec2776f87ba1565c41bad01969915afdbeeff",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2022年9月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2022-09-2",
+      "section": "writing",
+      "original_file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 12,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-09-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-09-2_part1.html",
+      "reference_sha256": "2145b53ed2e2a4e902572b17ba73dc07986143564a7d7e60cd75be15bb71b814",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2022年9月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2022-09-3",
+      "section": "writing",
+      "original_file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 13,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-09-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-09-3_part1.html",
+      "reference_sha256": "e06011c2bfab8179d84ebf467bbf2228dc8efa70c5fcdd8ccd97bb06efe1619b",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2022年9月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2023-03-1",
+      "section": "writing",
+      "original_file": "2023年3月CET6真题+解析+听力音频全3套\\2023年03月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-03-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-03-1_part1.html",
+      "reference_sha256": "988059385fb5a9566302135bffb1b45218a8dbfe36d0183a1610c7da9d22472e",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2023年3月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2023-03-2",
+      "section": "writing",
+      "original_file": "2023年3月CET6真题+解析+听力音频全3套\\2023年03月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 10,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-03-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-03-2_part1.html",
+      "reference_sha256": "9214a5cf7fe467da334e955bf0e3bd4402dcdc5d881105b23b40bdb4ae4e46d6",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2023年3月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2023-03-3",
+      "section": "writing",
+      "original_file": "2023年3月CET6真题+解析+听力音频全3套\\2023年03月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 11,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-03-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-03-3_part1.html",
+      "reference_sha256": "e3862c814d8da8509050e09e1d15f5f963cd699c9f38249174e14ee190028326",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2023年3月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2025-06-1",
+      "section": "writing",
+      "original_file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第1套【可复制可检索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-06-1_part1.html",
+      "reference_sha256": "1f679686d4bf6936df3bbb750505f4ed92bf16b79b119cd93a410b5372974261",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2025年6月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2025-06-2",
+      "section": "writing",
+      "original_file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第2套【可复制可检索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-06-2_part1.html",
+      "reference_sha256": "76a0ec8fdc654e3f11f27b048dd9591fe7384aecbefd188a59dff5b00556a6dd",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2025年6月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2025-06-3",
+      "section": "writing",
+      "original_file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第3套【可复制可检索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-06-3_part1.html",
+      "reference_sha256": "a24d2c855415d96ab108a9d8840cc13ed60372f580f3b946105f34f59d072e4e",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2025年6月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2024-12-1",
+      "section": "writing",
+      "original_file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第1套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-12-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-12-1_part1.html",
+      "reference_sha256": "d6c4b5b7f2a4fdf15d86b7874dcaf2d086387b0a89fc0896818fdec72f32661c",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2024年12月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2024-12-2",
+      "section": "writing",
+      "original_file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第2套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-12-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-12-2_part1.html",
+      "reference_sha256": "d96423639bfe26553fea88a3c9bb8a40c0ebd62f03fd6c85a3754ec907845b66",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2024年12月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2024-12-3",
+      "section": "writing",
+      "original_file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第3套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-12-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-12-3_part1.html",
+      "reference_sha256": "28428d978b4e7e6c22d0150571449802c81745b11f29bda56c72d2da6f123836",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2024年12月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2024-06-1",
+      "section": "writing",
+      "original_file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第1套）.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-06-3_part1.html",
+      "reference_sha256": "9f5bd1045e4c5144fae49b8abc62480a4a47f6d547838630e10dce78827b5807",
+      "web_suite": "3",
+      "local_suite": "1",
+      "source_title": "2024年6月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2024-06-2",
+      "section": "writing",
+      "original_file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第2套）.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-06-2_part1.html",
+      "reference_sha256": "06689243f6b161e4c16f3a0dc07d1db3971f5bada3f07db811adb0cc3b5b4861",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2024年6月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2024-06-3",
+      "section": "writing",
+      "original_file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-06-1_part1.html",
+      "reference_sha256": "1693224e4a43da48b3caa13a4c795d3260622b3ea548e2f405657b2d7188fd6f",
+      "web_suite": "1",
+      "local_suite": "3",
+      "source_title": "2024年6月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2023-12-1",
+      "section": "writing",
+      "original_file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第1套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-12-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-12-1_part1.html",
+      "reference_sha256": "ec7b7fb946483d7f46110ed0b57cf41b3b5f4044d8acff118a78bcbe1b69fa18",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2023年12月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2023-12-2",
+      "section": "writing",
+      "original_file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第2套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-12-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-12-2_part1.html",
+      "reference_sha256": "3a4bd31f4170aac7fa348f2c02b338d5055f14bb8f904cd4261f5fd66f2e9e9a",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2023年12月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2023-12-3",
+      "section": "writing",
+      "original_file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第3套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-12-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-12-3_part1.html",
+      "reference_sha256": "056db9f9161129e9651bc346f0a2b717f9c8ceacef474a15a3cf758b29d74c68",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2023年12月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2026-06-1",
+      "section": "writing",
+      "original_file": "补充资料_2026年6月\\2026年06月六级真题第1套_懒笔记整理版.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2026-06-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2026-06-1_part1.html",
+      "reference_sha256": "52ac76fbf49e55fb6abe2b5199acb3a6772b674d25ca99464b2b4ad0192752f0",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2026年6月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2026-06-2",
+      "section": "writing",
+      "original_file": "补充资料_2026年6月\\2026年06月六级真题第2套_懒笔记整理版.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2026-06-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2026-06-2_part1.html",
+      "reference_sha256": "22916da3f583e4dc62c7af7bfa0355656cc6bc5d8b4e04beb4bc947c77a66cd0",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2026年6月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2026-06-3",
+      "section": "writing",
+      "original_file": "补充资料_2026年6月\\2026年06月六级真题第3套_懒笔记整理版.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2026-06-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2026-06-3_part1.html",
+      "reference_sha256": "81781ab0fd9b726f86ff1e220f0e1fa7b5cb268c09eef8223787d0165b62def8",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2026年6月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2023-06-1",
+      "section": "writing",
+      "original_file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第1套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-06-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-06-1_part1.html",
+      "reference_sha256": "0ac80ae00d166b29d4fb64c72a02536138c6ad4269254f381e9151d294bc5940",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2023年6月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2023-06-2",
+      "section": "writing",
+      "original_file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第2套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-06-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-06-2_part1.html",
+      "reference_sha256": "ec936edd0041392fa7aff7bdd0eb9ccd80dc6b92804be375e02be5439f91e529",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2023年6月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2023-06-3",
+      "section": "writing",
+      "original_file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第3套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-06-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-06-3_part1.html",
+      "reference_sha256": "15f313e5148cd9ea9baa6d0a78a8f1f12c98ac959608df1ca9f6548b65ff0ed5",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2023年6月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2021-12-1",
+      "section": "writing",
+      "original_file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第1套）.pdf",
+      "original_page": 1,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-12-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-12-2_part1.html",
+      "reference_sha256": "8947e1cafbdd1287c97fda3b9ef610acfc87c256b88ceb4355b434eadbb84556",
+      "web_suite": "2",
+      "local_suite": "1",
+      "source_title": "2021年12月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2021-12-2",
+      "section": "writing",
+      "original_file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第2套）.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-12-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-12-3_part1.html",
+      "reference_sha256": "29bcb575ef8ad548e3052c119ff0d94962b9061a731db4205eece3097dc1f399",
+      "web_suite": "3",
+      "local_suite": "2",
+      "source_title": "2021年12月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2021-12-3",
+      "section": "writing",
+      "original_file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第3套）.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-12-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-12-1_part1.html",
+      "reference_sha256": "48b2939557090815955ff1c6a61cd00ce5cdf5e6999f8a473443ba6ee9ff8d32",
+      "web_suite": "1",
+      "local_suite": "3",
+      "source_title": "2021年12月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2021-06-1",
+      "section": "writing",
+      "original_file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第1套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-06-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-06-1_part1.html",
+      "reference_sha256": "2edd116be4c1fd8c040fb093ef7e4e89fc5732f3538a161dfb95e51bc558c7e4",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2021年6月英语六级真题第1套 写作（图表 / 漫画大作文）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2021-06-2",
+      "section": "writing",
+      "original_file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第2套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-06-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-06-2_part1.html",
+      "reference_sha256": "1df7deedf7cb7b1795bdea358aef34d917b0e146b3c4bebb44b595527fe12c99",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2021年6月英语六级真题第2套 写作（图表 / 漫画大作文）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2021-06-3",
+      "section": "writing",
+      "original_file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-06-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-06-3_part1.html",
+      "reference_sha256": "e644a6567eaed28b6cb78fa18319a4fded1c51a8eeff4fccb6a377d58e72eb31",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2021年6月英语六级真题第3套 写作（图表 / 漫画大作文）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2022-06-1",
+      "section": "writing",
+      "original_file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第1套【可复制可搜索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-06-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-06-1_part1.html",
+      "reference_sha256": "8b928a1cfd41619bd1baee82bdbe727b4896d4b649e510cf2509533425d4d3f7",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2022年6月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2022-06-2",
+      "section": "writing",
+      "original_file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第2套【可复制可搜索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-06-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-06-2_part1.html",
+      "reference_sha256": "4c1ed458878dfc4208705b4463e6a6465d4980686c1461c691646f3706c4d7a3",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2022年6月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2022-06-3",
+      "section": "writing",
+      "original_file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第3套【可复制可搜索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-06-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-06-3_part1.html",
+      "reference_sha256": "54257d7e511c99499196008574a1395a592a5c56496906f76797b22584951359",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2022年6月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2022-12-1",
+      "section": "writing",
+      "original_file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第1套【可复制可搜索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-12-1/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-12-1_part1.html",
+      "reference_sha256": "feaf551d71b8f4ff4877db976b725d46a3e1f3d51d544849bfc95ec0ae911245",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2022年12月英语六级真题第1套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2022-12-2",
+      "section": "writing",
+      "original_file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第2套【可复制可搜索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-12-2/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-12-2_part1.html",
+      "reference_sha256": "ce865e0956eab48e39fb29b370c94e194ff17949c2e160458894cab483f2121b",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2022年12月英语六级真题第2套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ]
+    },
+    {
+      "id": "2022-12-3",
+      "section": "writing",
+      "original_file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第3套【可复制可搜索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-12-3/part1/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-12-3_part1.html",
+      "reference_sha256": "21114c0393c719ed38dc1398c644df57e8b66b513af784e8925f0f68160da4bc",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2022年12月英语六级真题第3套 写作（四六级短文写作）题目、参考范文与写作解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "题意中文翻译",
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "英文参考范文",
+        "范文中文参考译文"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2025-12-1",
+      "section": "translation",
+      "original_file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第1套【可复制可检索，打印首选】.pdf",
+      "original_page": 9,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-12-1_part-iv.html",
+      "reference_sha256": "ee298e9b44d754beac4afadca871de9f489e1676fa86f24c3d2670a1817642b9",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2025年12月英语六级真题第1套 汉译英（段落翻译）（尊老美德的文化与社会介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2025-12-2",
+      "section": "translation",
+      "original_file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第2套【可复制可检索，打印首选】.pdf",
+      "original_page": 9,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-12-2_part-iv.html",
+      "reference_sha256": "9254ca0c6f3572082cd810c53eb6c935a87bd4b0b108d787b80e285e9548393d",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2025年12月英语六级真题第2套 汉译英（段落翻译）（客观介绍中华民族自强自立精神及其成就）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2025-12-3",
+      "section": "translation",
+      "original_file": "1、2025年12月CET6真题+解析+听力音频全3套\\2025.12六级真题第3套【可复制可检索，打印首选】.pdf",
+      "original_page": 6,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-12-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-12-3_part-iv.html",
+      "reference_sha256": "3cceda3f2202d4490557077a94d942664f52c8734421a19fed764812e278667e",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2025年12月英语六级真题第3套 汉译英（段落翻译）（中华节俭美德的文化介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2022-09-1",
+      "section": "translation",
+      "original_file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 11,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-09-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-09-1_part-iv.html",
+      "reference_sha256": "b70c2dd0d17328a598f902f063685c3e4a08e4d2e7c37158dae5d7c7dad68826",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2022年9月英语六级真题第1套 汉译英（段落翻译）（介绍春联这一春节习俗）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2022-09-2",
+      "section": "translation",
+      "original_file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 12,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-09-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-09-2_part-iv.html",
+      "reference_sha256": "d3cbf3b950b985891bc991dae635e75cafbf890574d2d4f1e37ffb61c1d62a44",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2022年9月英语六级真题第2套 汉译英（段落翻译）（客观介绍中国印章的文化与艺术价值）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2022-09-3",
+      "section": "translation",
+      "original_file": "2022年09月CET6真题+解析+听力音频全3套\\2022年09月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 13,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-09-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-09-3_part-iv.html",
+      "reference_sha256": "08d06af979f8f68b6e9bded012806889605a9cc15ba9152e1ff46ff13a6e30db",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2022年9月英语六级真题第3套 汉译英（段落翻译）（客观介绍央视总部大楼）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2023-03-1",
+      "section": "translation",
+      "original_file": "2023年3月CET6真题+解析+听力音频全3套\\2023年03月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 9,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-03-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-03-3_part-iv.html",
+      "reference_sha256": "4adff5eb90f1a35e76b65b56691cc39b80491b91f5a7728be8ff6a2d1d6fadbf",
+      "web_suite": "3",
+      "local_suite": "1",
+      "source_title": "2023年3月英语六级真题第3套 汉译英（段落翻译）（介绍明代地理学家徐霞客的生平与成就）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2023-03-2",
+      "section": "translation",
+      "original_file": "2023年3月CET6真题+解析+听力音频全3套\\2023年03月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 10,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-03-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-03-2_part-iv.html",
+      "reference_sha256": "04cdb9b96f1d3a75ed124126ced3d0d6852b335c774f0004cfd90b6e1ffa30e7",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2023年3月英语六级真题第2套 汉译英（段落翻译）（郑和生平与下西洋功绩的历史介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2023-03-3",
+      "section": "translation",
+      "original_file": "2023年3月CET6真题+解析+听力音频全3套\\2023年03月六级真题全3套【可复制可划线查词】.pdf",
+      "original_page": 11,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-03-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-03-1_part-iv.html",
+      "reference_sha256": "0b9d1d5b646e9f3430d80f90bdee95a3b11f4bbe68b684147936207479a08309",
+      "web_suite": "1",
+      "local_suite": "3",
+      "source_title": "2023年3月英语六级真题第1套 汉译英（段落翻译）（张骞出使西域的历史人物叙述）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2025-06-1",
+      "section": "translation",
+      "original_file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第1套【可复制可检索，打印首选】.pdf",
+      "original_page": 9,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-06-1_part-iv.html",
+      "reference_sha256": "7d5c0be3633a8729472658a1c23b6c5dee44816ad646f87b0b0543220c9b7d21",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2025年6月英语六级真题第1套 汉译英（段落翻译）（客观介绍中国天宫空间站及其成就）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2025-06-2",
+      "section": "translation",
+      "original_file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第2套【可复制可检索，打印首选】.pdf",
+      "original_page": 9,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-06-2_part-iv.html",
+      "reference_sha256": "60f9f69f9b38b1c0b2f6646d3b9ee0892d89eff37341d3cfd2aa303deea50980",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2025年6月英语六级真题第2套 汉译英（段落翻译）（客观介绍粤港澳大湾区的优势、地位与发展规划）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2025-06-3",
+      "section": "translation",
+      "original_file": "3、2025年6月CET6真题+解析+听力音频全3套\\2025.06六级真题第3套【可复制可检索，打印首选】.pdf",
+      "original_page": 6,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2025-06-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2025-06-3_part-iv.html",
+      "reference_sha256": "cf58e220500d3868cc0d4c99610b5f13071be2916224fb6451a8685d4f6273b9",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2025年6月英语六级真题第3套 汉译英（段落翻译）（客观介绍南水北调工程）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2024-12-1",
+      "section": "translation",
+      "original_file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第1套.pdf",
+      "original_page": 9,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-12-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-12-1_part-iv.html",
+      "reference_sha256": "0a9c66603e0cf6c99236bd34b97c90307ef57561fd280e35703a1ee4ceae7218",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2024年12月英语六级真题第1套 汉译英（段落翻译）（客观介绍北斗系统的科技成就）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2024-12-2",
+      "section": "translation",
+      "original_file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第2套.pdf",
+      "original_page": 9,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-12-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-12-2_part-iv.html",
+      "reference_sha256": "4d0c6034e62005244ceffafc317a817bde6c8a692aabf7eec5631f0db7204316",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2024年12月英语六级真题第2套 汉译英（段落翻译）（客观介绍洋山港这一深水港）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2024-12-3",
+      "section": "translation",
+      "original_file": "5、2024年12月CET6真题+解析+听力音频全3套\\2024.12六级真题第3套.pdf",
+      "original_page": 7,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-12-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-12-3_part-iv.html",
+      "reference_sha256": "935c07dac2010d819cb14ce6cee0e0ea640dd3a729939b284f52882250343e76",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2024年12月英语六级真题第3套 汉译英（段落翻译）（中国航天成就发展史介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2024-06-1",
+      "section": "translation",
+      "original_file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第1套）.pdf",
+      "original_page": 10,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-06-1_part-iv.html",
+      "reference_sha256": "dd211f4cdbc3907e4b06096aeb5d33341f7f1c20198dbaaa1e93afa9aa615abc",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2024年6月英语六级真题第1套 汉译英（段落翻译）（客观介绍中国传统婚礼习俗的现状与流程）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2024-06-2",
+      "section": "translation",
+      "original_file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第2套）.pdf",
+      "original_page": 10,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-06-2_part-iv.html",
+      "reference_sha256": "e7bf8b393821b1e22740d62197d91732f45f908a506d2da41369a12ed4130074",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2024年6月英语六级真题第2套 汉译英（段落翻译）（客观介绍竹子在中国的分布、用途与文化象征）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2024-06-3",
+      "section": "translation",
+      "original_file": "7、2024年6月CET6真题+解析+听力音频全3套\\2024年06月大学英语六级考试真题（第3套）.pdf",
+      "original_page": 7,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2024-06-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2024-06-3_part-iv.html",
+      "reference_sha256": "652a839fefc99a34721b4a2f727003ab98c681eb6bbd3c960a51470bf80a301e",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2024年6月英语六级真题第3套 汉译英（段落翻译）（介绍中国扇子的文化与艺术价值）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2023-12-1",
+      "section": "translation",
+      "original_file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第1套.pdf",
+      "original_page": 9,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-12-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-12-1_part-iv.html",
+      "reference_sha256": "9e9f738a3aa05df8ae0aa9624fcf0f349988112037d62b933c0fdba1e8523419",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2023年12月英语六级真题第1套 汉译英（段落翻译）（客观介绍中国养老模式现状与展望）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2023-12-2",
+      "section": "translation",
+      "original_file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第2套.pdf",
+      "original_page": 9,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-12-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-12-2_part-iv.html",
+      "reference_sha256": "61ad63528ac7523ce03e36d8c2862bbf784a199dd473dfb2ca660d377209abfa",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2023年12月英语六级真题第2套 汉译英（段落翻译）（中国人口老龄化的现状与应对）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2023-12-3",
+      "section": "translation",
+      "original_file": "9、2023年12月CET6真题+解析+听力音频全3套\\2023.12六级真题第3套.pdf",
+      "original_page": 6,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-12-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-12-3_part-iv.html",
+      "reference_sha256": "643de308bb9b85fd7c4147ad75820a8322aae03adc81145480cae3be0cce9155",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2023年12月英语六级真题第3套 汉译英（段落翻译）（中国养老服务体系建设的社会现状介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2026-06-1",
+      "section": "translation",
+      "original_file": "补充资料_2026年6月\\2026年06月六级真题第1套_懒笔记整理版.pdf",
+      "original_page": 11,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2026-06-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2026-06-1_part-iv.html",
+      "reference_sha256": "fb23cab494bfff4b2d7d98fdfb41baf8102f57d58faaf6239bb037b057efd6ba",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2026年6月英语六级真题第1套 汉译英（段落翻译）（科技赋能中国医疗的正式客观介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2026-06-2",
+      "section": "translation",
+      "original_file": "补充资料_2026年6月\\2026年06月六级真题第2套_懒笔记整理版.pdf",
+      "original_page": 11,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2026-06-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2026-06-2_part-iv.html",
+      "reference_sha256": "8d5baafce8ed44546b16d27997d6d5ce7d8aba80ca547679e598382fcce70a99",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2026年6月英语六级真题第2套 汉译英（段落翻译）（中国农村电商发展现状介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2026-06-3",
+      "section": "translation",
+      "original_file": "补充资料_2026年6月\\2026年06月六级真题第3套_懒笔记整理版.pdf",
+      "original_page": 8,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2026-06-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2026-06-3_part-iv.html",
+      "reference_sha256": "c68938e12317ae772cea3d80d88f7186186967c1d187ca077bbc6ae54158a54d",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2026年6月英语六级真题第3套 汉译英（段落翻译）（中国无人机产业现状与前景的客观介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2023-06-1",
+      "section": "translation",
+      "original_file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第1套.pdf",
+      "original_page": 8,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-06-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-06-1_part-iv.html",
+      "reference_sha256": "6c4824d8212b174f583c83e022c02bd34fa9304ec65bddf07f3533b3dc4c89c5",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2023年6月英语六级真题第1套 汉译英（段落翻译）（中国文化产品出海现状的客观介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2023-06-2",
+      "section": "translation",
+      "original_file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第2套.pdf",
+      "original_page": 8,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-06-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-06-2_part-iv.html",
+      "reference_sha256": "876d41d9cf18b4ff98d767bbf6b6b3097871375f851371cc92664a8bec5fed22",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2023年6月英语六级真题第2套 汉译英（段落翻译）（城市公共设施改善的社会现象介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2023-06-3",
+      "section": "translation",
+      "original_file": "11、2023年6月CET6真题+解析+听力音频全3套\\2023.6六级真题及解析\\2023.06英语六级真题第3套.pdf",
+      "original_page": 6,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2023-06-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2023-06-3_part-iv.html",
+      "reference_sha256": "2a4b94d0722c51926b1e3b3d320eefd7a67556fa26476772814e4e0663375bd5",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2023年6月英语六级真题第3套 汉译英（段落翻译）（近年中国城市高质量发展与人居环境改善）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2021-12-1",
+      "section": "translation",
+      "original_file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第1套）.pdf",
+      "original_page": 12,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-12-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-12-1_part-iv.html",
+      "reference_sha256": "091772a0c5e89853e1ca2800b00f37407ce971eb2b895e63948dbc7f8941c7bf",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2021年12月英语六级真题第1套 汉译英（段落翻译）（介绍中共一大会址的历史与现状）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2021-12-2",
+      "section": "translation",
+      "original_file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第2套）.pdf",
+      "original_page": 12,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-12-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-12-3_part-iv.html",
+      "reference_sha256": "69955d7a12277b4c175bca6a2bcc2dfef9714b3a7ff7511d844363570c3bf58a",
+      "web_suite": "3",
+      "local_suite": "2",
+      "source_title": "2021年12月英语六级真题第3套 汉译英（段落翻译）（井冈山革命历史与红色地位介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2021-12-3",
+      "section": "translation",
+      "original_file": "2021年12月英语四六级\\2021年12月英语六级真题及答案解析（三套全）\\2021年12月大学英语六级考试题（第3套）.pdf",
+      "original_page": 7,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-12-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-12-2_part-iv.html",
+      "reference_sha256": "b21df1b268253c7594db1eb8146d426333c5a2b18b4d9bd03e60fcb94eaa700a",
+      "web_suite": "2",
+      "local_suite": "3",
+      "source_title": "2021年12月英语六级真题第2套 汉译英（段落翻译）（客观介绍延安的革命圣地地位）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2021-06-1",
+      "section": "translation",
+      "original_file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第1套.pdf",
+      "original_page": 8,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-06-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-06-1_part-iv.html",
+      "reference_sha256": "676815c9fafaa347dab9668a4485f99c3aff63f4491dec36768fdb7cf392e569",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2021年6月英语六级真题第1套 汉译英（段落翻译）（客观介绍海南的地理与发展）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2021-06-2",
+      "section": "translation",
+      "original_file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第2套.pdf",
+      "original_page": 8,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-06-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-06-2_part-iv.html",
+      "reference_sha256": "ed21cf54374da2772a04a47174f9e2968c77b1eb5b359bc8bc47693f79d437dd",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2021年6月英语六级真题第2套 汉译英（段落翻译）（客观介绍青海省的地理、得名、资源与生态地位）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2021-06-3",
+      "section": "translation",
+      "original_file": "2021年6月英语四六级\\2021年6月英语六级真题和答案\\2021.06六级真题第3套.pdf",
+      "original_page": 6,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2021-06-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2021-06-3_part-iv.html",
+      "reference_sha256": "098b76e11199871af17b0c8ed13aa73011b71f4d1c8acf9abee491ff57f9ef47",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2021年6月英语六级真题第3套 汉译英（段落翻译）（客观介绍云南省的地理、生态、民族与旅游）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2022-06-1",
+      "section": "translation",
+      "original_file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第1套【可复制可搜索，打印首选】.pdf",
+      "original_page": 10,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-06-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-06-1_part-iv.html",
+      "reference_sha256": "1a5a35b4e70729ae3311e4175ca82d913c7496766d24120dc6685fafa8585638",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2022年6月英语六级真题第1套 汉译英（段落翻译）（客观介绍卢沟桥的历史与石刻艺术）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2022-06-2",
+      "section": "translation",
+      "original_file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第2套【可复制可搜索，打印首选】.pdf",
+      "original_page": 8,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-06-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-06-2_part-iv.html",
+      "reference_sha256": "1eabe5328d297cf72584e665760a7922e21bd7d9b7aa3a1369cb04dacb38e9c5",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2022年6月英语六级真题第2套 汉译英（段落翻译）（客观介绍南京长江大桥）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    },
+    {
+      "id": "2022-06-3",
+      "section": "translation",
+      "original_file": "2022年06月CET6真题+解析+听力音频全3套\\2022.06英语六级真题PDF\\2022.06六级真题第3套【可复制可搜索，打印首选】.pdf",
+      "original_page": 1,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-06-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-06-3_part-iv.html",
+      "reference_sha256": "a5ecb579fd302995dc0c45fcb40c53ee66ad4ac7e17744bdbd553eb77aad5b8c",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2022年6月英语六级真题第3套 汉译英（段落翻译）（客观介绍赵州桥的历史成就）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2022-12-1",
+      "section": "translation",
+      "original_file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第1套【可复制可搜索，打印首选】.pdf",
+      "original_page": 8,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-12-1/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-12-1_part-iv.html",
+      "reference_sha256": "114cd0711289717bea30ca52c7a4f8d000a7f614a2f5bd2f9a226e5cc795124e",
+      "web_suite": "1",
+      "local_suite": "1",
+      "source_title": "2022年12月英语六级真题第1套 汉译英（段落翻译）（客观介绍青藏高原的概况与生态）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2022-12-2",
+      "section": "translation",
+      "original_file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第2套【可复制可搜索，打印首选】.pdf",
+      "original_page": 8,
+      "original_text_layer_match": true,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-12-2/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-12-2_part-iv.html",
+      "reference_sha256": "ec65997ed7a193b475cf38daa415161f10c48ecb96dd221f91c48ef6cedd0d25",
+      "web_suite": "2",
+      "local_suite": "2",
+      "source_title": "2022年12月英语六级真题第2套 汉译英（段落翻译）（黄土高原的概况与历史介绍）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ]
+    },
+    {
+      "id": "2022-12-3",
+      "section": "translation",
+      "original_file": "2022年12月CET6真题+解析+听力音频全3套\\2022.12六级真题pdf\\2022.12六级真题第3套【可复制可搜索，打印首选】.pdf",
+      "original_page": 6,
+      "original_text_layer_match": false,
+      "question_content_in_cached_page": true,
+      "reference_site": "懒笔记",
+      "reference_url": "https://english-exam.lazynote.cn/cet6/sections/2022-12-3/part-iv/",
+      "reference_local_file": "补充资料_2026年6月\\校对参考\\2022-12-3_part-iv.html",
+      "reference_sha256": "9167311ebf69ced206bd0495823755f51a696074dc9f0678f5bc7d947cbebe59",
+      "web_suite": "3",
+      "local_suite": "3",
+      "source_title": "2022年12月英语六级真题第3套 汉译英（段落翻译）（客观介绍云贵高原的地理与人文）参考译文与逐句解析 · 懒笔记",
+      "reference_status": "单一第三方参考，未完成独立逐题语义复核",
+      "official_answer": false,
+      "editorial_parts": [
+        "主题标题与分类",
+        "主题表达及学习建议"
+      ],
+      "reference_parts": [
+        "整篇参考英译",
+        "来源页面的逐句参考英译"
+      ],
+      "original_match_note": "本次PDF文字层未完整匹配；可能受OCR、图表或字符差异影响，本次未重做原卷OCR，不宣称独立核准。"
+    }
+  ]
+}

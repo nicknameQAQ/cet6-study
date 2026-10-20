@@ -430,4 +430,9 @@ if (D/'core_words_enriched1500.json').exists():
  updated=generate_vocabulary_revision(update_manifest=False)
  MANIFEST=[m for m in MANIFEST if m['kind'] not in ['core','guide']]+updated
  save('pdf_manifest.json',MANIFEST)
+if (D/'writing_replacement_expanded.json').exists():
+ from make_oct20_study_editions import quick_edition,replacements_edition,build_audit
+ additions=[quick_edition(),replacements_edition(build_audit())]
+ MANIFEST=[m for m in MANIFEST if m['kind'] not in ['quick_vocabulary','writing_replacements']]+additions
+ save('pdf_manifest.json',MANIFEST)
 print('DONE PDFs',len(MANIFEST),'pages',sum(p['pages'] for p in MANIFEST),flush=True)
