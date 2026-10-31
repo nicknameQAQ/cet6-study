@@ -1,0 +1,11 @@
+{
+  "version": "2026-10-30",
+  "core": 1500,
+  "reading": 500,
+  "overlap": 336,
+  "union": 1664,
+  "core_reading_examples": 1239,
+  "core_listening_examples": 261,
+  "translation_note": "参考译文按原句编写或校订；不视作官方答案或教师审定译文",
+  "scope": "阅读500独立按阅读正文出现次数排序，不排除1500中已有词"
+}

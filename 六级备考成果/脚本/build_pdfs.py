@@ -436,3 +436,7 @@ if (D/'writing_replacement_expanded.json').exists():
  MANIFEST=[m for m in MANIFEST if m['kind'] not in ['quick_vocabulary','writing_replacements']]+additions
  save('pdf_manifest.json',MANIFEST)
 print('DONE PDFs',len(MANIFEST),'pages',sum(p['pages'] for p in MANIFEST),flush=True)
+
+if (D/'阅读配句修订配置.json').exists():
+ from make_reading_editions import generate as generate_reading_editions
+ generate_reading_editions()

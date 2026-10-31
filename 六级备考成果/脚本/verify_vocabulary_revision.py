@@ -11,6 +11,9 @@ def save(n,v):(D/n).write_text(json.dumps(v,ensure_ascii=False,indent=2),encodin
 def norm(t):return re.sub('[^A-Za-z0-9]','',t).lower()
 def normzh(t):return re.sub('[^\u4e00-\u9fff0-9]','',t)
 def verify():
+ if (D/'阅读配句修订配置.json').exists():
+  from verify_reading_editions import verify as current_verify
+  return current_verify()
  manifest=load('pdf_manifest.json');old=load('验收报告.json');oldchecks={r['file']:r for r in old['pdf_checks']};checks=[];errors=[];glyph=[];linkerrs=[];sheets=[];allpages=0;rendered=0;font=ImageFont.truetype(r'C:\Windows\Fonts\msyh.ttc',16)
  revisions=[m for m in manifest if m['kind'] in ['core','guide','writing_translation']]
  pagecounts={m['file']:m['pages'] for m in manifest}

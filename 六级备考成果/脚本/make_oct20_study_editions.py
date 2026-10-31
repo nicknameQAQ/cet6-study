@@ -27,6 +27,9 @@ def archive_previous():
   if p.exists() and not (target/p.name).exists():shutil.copy2(p,target/p.name)
 
 def quick_edition():
+ if (D/'阅读配句修订配置.json').exists():
+  from make_reading_editions import quick_edition as current_quick
+  return current_quick()
  rows=load('core_words_enriched1500.json');assert len(rows)==len({r['word'] for r in rows})==1500
  path=OUT/'06_核心词汇1500速记_仅单词与英音.pdf';c=Canvas(str(path),pagesize=A4,pageCompression=1)
  c.setTitle('核心词汇1500速记 - 单词与英音');c.setAuthor('六级学习资料整理')

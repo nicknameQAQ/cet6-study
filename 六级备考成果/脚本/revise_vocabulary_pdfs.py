@@ -34,6 +34,7 @@ def P(t,sty='body',markup=False):
  if not markup:
   t=escape(t).replace('\n','<br/>')
   t=re.sub(r'/([^/<>\n]{1,85})/',lambda m:('<font name="IPA">/'+m[1]+'/</font>') if re.search('[əɜːɪʊʃʒθðŋæɒʌɑɔɛˈˌɡɚɐɹɝʔ]',m[1]) else m[0],t)
+ if sty=='en':t=re.sub(r'[\u3400-\u9fff]+',lambda m:'<font name="CN">'+m[0]+'</font>',t)
  return Paragraph(t,ST[sty])
 def H(t,key,level=0):
  p=P(t,'h1' if level==0 else 'h2');p.nav=(t,level,key);return p
@@ -63,10 +64,12 @@ def remote_links(path,links):
   tmp=path.with_suffix('.linked.pdf');pdf.save(tmp,garbage=4,deflate=True)
  os.replace(tmp,path)
 def short_item(t):return f"{t['word']}  {t['ipa_uk']}  {t['pos']} {t['meaning']}"
-def volume_story(rows,vol,idx):
+def volume_story(rows,vol,idx,book_label='核心词汇1500'):
  tier='进阶与搭配突破' if vol<=10 else '熟词深化与查漏'
- title=f'核心词汇1500 · 第{vol:02d}卷'
- story=[P(title,'title'),P(tier+'  |  '+str(rows[0]['rank'])+'-'+str(rows[-1]['rank'])+'词','label'),P('先看英文自测，再读音标与真题语境。认识、听得出、会使用分别打勾；熟悉且能正确使用的条目可快速跳过。'),P('近义词按义项比较；部分术语使用释义转述，并明确说明不能原位互换。扩展词不计入1500个主词条，也不增加真题频次。'),P('英音为主。公开词表采用较细的音值记录，重音置于重读元音前的写法与学习词典略有差别。多音词另列词性读音。','small'),P('出处页码为PDF物理页码。跨文件跳转需要把完整学习资料放在同一文件夹；日常包未包含全部原文册时可按页码在完整包中查阅。','small'),PageBreak(),H('本卷目录','contents')]
+ title=f'{book_label} · 第{vol:02d}卷'
+ story=[P(title,'title'),P(('阅读正文频次排序' if book_label.startswith('阅读') else tier)+'  |  '+str(rows[0]['rank'])+'-'+str(rows[-1]['rank'])+'词','label'),P('先看英文自测，再读音标与真题语境。认识、听得出、会使用分别打勾；熟悉且能正确使用的条目可快速跳过。'),P('近义词按义项比较；部分术语使用释义转述，并明确说明不能原位互换。扩展词不增加主词条数量，也不增加真题频次。'),P('英音为主。公开词表采用较细的音值记录，重音置于重读元音前的写法与学习词典略有差别。多音词另列词性读音。','small'),P('原句优先取阅读正文；原1500中暂无清晰阅读配句的词保留已标明的听力例句。中文是整理者编写或校订的参考译文，不是官方译文。','small'),P('出处页码为PDF物理页码。全部出处链接通往完整索引，其原总频次与本册阅读专用频次口径不同。原卷按文件名和页码查阅。','small'),PageBreak(),H('本卷目录','contents')]
+ if book_label.startswith('阅读'):
+  story.insert(5,P('500词按阅读正文总出现次数排序，排除题干、选项、解析及指令。保留有内容意义的常见词，因此包含基础词；与1500词重合336词，合计1664个不同主词。','small'))
  for j in range(0,len(rows),10):
   g=rows[j:j+10];key='group-'+str(g[0]['rank']);name=f"第{(g[0]['rank']-1)//10+1:03d}组  {g[0]['word']} - {g[-1]['word']}"
   story.append(P(f'<link href="#{key}" color="#24596B">{escape(name)}</link>',markup=True))
@@ -75,21 +78,26 @@ def volume_story(rows,vol,idx):
   k=row['word'];e=row['example'];v=row['statistics']
   if j:story.append(PageBreak())
   if j%10==0:story.append(H(f"第{(row['rank']-1)//10+1:03d}组  {row['tier']}",'group-'+str(row['rank'])))
-  story.append(H(f"{row['rank']:04d}  {k}",'word-'+k,1))
+  story.append(H(f"{row['rank']:04d}  {row.get('display_word',k)}",'word-'+k,1))
   tag=row.get('context_pos',e['pos'])
   pos={'CD':'num.','CC':'conj.'}.get(tag) or {'N':'n.','V':'v.','J':'adj.','R':'adv.','I':'prep./conj.','M':'modal','D':'限定词'}.get(tag[:1],tag)
   story.append(P('英 '+row['ipa_uk']+'   '+pos+' '+row['meaning']))
   if row['sound_note']:story.append(P(row['sound_note'],'small'))
-  story.append(P(f"真题 {v['exam_count']}次 · 覆盖 {v['exam_coverage']}考次 · 2024-2026年 {v['exam_recent']}次 · 参考表达另计 {v['reference_count']}次",'small'))
-  story.append(P('题型：'+'；'.join(t+str(v['categories'].get(t,0)) for t in ['听力原文','听力选项','阅读真题','作文题干']),'small'))
+  if row.get('statistics_scope')=='reading_body':
+   story.append(P(f"阅读正文 {v['exam_count']}次 · 覆盖 {v['exam_coverage']}考次 · 2024-2026年 {v['exam_recent']}次",'small'))
+   story.append(P('阅读题型：'+'；'.join(t+str(v['categories'].get(t,0)) for t in ['选词填空','长篇阅读','仔细阅读']),'small'))
+  else:
+   story.append(P(f"真题 {v['exam_count']}次 · 覆盖 {v['exam_coverage']}考次 · 2024-2026年 {v['exam_recent']}次 · 参考表达另计 {v['reference_count']}次",'small'))
+   story.append(P('题型：'+'；'.join(t+str(v['categories'].get(t,0)) for t in ['听力原文','听力选项','阅读真题','作文题干']),'small'))
   story.append(P('真题搭配：'+' / '.join(x['phrase'] for x in row['collocations'])))
-  story.append(label('真题语境 · 完整双语段落'))
+  story.append(label('真题原句 · 中英对照' if e.get('sentence_only') else '真题语境 · 完整双语段落'))
   # Full aligned paragraphs avoid incorrectly presenting a paragraph translation
   # as though it translated only the single extracted example sentence.
-  en=escape(e['paragraph_en']);pattern=r'(?<![A-Za-z])('+re.escape(e['form'])+r')(?![A-Za-z])';en=re.sub(pattern,r'<b>\1</b>',en,flags=re.I)
+  en=escape(e.get('display_text',e['paragraph_en']));pattern=r'(?<![A-Za-z])('+re.escape(e['form'])+r')(?![A-Za-z])';en=re.sub(pattern,r'<b>\1</b>',en,flags=re.I)
   story.append(P(en,'en',True));story.append(P(e['paragraph_zh']))
   src=e['sources'][0];sp=e['paragraph_source'];source_label=Path(sp['file']).name
-  story.append(P(f"{src['session']} 第{src['suite']}套 · {e['category']} · {src['locator']}",'small'))
+  story.append(P(f"{src['session']} 第{src['suite']}套 · {e.get('source_display_locator',e['category']+' · '+src['locator'])}",'small'))
+  if e.get('ocr_display_corrections'):story.append(P('原句展示已校订OCR字形或标点；后台保留未改原文。','small'))
   story.append(P(f"原文页：{source_label} p{sp.get('paragraph_start_page',sp['page'])}",'small'))
   original=src.get('local_pdf_match') or src.get('local_prompt_pdf')
   if original:story.append(P('本地原卷：'+Path(original['file']).name+' p'+str(original.get('page') or original.get('page_range')),'small'))
@@ -108,20 +116,20 @@ def volume_story(rows,vol,idx):
   if row['families']:
    for a in row['families']:story.append(P(short_item(a)));story.append(P(a['relation'],'small'))
   else:story.append(P('未收录已核实的常用派生词；不据拼写相似推断同根。','small'))
-  target=idx[k];story.append(P(f"全部出处：{target['file']} p{target['page']}",'small'))
+  target=idx[row.get('corpus_lemma',k)];story.append(P(f"全部出处：{target['file']} p{target['page']}",'small'))
   story.append(P('认识[ ]  听辨[ ]  会用[ ]    次日[ ]  3日[ ]  7日[ ]  14日[ ]','small'))
   story.append(Spacer(1,6))
  story.append(PageBreak());story.append(H('本卷字母索引','alphabet'))
- for r in sorted(rows,key=lambda x:x['word']):story.append(P(f'<link href="#word-{r["word"]}" color="#24596B">{r["word"]}  ·  {r["rank"]:04d}</link>','body',True))
+ for r in sorted(rows,key=lambda x:x['word']):story.append(P(f'<link href="#word-{r["word"]}" color="#24596B">{r.get("display_word",r["word"])}  ·  {r["rank"]:04d}</link>','body',True))
  return title,story
 def guide(rows,locations,idx):
  story=[P('六级1500词使用指南','title'),P('公开学习资料','label'),P('按主题阅读学习册，使用跨卷索引核对词汇和出处。')]
  story.append(H('如何使用新版词汇页','cards'))
- for t in ['每词包含英音、词性、词义、真题搭配、完整双语语境和来源位置。较长词条允许跨页，保持正文可读。','近义辨析注明适用义项与结构限制；无可靠单词近义词的术语提供释义转述，并标明不能原位互换。','同根关系与形近关系分开。派生词是另一个词条，不与主词合并词频。拓展词的出现频率不冒充主词频率。','音标中的重音符号指示后续音节或元音重读。公开英音词表的细音值记法与学习词典可能不同；词性变音另行说明。','原句采用完整段落，是为了让英文与中文准确对照。范文、参考译文与自编练习不计入真题正文频次。','PDF正文可搜索、可批注。目录跳转在单个文件内有效；跨文件链接依赖阅读器支持，并需保留同目录文件名。']:story.append(P(t))
- story.append(H('写作100组替换的练法','writing'))
- for t in ['写作册保留39篇范文与39道翻译双语对照、19个主题词库、40个句式和原20道翻译练习。','新增60组单词替换、40组短语替换，按8个作文主题组织；32道新练习单独集中给出答案。','先遮住改写例句，只看基础句和目标表达自己改写；再对照中文检查主语、因果、程度和范围。','important→essential、reduce→minimise等可能增强程度；词更长不意味着表达更准确。','每组新例句均明确标为自编练习。匹配到的已有范文出处用于回到真实主题语境。']:story.append(P(t))
+ for t in ['每词包含英音、词性、语境义、真题搭配、单句中英对照和来源位置。06速记现含单词、音标、中文义；08为阅读500五卷详解，09为相同500词的速记。','近义辨析注明适用义项与结构限制；无可靠单词近义词的术语提供释义转述，并标明不能原位互换。','同根关系与形近关系分开。派生词是另一个词条，不与主词合并词频。拓展词的出现频率不冒充主词频率。','音标中的重音符号指示后续音节或元音重读。公开英音词表的细音值记法与学习词典可能不同；词性变音另行说明。','原1500中1239词采用阅读正文例句，261词保留清晰的听力原句并标明。短语也只显示对应句子和该句中译。参考译文为整理者编写或校订，不是官方答案。','PDF正文可搜索、可批注。目录跳转在单个文件内有效；跨文件链接依赖阅读器支持，并需保留同目录文件名。']:story.append(P(t))
+ story.append(H('写作140组替换的练法','writing'))
+ for t in ['写作册保留39篇范文与39道翻译双语对照、19个主题词库、40个句式和原20道翻译练习。','写作替换独立放在07册：80组单词、60组短语指导，64道练习、8篇主题段落改写与16类误用。','先遮住改写例句，只看基础句和目标表达自己改写；再对照中文检查主语、因果、程度和范围。','important→essential、reduce→minimise等可能增强程度；词更长不意味着表达更准确。','每组新例句均明确标为自编练习。匹配到的已有范文出处用于回到真实主题语境。']:story.append(P(t))
  story.append(H('统计口径与资料来源','method'))
- for t in ['统计范围：2021年至2026年6月的70份六级PDF，共1027个输入页面；192页使用OCR。学习重点为2024-2026年。','保留9153个可靠索引词条；15条编码残缺原句未计入可靠统计。此次词汇扩展不重计或改变原有真题频次。','试卷正文、听力原文、参考范文和参考译文分开计数。相同材料去重后保留各套出处；单复数和时态等屈折变化合并，派生词单列。','扩展资料：ECDICT中英词典、Princeton WordNet词义及派生关系、open-dict-data英音词表。编辑辨析与释义转述已标明，不视作真题原文。','补充音频保留2026年6月两套；其他年份音频仍按原资料文件夹存放。写作与翻译参考表达来自第三方，不是唯一答案。']:story.append(P(t))
+ for t in ['统计范围：2021年至2026年6月的70份六级PDF，共1027个输入页面；192页使用OCR。学习重点为2024-2026年。','保留9153个可靠索引词条；15条编码残缺原句未计入可靠统计。原1500总频次保持不变；另统计阅读正文专用频次选500词，与原词库重合336词，共1664个不同主词。','试卷正文、听力原文、参考范文和参考译文分开计数。相同材料去重后保留各套出处；单复数和时态等屈折变化合并，派生词单列。','扩展资料：ECDICT中英词典、Princeton WordNet词义及派生关系、open-dict-data英音词表。编辑辨析与释义转述已标明，不视作真题原文。','补充音频保留2026年6月两套；其他年份音频仍按原资料文件夹存放。写作与翻译参考表达来自第三方，不是唯一答案。']:story.append(P(t))
  for title,url in [('英音词表与来源许可','https://github.com/open-dict-data/ipa-dict'),('WordNet','https://wordnet.princeton.edu/'),('ECDICT','https://github.com/skywind3000/ECDICT'),('六级成绩解释','https://cet.neea.cn/html1/folder/19081/5124-1.htm')]:story.append(P(f'<link href="{url}" color="#24596B">{title}</link>','small',True))
  story.append(PageBreak());story.append(H('1500词跨卷索引','cross-index'));story.append(P('V01表示第01卷。点击卷页标签可打开对应文件；阅读器不支持时可按卷号和物理页码手动查找。','small'))
  links=[]
@@ -136,12 +144,23 @@ def guide(rows,locations,idx):
    if len(line)==2:line.extend([P(''),P('')])
    cells.append(line)
   table=Table(cells,colWidths=[160,89,160,90]);table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),1),('RIGHTPADDING',(0,0),(-1,-1),3),('TOPPADDING',(0,0),(-1,-1),2),('BOTTOMPADDING',(0,0),(-1,-1),2)]));story.append(table)
+ if (D/'reading_vocabulary_volume_index.json').exists():
+  story.extend([PageBreak(),H('阅读500词跨卷索引','reading-cross-index'),P('R01表示08册第01卷。按阅读正文频次排序，与原1500重合336词；速记对应09册。此处按字母查详解卷页。','small')])
+  rloc=load('reading_vocabulary_volume_index.json');rr=load('reading_words_enriched500.json')
+  cells=[]
+  for i in range(0,len(rr),2):
+   line=[]
+   for r in sorted(rr,key=lambda x:x['word'])[i:i+2]:
+    word=r.get('display_word',r['word']);loc=rloc[word];tag=f"R{loc['volume']:02d} p{loc['page']:03d}";line.extend([P(word,'en'),P(tag,'small')]);links.append(dict(text=tag,target=loc['file'],target_page=loc['page']))
+   if len(line)==2:line.extend([P(''),P('')])
+   cells.append(line)
+  table=Table(cells,colWidths=[160,89,160,90]);table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),1),('RIGHTPADDING',(0,0),(-1,-1),3),('TOPPADDING',(0,0),(-1,-1),2),('BOTTOMPADDING',(0,0),(-1,-1),2)]));story.append(table)
  story.append(PageBreak());story.append(H('完整出处索引的文件代码','files'))
  for x in load('source_id_catalogue.json'):story.append(P(x['id']+'  '+x['file'],'small'))
  target=OUT/'00_使用指南与备考安排.pdf';doc,m=save_pdf(target,'六级1500词使用指南',story,'guide')
  docpdf=fitz.open(target);bytag={x['text']:x for x in links};actual=[]
  for pn,page in enumerate(docpdf,1):
-  for tag in re.findall(r'V\d{2} p\d{3}',page.get_text()):
+  for tag in re.findall(r'[VR]\d{2} p\d{3}',page.get_text()):
    if tag in bytag:actual.append(dict(bytag[tag],page=pn))
  docpdf.close();remote_links(target,actual)
  return m
@@ -166,6 +185,7 @@ def generate(update_manifest=True):
     if re.search(re.escape(re.sub(r'\s+','',tag))+r'(?!\d)',normal):links.append(dict(page=pn,text=target['file'],target=target['file'],target_page=target['page']))
    for r in group:
     sp=r['example']['paragraph_source'];fname=Path(sp['file']).name
+    if sp.get('is_original_pdf'):continue
     start=sp.get('paragraph_start_page',sp['page']);tag='原文页：'+fname+'p'+str(start)
     if re.search(re.escape(tag)+r'(?!\d)',normal):links.append(dict(page=pn,text=fname,target=fname,target_page=start))
   pdf.close();remote_links(path,links)

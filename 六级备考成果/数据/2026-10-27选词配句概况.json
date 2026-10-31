@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-27",
+  "reading_units": 562,
+  "duplicate_body_units": 0,
+  "sessions": [
+    "2021-06",
+    "2021-12",
+    "2022-06",
+    "2022-09",
+    "2022-12",
+    "2023-03",
+    "2023-06",
+    "2023-12",
+    "2024-06",
+    "2024-12",
+    "2025-06",
+    "2025-12",
+    "2026-06"
+  ],
+  "selected_reading_words": 500,
+  "overlap_with_core1500": 336,
+  "core_reading_examples": 1239,
+  "core_fallback_examples": 261,
+  "unique_sentences": 799,
+  "word_targets": 1664,
+  "phrase_targets": 100,
+  "scope": "仅阅读正文；排除题干选项解析；选词填空保留原空缺；同考次重复长材料按整单元合并"
+}

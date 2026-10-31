@@ -11,8 +11,8 @@ from vocabulary_paraphrases import PARAPHRASES
 def load(n):return json.loads((D/n).read_text(encoding='utf-8'))
 def save(n,v):(D/n).write_text(json.dumps(v,ensure_ascii=False,indent=2),encoding='utf-8')
 def words(t):return re.findall('[a-z]+',t.lower())
-def main():
- rows=load('vocabulary_revision_candidates.json');dictionary=load('vocabulary_revision_dictionary.json');W=load('word_statistics.json');SL={s['id']:s for s in load('sentences.json')}
+def main(input_name='vocabulary_revision_candidates.json', output_names=None, use_original_context_overrides=True, audit_name='vocabulary_enrichment_audit.json'):
+ rows=load(input_name);dictionary=load('vocabulary_revision_dictionary.json');W=load('word_statistics.json');SL={s['id']:s for s in load('sentences.json')}
  ipa={}
  for line in (D/'pronunciation/en_UK.txt').read_text(encoding='utf-8').splitlines():
   if '\t' in line:a,b=line.split('\t',1);ipa[a.lower()]=b
@@ -57,6 +57,7 @@ def main():
  # In-context semantic scoring: same POS, content-word overlap and supplied bilingual context.
  stop=set('the a an of to and in or on for by with from as is are be that this it one something someone person people have make do cause become state quality act action'.split())
  def sense(k,e):
+  if k=='specie' and e.get('form','').lower()=='species':return wn.synset('species.n.01')
   if k in SENSE_OVERRIDES:return wn.synset(SENSE_OVERRIDES[k])
   pos={'N':'n','V':'v','J':'a','R':'r'}.get(e['pos'][:1]);ss=wn.synsets(k,pos=pos) if pos else wn.synsets(k)
   if not ss:ss=wn.synsets(k)
@@ -74,11 +75,11 @@ def main():
   return max(scored,key=lambda x:x[0])[1] if scored else None
  no_syn=[];no_fam=[];tag_cache={}
  for r in rows:
-  k=r['word'];e=r['example'];context_pos=CONTEXT_OVERRIDES.get(k,(e['pos'],''))[0]
+  k=r['word'];e=r['example'];context_pos=CONTEXT_OVERRIDES.get(k,(e['pos'],''))[0] if use_original_context_overrides else r.get('context_pos_editorial',e['pos'])
   r['context_pos']=context_pos
   semantic_example=dict(e,pos=context_pos);s=sense(k,semantic_example);r['sense_id']=s.name() if s else None;r['sense_definition']=s.definition() if s else ''
-  r['meaning']=CONTEXT_OVERRIDES[k][1] if k in CONTEXT_OVERRIDES else POS_GLOSSES.get(k,{}).get({'N':'n','V':'v','J':'a','R':'r'}.get(context_pos[:1]),GLOSSES.get(k,ns['contextual_meaning'](k,e)))
-  r['ipa_uk']=ip(k,context_pos);assert r['ipa_uk'],k
+  r['meaning']=r.get('meaning_editorial') or (CONTEXT_OVERRIDES[k][1] if use_original_context_overrides and k in CONTEXT_OVERRIDES else POS_GLOSSES.get(k,{}).get({'N':'n','V':'v','J':'a','R':'r'}.get(context_pos[:1]),GLOSSES.get(k,ns['contextual_meaning'](k,e))))
+  r['ipa_uk']=r.get('ipa_editorial') or ip(k,context_pos);assert r['ipa_uk'],k
   r['ipa_source']='https://dictionary.cambridge.org/pronunciation/english/'+k if k in UK_OVERRIDES else 'https://github.com/open-dict-data/ipa-dict/blob/master/data/en_UK.txt'
   r['ipa_source_type']='编辑补充英音；链接供词典复核' if k in UK_OVERRIDES else '公开英音词表'
   r['sound_note']=SOUND_NOTES.get(k,'')
@@ -168,10 +169,10 @@ def main():
   if not r['collocations']:
    r['collocations']=[dict(phrase='见下方完整语境',sentence_id=e['id'],source=e['sources'][0],note='未单独截取固定搭配')]
   r.pop('dictionary',None)
-  e['sources'][0]['generated_pdf']={key:e['paragraph_source'][key] for key in ['file','page','paragraph_start_page','sentence_page_verified'] if key in e['paragraph_source']}
+  if not e['paragraph_source'].get('is_original_pdf'):
+   e['sources'][0]['generated_pdf']={key:e['paragraph_source'][key] for key in ['file','page','paragraph_start_page','sentence_page_verified'] if key in e['paragraph_source']}
   if r['rank']%250==0:print('ENRICH',r['rank'],flush=True)
- save('core_words_enriched1500.json',rows)
- save('core_words.json',rows);save('core_words_with_source_pages.json',rows)
- save('vocabulary_enrichment_audit.json',dict(main_words=len(rows),unique_main_words=len(mainwords),new_main_words=1000,existing_main_words=500,uk_ipa_complete=all(r['ipa_uk'] for r in rows),synonym_entries=sum(len(r['synonyms']) for r in rows),words_with_synonyms=sum(bool(r['synonyms']) for r in rows),words_with_paraphrases=sum(bool(r['paraphrase']) for r in rows),words_without_safe_synonym=no_syn,confusable_entries=sum(len(r['confusables']) for r in rows),family_entries=sum(len(r['families']) for r in rows),words_without_verified_family=no_fam,corpus_counts_unchanged=True))
+ for name in (output_names or ['core_words_enriched1500.json','core_words.json','core_words_with_source_pages.json']):save(name,rows)
+ save(audit_name,dict(main_words=len(rows),unique_main_words=len(mainwords),uk_ipa_complete=all(r['ipa_uk'] for r in rows),synonym_entries=sum(len(r['synonyms']) for r in rows),words_with_synonyms=sum(bool(r['synonyms']) for r in rows),words_with_paraphrases=sum(bool(r['paraphrase']) for r in rows),words_without_safe_synonym=no_syn,confusable_entries=sum(len(r['confusables']) for r in rows),family_entries=sum(len(r['families']) for r in rows),words_without_verified_family=no_fam,corpus_counts_unchanged=True))
  print('ENRICH DONE',len(rows),'NO_SYN',len(no_syn),'NO_FAMILY',len(no_fam),flush=True)
 if __name__=='__main__':main()

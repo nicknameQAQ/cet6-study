@@ -52,7 +52,7 @@ assert len(load('translation_originals.json'))==39 and len(load('writing_prompts
 assert len(load('translation_practice.json'))==20 and len(load('listening_worked_examples.json'))==10
 for row in core:
  assert row['example']['id'] in sl and row['word'] in row['example']['lemmata'],row['word']
- assert any(sr.get('generated_pdf',{}).get('sentence_page_verified') for sr in row['example']['sources']),row['word']
+ assert row['example'].get('paragraph_source',{}).get('sentence_page_verified') or any(sr.get('generated_pdf',{}).get('sentence_page_verified') for sr in row['example']['sources']),row['word']
  assert row['statistics']['exam_count']==words[row['word']]['exam_count']
 for word,v in words.items():assert v['count']==len(v['occurrences']) and v['exam_count']+v['reference_count']==v['count'],word
 pagesource=load('句子来源页码核对.json');assert all(r['sentence_page_verified'] for r in pagesource)
@@ -64,7 +64,10 @@ result={'pdf_files':len(manifest),'pages':global_page,'rendered_pages':global_pa
 (D/'验收报告.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
 print('QA SUMMARY',json.dumps({k:result[k] for k in ['pdf_files','pages','rendered_pages','core_words_checked','source_sentences_verified','word_count_invariants_checked']},ensure_ascii=False),flush=True)
 print('ERRORS',len(page_errors),len(glyph_errors),len(link_errors),flush=True)
-if expected_core==1500:
+if (D/'阅读配句修订配置.json').exists():
+ from verify_reading_editions import verify
+ verify()
+elif expected_core==1500:
  from verify_vocabulary_revision import verify
  verify()
 if (D/'writing_replacement_expanded.json').exists():
